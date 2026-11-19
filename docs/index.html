@@ -1,0 +1,9 @@
+<!doctype html><html lang="zh-CN"><meta charset="utf-8"><title>公开视频播放验证</title>
+<h1>公开视频播放验证</h1><video controls autoplay muted playsinline width="640" src="https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/S19.mp4"></video>
+<output id="status">等待视频</output>
+<script>
+const video = document.querySelector('video');
+for (const event of ['loadstart','loadedmetadata','canplay','playing','error']) video.addEventListener(event, () => {
+  document.querySelector('#status').textContent = `${event}; readyState=${video.readyState}; networkState=${video.networkState}; error=${video.error?.code || 'none'}`;
+});
+</script></html>
