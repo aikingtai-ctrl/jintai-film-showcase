@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#173a44"/><stop offset="1" stop-color="#0b0c0f"/></linearGradient>
+<radialGradient id="r" cx="0.5" cy="0.35" r="0.6"><stop offset="0" stop-color="#d8952e" stop-opacity="0.35"/><stop offset="1" stop-color="#d8952e" stop-opacity="0"/></radialGradient></defs>
+<rect width="1600" height="900" fill="url(#g)"/><rect width="1600" height="900" fill="url(#r)"/>
+<text x="800.0" y="468.0" text-anchor="middle" font-family="Segoe UI,Microsoft YaHei,sans-serif" font-size="198.0" font-weight="800" fill="#d8952e" opacity="0.9">夜守灯塔</text>
+<text x="800.0" y="630.0" text-anchor="middle" font-family="Segoe UI,Microsoft YaHei,sans-serif" font-size="67.5" fill="#e6e4dd" opacity="0.8">示例作品 · 海报占位</text>
+<text x="1584" y="886" text-anchor="end" font-family="monospace" font-size="45.0" fill="#9aa" opacity="0.7">占位图 · placeholder</text>
+</svg>

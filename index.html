@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>作品库 · 影片生成过程展示</title>
+<link rel="stylesheet" href="assets/site.css?v=20261119-3">
+</head>
+<body data-page="index">
+<header class="topbar"><div class="wrap">
+  <a class="brand" href="index.html"><img class="logo" src="assets/kingtai-logo.png" alt="KINGTAI" width="34" height="34">KINGTAI · 影片生成档案</a>
+  <span class="spacer"></span>
+  <nav class="nav"><a href="index.html" class="on">作品库</a></nav>
+</div></header>
+
+<section class="hero-index"><div class="wrap">
+  <div class="eyebrow">KINGTAI · AI Film Production Archive</div>
+  <h1>作品档案</h1>
+  <p class="lead">剧情 · 角色与场景 · 分镜 · 提示词 · 生成参数 · 交付。每部影片按制作顺序归档，可回溯到任意一镜。</p>
+  <div class="stats" id="stats"></div>
+</div></section>
+
+<div class="wrap">
+  <div class="toolbar">
+    <input type="search" id="q" placeholder="搜作品名 / 一句话剧情 / 模型…">
+    <button type="button" class="btn gold" id="play-selected" disabled>▶ 全屏连播已选（0）</button>
+    <div class="chips" id="tags" style="display:none"></div>
+  </div>
+  <div class="grid" id="grid"></div>
+</div>
+
+<footer><div class="wrap">KINGTAI · 影片生成档案</div></footer>
+<script src="assets/site.js?v=20261119-3"></script>
+</body>
+</html>
