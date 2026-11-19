@@ -248,6 +248,8 @@ table.shots td img,table.shots td video{width:150px;aspect-ratio:16/9;object-fit
 .lightbox video,.lightbox img{width:100%;max-height:82vh;object-fit:contain;border-radius:10px;background:#000}
 .lightbox .cap{color:var(--muted);text-align:center;margin-top:12px;font-size:.95rem}
 .lightbox .x{position:absolute;right:22px;top:16px;z-index:5;background:none;border:0;color:#fff;font-size:2rem;line-height:1}
+.lightbox .fs{display:none;position:absolute;right:76px;top:16px;z-index:5}
+.lightbox.selected-playlist-on:not(:fullscreen) .fs{display:inline-flex}
 .toast{position:fixed;left:50%;bottom:34px;transform:translateX(-50%);background:var(--gold);color:#111;padding:9px 18px;border-radius:10px;font-weight:700;z-index:120;opacity:0;transition:.2s;pointer-events:none}
 .toast.on{opacity:1}
 footer{border-top:1px solid var(--line);color:var(--dim);font-size:.82rem;padding:34px 0 50px;margin-top:60px}

@@ -47,7 +47,7 @@
   /* ---------- 通用：灯箱 / toast / 复制 ---------- */
   function ensureLightbox() {
     if ($("#lb")) return;
-    document.body.insertAdjacentHTML("beforeend", `<div class="lightbox" id="lb"><button class="x" aria-label="关闭">×</button><div class="inner"><div id="lb-media"></div><div class="cap" id="lb-cap"></div></div></div><div class="toast" id="toast"></div>`);
+    document.body.insertAdjacentHTML("beforeend", `<div class="lightbox" id="lb"><button class="x" aria-label="关闭">×</button><button class="btn sm fs" type="button" aria-label="进入全屏">⛶ 全屏</button><div class="inner"><div id="lb-media"></div><div class="cap" id="lb-cap"></div></div></div><div class="toast" id="toast"></div>`);
     const lb = $("#lb");
     const close = () => {
       const fullscreen = document.fullscreenElement === lb;
@@ -58,6 +58,7 @@
       if (fullscreen) document.exitFullscreen().catch(() => {});
     };
     lb.addEventListener("click", (e) => { if (e.target === lb || e.target.classList.contains("x")) close(); });
+    lb.querySelector(".fs").addEventListener("click", (e) => { e.stopPropagation(); requestPlaylistFullscreen(); });
     document.addEventListener("keydown", (e) => { if (e.key === "Escape") close(); });
     document.addEventListener("fullscreenchange", () => { if (!document.fullscreenElement && lb.classList.contains("selected-playlist-on")) close(); });
   }
@@ -69,6 +70,12 @@
     $("#lb").classList.add("on");
   };
   function toast(msg) { ensureLightbox(); const t = $("#toast"); t.textContent = msg; t.classList.add("on"); clearTimeout(t._h); t._h = setTimeout(() => t.classList.remove("on"), 1600); }
+  function requestPlaylistFullscreen() {
+    const lb = $("#lb");
+    if (!lb?.requestFullscreen) { toast("当前浏览器不支持全屏，已在窗口内连播"); return; }
+    try { lb.requestFullscreen().catch(() => toast("浏览器未进入全屏，已在窗口内连播")); }
+    catch { toast("浏览器未进入全屏，已在窗口内连播"); }
+  }
   window.copyText = async function (txt, label) {
     try { await navigator.clipboard.writeText(txt); toast(`已复制${label ? "：" + label : ""}`); }
     catch { const ta = document.createElement("textarea"); ta.value = txt; document.body.appendChild(ta); ta.select(); document.execCommand("copy"); ta.remove(); toast("已复制"); }
@@ -267,11 +274,8 @@
       $("#lb-media").innerHTML = `<div class="playlist"></div>`;
       $("#lb-cap").textContent = `已选 ${works.length} 部作品，共 ${clips.length} 段 · 按点选顺序连播`;
       lb.classList.add("on", "selected-playlist-on");
+      requestPlaylistFullscreen();
       mountPlaylist($("#lb-media .playlist"), clips, { autoplay: true, repeat: false, hint: "已选作品连播", nav: "段" });
-      if (lb.requestFullscreen) {
-        try { lb.requestFullscreen().catch(() => toast("浏览器未进入全屏，已在窗口内连播")); }
-        catch { toast("浏览器未进入全屏，已在窗口内连播"); }
-      } else toast("当前浏览器不支持全屏，已在窗口内连播");
     });
     $("#q").addEventListener("input", (e) => { q = e.target.value.trim().toLowerCase(); draw(); });
     $("#tags").addEventListener("click", (e) => { const c = e.target.closest(".chip"); if (!c) return; tag = tag === c.dataset.t ? "" : c.dataset.t; [...$("#tags").children].forEach((x) => x.classList.toggle("on", x.dataset.t === tag)); draw(); });
