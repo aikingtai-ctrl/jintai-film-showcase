@@ -153,7 +153,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/sanbengzi-luxury-h3-lc-136s--a9b89fa5e55adcea920b.mp4",
-      "thumb": "assets/shots/S01.jpg",
+      "thumb": "media/img-28c40a6a05be89763e83.jpg",
       "model": "FeiHou_MiniMax-H3_Remix_HSA_v0.7 + Breeze TTS 2 / LC",
       "params": "1280×720 @ 24fps",
       "status": "已合入成片"
@@ -174,7 +174,7 @@ window.registerProject({
         }
       ],
       "video": "",
-      "thumb": "assets/shots/S02.jpg",
+      "thumb": "media/img-608b9589b2b9e793e69b.jpg",
       "model": "FeiHou_MiniMax-H3_Remix_HSA_v0.7 + Breeze TTS 2 / LC",
       "params": "1280×720 @ 24fps",
       "status": "已合入成片"
@@ -195,7 +195,7 @@ window.registerProject({
         }
       ],
       "video": "",
-      "thumb": "assets/shots/S03.jpg",
+      "thumb": "media/img-70e57d80820ffe63cde7.jpg",
       "model": "FeiHou_MiniMax-H3_Remix_HSA_v0.7 + Breeze TTS 2 / LC",
       "params": "1280×720 @ 24fps",
       "status": "已合入成片"
@@ -216,7 +216,7 @@ window.registerProject({
         }
       ],
       "video": "",
-      "thumb": "assets/shots/S04.jpg",
+      "thumb": "media/img-5f32c33795ef89b121e8.jpg",
       "model": "FeiHou_MiniMax-H3_Remix_HSA_v0.7 + Breeze TTS 2 / LC",
       "params": "1280×720 @ 24fps",
       "status": "已合入成片"

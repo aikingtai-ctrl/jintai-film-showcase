@@ -80,7 +80,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/shinjuku-shadow-chase-15s--a450a012029f55c53ef4.mp4",
-      "thumb": "assets/shots/S01.jpg",
+      "thumb": "media/img-22e0064cdf3211c8b138.jpg",
       "model": "seedance2.5",
       "params": "15s · seedance2.5 · 21:9 · jimeng_multimodal2video",
       "status": "已生成",

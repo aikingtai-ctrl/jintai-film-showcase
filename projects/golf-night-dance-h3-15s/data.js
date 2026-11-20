@@ -123,7 +123,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/golf-night-dance-h3-15s--b8e2c5430796f3ea826a.mp4",
-      "thumb": "assets/shots/S01.jpg",
+      "thumb": "media/img-d7fc2a27c5018fb94d32.jpg",
       "model": "FeiHou MiniMax H3 + FaceRefine V2",
       "params": "1080×1920 @ 24fps · 15.125s",
       "status": "已生成 (V2精修)"

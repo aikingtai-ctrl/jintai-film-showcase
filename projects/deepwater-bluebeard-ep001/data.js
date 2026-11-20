@@ -67,7 +67,7 @@ window.registerProject({
       "prompt": "[参考图绑定] @image1 为南洋珊瑚岛悬崖泳池夜景与雨夜冷暖光影唯一基准，@image2 锁定37岁窄长冷白背头无眼镜男演员周叙白微湿白亚麻装及铂金机械表造型，@image3 锁定25岁香槟金真丝睡袍女演员沈知夏外貌，@image4 锁定半碎高脚香槟杯与白色沉淀物道具。生成一段15秒、9:16竖屏仿真人电影级悬疑短剧画面。（角色参考图仅提取面部骨相与服装材质，严禁复制灰底三视图拼版分栏）\n0-4秒：大雨瓢泼的夜间悬崖泳池露台，低机位切入水底暖光映出池壁浅水区瓷砖刻度，身穿香槟金真丝睡袍的沈知夏双目轻阖静静仰浮在浅水中。4-10秒：同轴推近湿透白亚麻衬衫的周叙白跪在青石池畔扶住她肩膀抬头惊慌大喊 {周叙白：知夏！来人啊，快叫医生！她喝醉滑进泳池里了！} 说话完整后咬紧下唇微颤。10-15秒：同轴下摇微距特写，白色闪电骤亮照出周叙白挽起袖口的右小臂内侧三道浅褐色细长指甲刮擦印，镜头边缘带出湿青石地上半碎香槟杯底白色粉末。(不生成BGM，仅保留暴雨真实环境音) <急促暴雨砸水面声、闷雷滚动声、喘息呼喊声> 全程严禁出现字幕、水印、人物变脸或多余肢体。",
       "refs": [],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/deepwater-bluebeard-ep001--46ecb048576bc1e68a7b.mp4",
-      "thumb": "assets/shots/EP001_B01.jpg",
+      "thumb": "../../assets/media/img-8599de10adab70bf388c.jpg",
       "model": "Seedance 2.5",
       "params": "15s · Seedance 2.5 · 9:16",
       "status": "已生成",
@@ -107,7 +107,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/deepwater-bluebeard-ep001--4be1ff42bdda2d824168.mp4",
-      "thumb": "assets/shots/S01.jpg",
+      "thumb": "../../assets/media/img-71c4995fb215e9cbe348.jpg",
       "model": "seedance2.5",
       "params": "15s · seedance2.5 · 9:16 · jimeng_multimodal2video",
       "status": "已生成",
@@ -155,7 +155,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/deepwater-bluebeard-ep001--b74ebf2e54557d723950.mp4",
-      "thumb": "assets/shots/S02.jpg",
+      "thumb": "../../assets/media/img-4034b342fe7744f443e4.jpg",
       "model": "seedance2.5",
       "params": "15s · seedance2.5 · 9:16 · jimeng_multimodal2video",
       "status": "已生成",
@@ -207,7 +207,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/deepwater-bluebeard-ep001--9d90ffae3cbd041aa4f3.mp4",
-      "thumb": "assets/shots/S03.jpg",
+      "thumb": "../../assets/media/img-f50481f1ec6bdf2b3b16.jpg",
       "model": "seedance2.5",
       "params": "15s · seedance2.5 · 9:16 · jimeng_multimodal2video",
       "status": "已生成",
@@ -259,7 +259,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/deepwater-bluebeard-ep001--3dba270aca71fd43b349.mp4",
-      "thumb": "assets/shots/S04.jpg",
+      "thumb": "../../assets/media/img-f35e044ac744eb40dc93.jpg",
       "model": "seedance2.5",
       "params": "15s · seedance2.5 · 9:16 · jimeng_multimodal2video",
       "status": "已生成",
@@ -311,7 +311,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/deepwater-bluebeard-ep001--ddc00ccb15a097df3a83.mp4",
-      "thumb": "assets/shots/S05.jpg",
+      "thumb": "../../assets/media/img-f983b92eb3b1211f3360.jpg",
       "model": "seedance2.5",
       "params": "15s · seedance2.5 · 9:16 · jimeng_multimodal2video",
       "status": "已生成",

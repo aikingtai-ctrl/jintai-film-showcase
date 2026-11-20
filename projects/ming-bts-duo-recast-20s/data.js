@@ -73,7 +73,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/ming-bts-duo-recast-20s--6ea255cb02fb157f46e7.mp4",
-      "thumb": "assets/shots/S01.jpg",
+      "thumb": "media/img-49926b201e7cc253b600.jpg",
       "model": "seedance2.5",
       "params": "7s · seedance2.5 · 9:16 · jimeng_multimodal2video",
       "status": "已生成",

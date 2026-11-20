@@ -109,7 +109,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/kingtai-inner-compute-30s--134d2c7e80628dbd2201.mp4",
-      "thumb": "assets/shots/S01.jpg",
+      "thumb": "media/img-a6ad0ab227ebb7e9fe0a.jpg",
       "model": "HTML5/SVG/Canvas Deterministic 60fps + SciPy 120 BPM",
       "params": "1920×1080 @ 60fps · 13.4s",
       "status": "已合入成片 (9.28/9.60 PASS)"
@@ -130,7 +130,7 @@ window.registerProject({
         }
       ],
       "video": "",
-      "thumb": "assets/shots/S02.jpg",
+      "thumb": "media/img-e7feeeac8d4078833cf5.jpg",
       "model": "HTML5/SVG/Canvas Deterministic 60fps + SciPy 120 BPM",
       "params": "1920×1080 @ 60fps · 9.8s",
       "status": "已合入成片 (9.28/9.60 PASS)"
@@ -151,7 +151,7 @@ window.registerProject({
         }
       ],
       "video": "",
-      "thumb": "assets/shots/S03.jpg",
+      "thumb": "media/img-263a21b17367d7ad5684.jpg",
       "model": "HTML5/SVG/Canvas Deterministic 60fps + SciPy 120 BPM",
       "params": "1920×1080 @ 60fps · 6.8s",
       "status": "已合入成片 (9.28/9.60 PASS)"

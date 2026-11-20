@@ -84,7 +84,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/deepwater-bluebeard-ep010--29a128a22f71df35a900.mp4",
-      "thumb": "assets/shots/S01.jpg",
+      "thumb": "../../assets/media/img-e5a399b47d0fcd7d7fd8.jpg",
       "model": "seedance2.5",
       "params": "15s · seedance2.5 · 9:16 · jimeng_multimodal2video",
       "status": "已生成",
@@ -132,7 +132,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/deepwater-bluebeard-ep010--da7482e8ca0117042426.mp4",
-      "thumb": "assets/shots/S02.jpg",
+      "thumb": "../../assets/media/img-2b7d9818b693cf8fbb6f.jpg",
       "model": "seedance2.5",
       "params": "15s · seedance2.5 · 9:16 · jimeng_multimodal2video",
       "status": "已生成",
@@ -184,7 +184,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/deepwater-bluebeard-ep010--c3f35cd3fb550226a9f9.mp4",
-      "thumb": "assets/shots/S03.jpg",
+      "thumb": "../../assets/media/img-6f7b19a15838edced903.jpg",
       "model": "seedance2.5",
       "params": "15s · seedance2.5 · 9:16 · jimeng_multimodal2video",
       "status": "已生成",
@@ -232,7 +232,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/deepwater-bluebeard-ep010--5899de545133405400a0.mp4",
-      "thumb": "assets/shots/S04.jpg",
+      "thumb": "../../assets/media/img-581442c91e1f889f816f.jpg",
       "model": "seedance2.5",
       "params": "15s · seedance2.5 · 9:16 · jimeng_multimodal2video",
       "status": "已生成",
@@ -272,7 +272,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/deepwater-bluebeard-ep010--e6e6f9a47dbd0d7257a6.mp4",
-      "thumb": "assets/shots/S05.jpg",
+      "thumb": "../../assets/media/img-c875b028581150bd52e2.jpg",
       "model": "seedance2.5",
       "params": "15s · seedance2.5 · 9:16 · jimeng_multimodal2video",
       "status": "已生成",
@@ -320,7 +320,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/deepwater-bluebeard-ep010--049a9943c6a58d5925ab.mp4",
-      "thumb": "assets/shots/S06.jpg",
+      "thumb": "../../assets/media/img-e536b1286e8eda41ea7c.jpg",
       "model": "seedance2.5",
       "params": "15s · seedance2.5 · 9:16 · jimeng_multimodal2video",
       "status": "已生成",

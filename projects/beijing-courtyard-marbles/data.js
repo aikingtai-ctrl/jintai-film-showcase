@@ -173,7 +173,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/beijing-courtyard-marbles--52feb5b0ee1701c73c51.mp4",
-      "thumb": "assets/shots/S01.jpg",
+      "thumb": "media/img-b6f1e91c82ef695a4878.jpg",
       "model": "seedance2.5",
       "params": "30s · 9:16 · 720×1280 · taskId 2161 · jimeng_multimodal2video",
       "status": "已生成",
@@ -217,7 +217,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/beijing-courtyard-marbles--ed2fc96a2406c76b04b4.mp4",
-      "thumb": "assets/shots/S02.jpg",
+      "thumb": "media/img-be718b56817c4057f572.jpg",
       "model": "seedance2.5",
       "params": "10s · 9:16 · 720×1280 · taskId 2159 · jimeng_multimodal2video",
       "status": "已生成",
@@ -257,7 +257,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/beijing-courtyard-marbles--74f61d7c3992e41ad367.mp4",
-      "thumb": "assets/shots/S03.jpg",
+      "thumb": "media/img-dd578d1e8afe7dba700f.jpg",
       "model": "seedance2.5",
       "params": "10s · 4:3 · 960×720 · taskId 2158 · jimeng_multimodal2video",
       "status": "已生成",

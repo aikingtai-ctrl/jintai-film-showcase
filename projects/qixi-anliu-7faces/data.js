@@ -86,7 +86,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/qixi-anliu-7faces--ecb362fbc27479b0fa6c.mp4",
-      "thumb": "assets/shots/S01.jpg",
+      "thumb": "media/img-11dfe6cb32e083b7f675.jpg",
       "model": "seedance2.5",
       "params": "30s · seedance2.5 · 480p · jimeng_multimodal2video",
       "status": "已生成",
@@ -113,7 +113,7 @@ window.registerProject({
       "prompt": "超分视频",
       "refs": [],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/qixi-anliu-7faces--192a0af8002c599aedb8.mp4",
-      "thumb": "assets/shots/S02.jpg",
+      "thumb": "media/img-8378c84ad9e26cf1a742.jpg",
       "model": "kie_topaz_upscale",
       "params": "kie_topaz_upscale",
       "status": "已生成",

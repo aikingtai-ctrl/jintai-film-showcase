@@ -112,7 +112,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/tang-modao-dual-combat-10s--dba073b7eaf42f3a45f8.mp4",
-      "thumb": "assets/shots/S01.jpg",
+      "thumb": "media/img-3f802681d5591e947095.jpg",
       "model": "SelfLift 6+6=12步 + @四只兔子 武打四件套",
       "params": "1664×928 @ 24fps · 10.35s",
       "status": "已生成"
@@ -133,7 +133,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/tang-modao-dual-combat-10s--408f193c9cdb55b9ae01.mp4",
-      "thumb": "assets/shots/S02.jpg",
+      "thumb": "media/img-c896e460775a7d6ac212.jpg",
       "model": "SelfLift 12步 · Port 8191 (272.7s)",
       "params": "1664×928 @ 24fps · 124 帧 · 5.167s",
       "status": "已生成 (V2定稿)"
@@ -154,7 +154,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/tang-modao-dual-combat-10s--0cd546c28a414720709b.mp4",
-      "thumb": "assets/shots/S03.jpg",
+      "thumb": "media/img-dde8dd58235c524f43b2.jpg",
       "model": "SelfLift 12步 · Port 8193 (264.2s)",
       "params": "1664×928 @ 24fps · 124 帧 · 5.167s",
       "status": "已生成"

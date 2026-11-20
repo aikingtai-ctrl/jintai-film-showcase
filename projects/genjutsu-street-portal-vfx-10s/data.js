@@ -135,7 +135,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/genjutsu-street-portal-vfx-10s--596eaf4591d2580354a1.mp4",
-      "thumb": "assets/shots/S01.jpg",
+      "thumb": "media/img-cb1b70a9ff4f0df56a93.jpg",
       "model": "A 机 Genjutsu VFX Director SelfLift + SAM 3.1",
       "params": "1920×1080 @ 24fps · 9.417s",
       "status": "已生成"
@@ -156,7 +156,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/genjutsu-street-portal-vfx-10s--9d93febd0deead18f67d.mp4",
-      "thumb": "assets/shots/S02.jpg",
+      "thumb": "media/img-3695a3f7cadbaa627f1b.jpg",
       "model": "A 机 Genjutsu VFX Director SelfLift + SAM 3.1",
       "params": "1920×1080 @ 24fps · 10.167s",
       "status": "已生成"
@@ -177,7 +177,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/genjutsu-street-portal-vfx-10s--5b4b77fcef0b56469a37.mp4",
-      "thumb": "assets/shots/S03.jpg",
+      "thumb": "media/img-437e8641c244e76c8fdf.jpg",
       "model": "A 机 Genjutsu VFX Director SelfLift + SAM 3.1",
       "params": "1664×928 @ 24fps · 5.167s",
       "status": "已生成"
@@ -198,7 +198,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/genjutsu-street-portal-vfx-10s--3497a551fd9d48f824f0.mp4",
-      "thumb": "assets/shots/S04.jpg",
+      "thumb": "media/img-a2144956de6d5a4fa29b.jpg",
       "model": "A 机 Genjutsu VFX Director SelfLift + SAM 3.1",
       "params": "1664×928 @ 24fps · 5.167s",
       "status": "已生成"
@@ -219,7 +219,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/genjutsu-street-portal-vfx-10s--fb71466cdeb915bfa1a2.mp4",
-      "thumb": "assets/shots/S05.jpg",
+      "thumb": "media/img-3872bfb59fa2159923fd.jpg",
       "model": "A 机 Genjutsu VFX Director SelfLift + SAM 3.1",
       "params": "1664×928 @ 24fps · 5.167s",
       "status": "已生成"
@@ -240,7 +240,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/genjutsu-street-portal-vfx-10s--d315da7a3294aa8d12c3.mp4",
-      "thumb": "assets/shots/S06.jpg",
+      "thumb": "media/img-abd72dc322a2e619bc0e.jpg",
       "model": "A 机 Genjutsu VFX Director SelfLift + SAM 3.1",
       "params": "1664×928 @ 24fps · 5.167s",
       "status": "已生成"
@@ -261,7 +261,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/genjutsu-street-portal-vfx-10s--5b4740d3836c22a7108a.mp4",
-      "thumb": "assets/shots/S07.jpg",
+      "thumb": "media/img-0b3b8800b7d5ad066701.jpg",
       "model": "A 机 Genjutsu VFX Director SelfLift + SAM 3.1",
       "params": "1664×928 @ 24fps · 5.167s",
       "status": "已生成"

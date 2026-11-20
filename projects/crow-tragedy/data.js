@@ -520,7 +520,7 @@ window.registerProject({
       "prompt": "景别　近景｜低机位｜65mm\t运镜　随手臂举高轻抬\n灯光　冷天光，检材瓶透光，人物后景压暗\t角色@　@青年蔡康明 @张大为\n场景@　@水坟（开棺）\n画面　检材瓶在画面最高点，黑水和棺木压在下方。｜调度：青年蔡康明站在水坟中，将从棺材中采集完组织的封口瓶（瓶中黑水）递给张大为→张大为先接瓶→再伸手拉人\n首帧图提示词　低机位近景，青年刑警从水坟举起透明检材瓶，坑边同事先接证据再拉人，阴天冷灰，65mm\n对白／旁白　老蔡VO：先救上来的，不是人，是一小瓶谁都不敢保证还有用的组织。\n音效 / 配乐　玻璃轻碰；呼吸；低弦持续一音\n",
       "refs": [],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/crow-tragedy--58c45ea575637c7c2a75.mp4",
-      "thumb": "assets/shots/S01.jpg",
+      "thumb": "media/img-273d0af59d968de91d54.jpg",
       "model": "jimeng_multimodal2video",
       "params": "11s · jimeng_multimodal2video",
       "status": "已生成",
@@ -563,7 +563,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/crow-tragedy--d12b57f2e4ac97e5d679.mp4",
-      "thumb": "assets/shots/S02.jpg",
+      "thumb": "media/img-b542a213c387b8368e13.jpg",
       "model": "jimeng_multimodal2video",
       "params": "11s · jimeng_multimodal2video",
       "status": "已生成",
@@ -611,7 +611,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/crow-tragedy--a7556a6b85c0994066c5.mp4",
-      "thumb": "assets/shots/S03.jpg",
+      "thumb": "media/img-834415c511aa0590c68e.jpg",
       "model": "jimeng_multimodal2video",
       "params": "11s · jimeng_multimodal2video",
       "status": "已生成",
@@ -655,7 +655,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/crow-tragedy--cbb8751286615af25fbf.mp4",
-      "thumb": "assets/shots/S04.jpg",
+      "thumb": "media/img-40f8b45943a214a47324.jpg",
       "model": "jimeng_multimodal2video",
       "params": "12s · jimeng_multimodal2video",
       "status": "已生成",
@@ -703,7 +703,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/crow-tragedy--781521e5c35f5b742e46.mp4",
-      "thumb": "assets/shots/S05.jpg",
+      "thumb": "media/img-e3093603b578ab208b44.jpg",
       "model": "jimeng_multimodal2video",
       "params": "12s · jimeng_multimodal2video",
       "status": "已生成",
@@ -747,7 +747,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/crow-tragedy--75bb743333d81de4afea.mp4",
-      "thumb": "assets/shots/S06.jpg",
+      "thumb": "media/img-747c71312c0be29c33f7.jpg",
       "model": "jimeng_multimodal2video",
       "params": "13s · jimeng_multimodal2video",
       "status": "已生成",
@@ -795,7 +795,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/crow-tragedy--d7642c81ce99562d17c8.mp4",
-      "thumb": "assets/shots/S07.jpg",
+      "thumb": "media/img-380a5d5c968619d72495.jpg",
       "model": "jimeng_multimodal2video",
       "params": "15s · jimeng_multimodal2video",
       "status": "已生成",
@@ -838,7 +838,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/crow-tragedy--02d8995c3af84348a158.mp4",
-      "thumb": "assets/shots/S08.jpg",
+      "thumb": "media/img-a724fcfe6543fdbdec64.jpg",
       "model": "jimeng_multimodal2video",
       "params": "15s · jimeng_multimodal2video",
       "status": "已生成",
@@ -881,7 +881,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/crow-tragedy--db59065ac3cfa134630e.mp4",
-      "thumb": "assets/shots/S09.jpg",
+      "thumb": "media/img-3d5ae251b3c19a8bed2d.jpg",
       "model": "jimeng_multimodal2video",
       "params": "14s · jimeng_multimodal2video",
       "status": "已生成",
@@ -924,7 +924,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/crow-tragedy--ce40f7709c61490cd0e7.mp4",
-      "thumb": "assets/shots/S10.jpg",
+      "thumb": "media/img-83a99d851a8aca44540d.jpg",
       "model": "jimeng_multimodal2video",
       "params": "15s · jimeng_multimodal2video",
       "status": "已生成",
@@ -958,7 +958,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/crow-tragedy--de40b9451c35716d3433.mp4",
-      "thumb": "assets/shots/S11.jpg",
+      "thumb": "media/img-a9f355970fff9a4fa690.jpg",
       "model": "jimeng_multimodal2video",
       "params": "14s · jimeng_multimodal2video",
       "status": "已生成",
@@ -992,7 +992,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/crow-tragedy--c8b193f35d0da562db80.mp4",
-      "thumb": "assets/shots/S12.jpg",
+      "thumb": "media/img-65652b0137f8d2582a41.jpg",
       "model": "jimeng_multimodal2video",
       "params": "14s · jimeng_multimodal2video",
       "status": "已生成",
@@ -1026,7 +1026,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/crow-tragedy--28a662cd0809148a0c88.mp4",
-      "thumb": "assets/shots/S13.jpg",
+      "thumb": "media/img-b4363661f595395e77c0.jpg",
       "model": "jimeng_multimodal2video",
       "params": "14s · jimeng_multimodal2video",
       "status": "已生成",
@@ -1060,7 +1060,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/crow-tragedy--41dabb1b140d876ebef7.mp4",
-      "thumb": "assets/shots/S14.jpg",
+      "thumb": "media/img-d9d25d1051b9bd365568.jpg",
       "model": "jimeng_multimodal2video",
       "params": "14s · jimeng_multimodal2video",
       "status": "已生成",
@@ -1103,7 +1103,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/crow-tragedy--7ed968a5e8c61200917c.mp4",
-      "thumb": "assets/shots/S15.jpg",
+      "thumb": "media/img-2d1d8f92b6c978aaf49e.jpg",
       "model": "jimeng_multimodal2video",
       "params": "14s · jimeng_multimodal2video",
       "status": "已生成",
@@ -1141,7 +1141,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/crow-tragedy--3cfb9319f77dc0deeee1.mp4",
-      "thumb": "assets/shots/S16.jpg",
+      "thumb": "media/img-4465a2bc0fdc1bff473e.jpg",
       "model": "jimeng_multimodal2video",
       "params": "13s · jimeng_multimodal2video",
       "status": "已生成",
@@ -1179,7 +1179,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/crow-tragedy--77152228ac21bc42a342.mp4",
-      "thumb": "assets/shots/S17.jpg",
+      "thumb": "media/img-1cca8859317df896b678.jpg",
       "model": "jimeng_multimodal2video",
       "params": "13s · jimeng_multimodal2video",
       "status": "已生成",
@@ -1222,7 +1222,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/crow-tragedy--eec22ec542362c813c78.mp4",
-      "thumb": "assets/shots/S18.jpg",
+      "thumb": "media/img-1654964d02cf4ca35a4c.jpg",
       "model": "jimeng_multimodal2video",
       "params": "14s · jimeng_multimodal2video",
       "status": "已生成",
@@ -1265,7 +1265,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/crow-tragedy--ed8938d57e277190bdca.mp4",
-      "thumb": "assets/shots/S19.jpg",
+      "thumb": "media/img-ef435a31f885baf429a6.jpg",
       "model": "jimeng_multimodal2video",
       "params": "10s · jimeng_multimodal2video",
       "status": "已生成",
@@ -1308,7 +1308,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/crow-tragedy--c7dd178ffddfd3bdde0b.mp4",
-      "thumb": "assets/shots/S20.jpg",
+      "thumb": "media/img-ec5a5cccc895054a728b.jpg",
       "model": "jimeng_multimodal2video",
       "params": "10s · jimeng_multimodal2video",
       "status": "已生成",
@@ -1355,7 +1355,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/crow-tragedy--cf87829f70f9f2db3b9f.mp4",
-      "thumb": "assets/shots/S21.jpg",
+      "thumb": "media/img-b70bd6823ecb14bf9d58.jpg",
       "model": "jimeng_multimodal2video",
       "params": "10s · jimeng_multimodal2video",
       "status": "已生成",
@@ -1398,7 +1398,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/crow-tragedy--90357856470fec19fba2.mp4",
-      "thumb": "assets/shots/S22.jpg",
+      "thumb": "media/img-a06f8d895718cbaae44d.jpg",
       "model": "jimeng_multimodal2video",
       "params": "10s · jimeng_multimodal2video",
       "status": "已生成",
@@ -1441,7 +1441,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/crow-tragedy--cb2ac33fab2fb820adee.mp4",
-      "thumb": "assets/shots/S23.jpg",
+      "thumb": "media/img-faafb6fc8784d786c663.jpg",
       "model": "jimeng_multimodal2video",
       "params": "10s · jimeng_multimodal2video",
       "status": "已生成",
@@ -1489,7 +1489,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/crow-tragedy--477d682a327acd098652.mp4",
-      "thumb": "assets/shots/S24.jpg",
+      "thumb": "media/img-fb5242a58e05af78d093.jpg",
       "model": "jimeng_multimodal2video",
       "params": "7s · jimeng_multimodal2video",
       "status": "已生成",
@@ -1532,7 +1532,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/crow-tragedy--321a4786f6758c2b74e0.mp4",
-      "thumb": "assets/shots/S25.jpg",
+      "thumb": "media/img-df3046ae96b802841ad3.jpg",
       "model": "jimeng_multimodal2video",
       "params": "6s · jimeng_multimodal2video",
       "status": "已生成",
@@ -1571,7 +1571,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/crow-tragedy--74cf7d39283972b77950.mp4",
-      "thumb": "assets/shots/S26.jpg",
+      "thumb": "media/img-e524be75d01165dce616.jpg",
       "model": "jimeng_multimodal2video",
       "params": "10s · jimeng_multimodal2video",
       "status": "已生成",
@@ -1614,7 +1614,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/crow-tragedy--1c2358faccd17028e0d1.mp4",
-      "thumb": "assets/shots/S27.jpg",
+      "thumb": "media/img-ef6c5e0bf3bea25ec403.jpg",
       "model": "jimeng_multimodal2video",
       "params": "12s · jimeng_multimodal2video",
       "status": "已生成",
@@ -1662,7 +1662,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/crow-tragedy--4e49610afa34ff498081.mp4",
-      "thumb": "assets/shots/S28.jpg",
+      "thumb": "media/img-051419e708a41199c130.jpg",
       "model": "jimeng_multimodal2video",
       "params": "14s · jimeng_multimodal2video",
       "status": "已生成",
@@ -1705,7 +1705,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/crow-tragedy--6d875a5662111aedd258.mp4",
-      "thumb": "assets/shots/S29.jpg",
+      "thumb": "media/img-4258988a70235ef40919.jpg",
       "model": "jimeng_multimodal2video",
       "params": "14s · jimeng_multimodal2video",
       "status": "已生成",
@@ -1791,7 +1791,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/crow-tragedy--821038ade41c0486f467.mp4",
-      "thumb": "assets/shots/S31.jpg",
+      "thumb": "media/img-2e8a9950069c1c6bddd8.jpg",
       "model": "jimeng_multimodal2video",
       "params": "14s · jimeng_multimodal2video",
       "status": "已生成",
@@ -1827,7 +1827,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/crow-tragedy--61c24e411dbca9267ced.mp4",
-      "thumb": "assets/shots/S32.jpg",
+      "thumb": "media/img-df3cfd0e86f8f81af99e.jpg",
       "model": "jimeng_multimodal2video",
       "params": "8s · jimeng_multimodal2video",
       "status": "已生成",
@@ -1863,7 +1863,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/crow-tragedy--285d721461126e3d2359.mp4",
-      "thumb": "assets/shots/S33.jpg",
+      "thumb": "media/img-7bbfb010f00d531b34de.jpg",
       "model": "jimeng_multimodal2video",
       "params": "8s · jimeng_multimodal2video",
       "status": "已生成",
@@ -1901,7 +1901,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/crow-tragedy--bfb089ac5c307b920642.mp4",
-      "thumb": "assets/shots/S34.jpg",
+      "thumb": "media/img-e323e09a06c88e7b2b92.jpg",
       "model": "jimeng_multimodal2video",
       "params": "13s · jimeng_multimodal2video",
       "status": "已生成",
@@ -1949,7 +1949,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/crow-tragedy--a09aa5349acfd74f128f.mp4",
-      "thumb": "assets/shots/S35.jpg",
+      "thumb": "media/img-517a849ac105a257b11b.jpg",
       "model": "jimeng_multimodal2video",
       "params": "11s · jimeng_multimodal2video",
       "status": "已生成",

@@ -139,7 +139,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/sichuan-apron-couture-h3-lc-145s--1f676e5e744c78c6e90e.mp4",
-      "thumb": "assets/shots/S01.jpg",
+      "thumb": "media/img-59dc2b1980c1f8a350f9.jpg",
       "model": "FeiHou_MiniMax-H3_Remix_HSA_v0.7 + Breeze TTS 2 / LC",
       "params": "1280×720 @ 24fps",
       "status": "已合入成片"
@@ -160,7 +160,7 @@ window.registerProject({
         }
       ],
       "video": "",
-      "thumb": "assets/shots/S02.jpg",
+      "thumb": "media/img-ef3ab6ca138d0faaf047.jpg",
       "model": "FeiHou_MiniMax-H3_Remix_HSA_v0.7 + Breeze TTS 2 / LC",
       "params": "1280×720 @ 24fps",
       "status": "已合入成片"
@@ -181,7 +181,7 @@ window.registerProject({
         }
       ],
       "video": "",
-      "thumb": "assets/shots/S03.jpg",
+      "thumb": "media/img-bee30dea51b3aa88a3f8.jpg",
       "model": "FeiHou_MiniMax-H3_Remix_HSA_v0.7 + Breeze TTS 2 / LC",
       "params": "1280×720 @ 24fps",
       "status": "已合入成片"
@@ -202,7 +202,7 @@ window.registerProject({
         }
       ],
       "video": "",
-      "thumb": "assets/shots/S04.jpg",
+      "thumb": "media/img-442d9f083ba85da9a4f9.jpg",
       "model": "FeiHou_MiniMax-H3_Remix_HSA_v0.7 + Breeze TTS 2 / LC",
       "params": "1280×720 @ 24fps",
       "status": "已合入成片"

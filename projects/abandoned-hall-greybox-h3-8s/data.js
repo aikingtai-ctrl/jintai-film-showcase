@@ -130,7 +130,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/abandoned-hall-greybox-h3-8s--652c6d4decb2f8a4d2a7.mp4",
-      "thumb": "assets/shots/S01.jpg",
+      "thumb": "media/img-063293abb292ebe05e36.jpg",
       "model": "Blender 5.2 + A机 SelfLift 6+6=12步",
       "params": "1920×1080 @ 24fps · 192 帧 · 8.00s",
       "status": "已生成 (Round 3 4/4 PASS)"
@@ -151,7 +151,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/abandoned-hall-greybox-h3-8s--96583c0fd1e11f352d3d.mp4",
-      "thumb": "assets/shots/S02.jpg",
+      "thumb": "media/img-165c102837820af03844.jpg",
       "model": "Blender 5.2 + A机 SelfLift 6+6=12步",
       "params": "1920×1080 @ 24fps · 192 帧 · 8.00s",
       "status": "已生成 (Round 3 4/4 PASS)"
@@ -172,7 +172,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/abandoned-hall-greybox-h3-8s--cdc327a4ea112d730237.mp4",
-      "thumb": "assets/shots/S03.jpg",
+      "thumb": "media/img-4904905e2d141e624649.jpg",
       "model": "Blender 5.2 + A机 SelfLift 6+6=12步",
       "params": "1920×1080 @ 24fps · 192 帧 · 8.00s",
       "status": "已生成 (Round 3 4/4 PASS)"
@@ -193,7 +193,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/abandoned-hall-greybox-h3-8s--b3a2b16da98dc3b2b903.mp4",
-      "thumb": "assets/shots/S04.jpg",
+      "thumb": "media/img-aa7df013d3339964af04.jpg",
       "model": "Blender 5.2 + A机 SelfLift 6+6=12步",
       "params": "1280×720 @ 24fps · 192 帧 · 8.00s",
       "status": "已生成 (Round 3 4/4 PASS)"

@@ -91,7 +91,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/success-father-recast-30s--9ff7311dc27931971785.mp4",
-      "thumb": "assets/shots/S01.jpg",
+      "thumb": "media/img-380776840255a2fd9e01.jpg",
       "model": "seedance2.5",
       "params": "30s · seedance2.5 · jimeng_multimodal2video",
       "status": "已生成",

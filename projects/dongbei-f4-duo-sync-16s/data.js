@@ -77,7 +77,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/dongbei-f4-duo-sync-16s--47523cd291f8d07882cd.mp4",
-      "thumb": "assets/shots/S01.jpg",
+      "thumb": "media/img-2df039bea0671482ca40.jpg",
       "model": "seedance2.5",
       "params": "17s · seedance2.5 · jimeng_multimodal2video",
       "status": "已生成",

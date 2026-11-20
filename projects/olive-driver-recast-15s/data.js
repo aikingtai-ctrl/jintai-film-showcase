@@ -73,7 +73,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/olive-driver-recast-15s--df09c7607b8a0e7820a7.mp4",
-      "thumb": "assets/shots/S01.jpg",
+      "thumb": "media/img-1231c1b889dd9386d5e8.jpg",
       "model": "seedance2.5",
       "params": "15s · seedance2.5 · jimeng_multimodal2video",
       "status": "已生成",

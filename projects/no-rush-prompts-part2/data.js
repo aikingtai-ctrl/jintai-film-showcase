@@ -379,7 +379,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/no-rush-prompts-part2--29a6192765d632cff41d.mp4",
-      "thumb": "assets/shots/S01.jpg",
+      "thumb": "media/img-72961e3e05a348d00c0a.jpg",
       "model": "seedance2.5",
       "params": "10s · seedance2.5 · jimeng_multimodal2video",
       "status": "已生成",
@@ -423,7 +423,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/no-rush-prompts-part2--00a0d984451e291dc4c0.mp4",
-      "thumb": "assets/shots/S02.jpg",
+      "thumb": "media/img-d953b5a3827ad77f34fb.jpg",
       "model": "seedance2.0fast_vip",
       "params": "8s · seedance2.0fast_vip · jimeng_multimodal2video",
       "status": "已生成",
@@ -467,7 +467,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/no-rush-prompts-part2--7688b61d094347e183d0.mp4",
-      "thumb": "assets/shots/S03.jpg",
+      "thumb": "media/img-49471a334062ca756c9d.jpg",
       "model": "seedance2.5",
       "params": "4s · seedance2.5 · jimeng_multimodal2video",
       "status": "已生成",
@@ -506,7 +506,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/no-rush-prompts-part2--545e1b82dd30b95687f1.mp4",
-      "thumb": "assets/shots/S04.jpg",
+      "thumb": "media/img-e0079a00c6d38a8a96c5.jpg",
       "model": "seedance2.5",
       "params": "8s · seedance2.5 · 480p · jimeng_multimodal2video",
       "status": "已生成",
@@ -550,7 +550,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/no-rush-prompts-part2--78436f10c6fc695ea700.mp4",
-      "thumb": "assets/shots/S05.jpg",
+      "thumb": "media/img-01c669c9b023661933e2.jpg",
       "model": "seedance2.5",
       "params": "10s · seedance2.5 · jimeng_multimodal2video",
       "status": "已生成",
@@ -607,7 +607,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/no-rush-prompts-part2--7fd98bf9f660374a52b0.mp4",
-      "thumb": "assets/shots/S06.jpg",
+      "thumb": "media/img-3e1c103e5f1bd0ec2a70.jpg",
       "model": "seedance2.5",
       "params": "8s · seedance2.5 · jimeng_multimodal2video",
       "status": "已生成",
@@ -651,7 +651,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/no-rush-prompts-part2--e376a270fc78b4b626d2.mp4",
-      "thumb": "assets/shots/S07.jpg",
+      "thumb": "media/img-d0106d8a83aaf5a61be8.jpg",
       "model": "seedance2.5",
       "params": "9s · seedance2.5 · jimeng_multimodal2video",
       "status": "已生成",
@@ -695,7 +695,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/no-rush-prompts-part2--0a13d1caafab297b7db4.mp4",
-      "thumb": "assets/shots/S08.jpg",
+      "thumb": "media/img-9a7f5daa7505af317bbf.jpg",
       "model": "seedance2.5",
       "params": "11s · seedance2.5 · jimeng_multimodal2video",
       "status": "已生成",
@@ -739,7 +739,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/no-rush-prompts-part2--e72f2e3c61ec85d0b1e1.mp4",
-      "thumb": "assets/shots/S09.jpg",
+      "thumb": "media/img-d02743e561dbbb253835.jpg",
       "model": "seedance2.5",
       "params": "seedance2.5 · jimeng_multimodal2video",
       "status": "已生成",
@@ -793,7 +793,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/no-rush-prompts-part2--84e9bf08137d2b39edfe.mp4",
-      "thumb": "assets/shots/S10.jpg",
+      "thumb": "media/img-6dfe392b87ff86bbdf1c.jpg",
       "model": "seedance2.5",
       "params": "15s · seedance2.5 · jimeng_multimodal2video",
       "status": "已生成",
@@ -847,7 +847,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/no-rush-prompts-part2--b05183431b50a1c88a30.mp4",
-      "thumb": "assets/shots/S11.jpg",
+      "thumb": "media/img-7c05c46426c22b16570e.jpg",
       "model": "seedance2.5",
       "params": "7s · seedance2.5 · jimeng_multimodal2video",
       "status": "已生成",
@@ -881,7 +881,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/no-rush-prompts-part2--aa738fb30098e150979f.mp4",
-      "thumb": "assets/shots/S12.jpg",
+      "thumb": "media/img-5a7c54010660bbcd9b54.jpg",
       "model": "seedance2.5",
       "params": "seedance2.5 · jimeng_multimodal2video",
       "status": "已生成",
@@ -925,7 +925,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/no-rush-prompts-part2--ed70a59f6775785b7177.mp4",
-      "thumb": "assets/shots/S13.jpg",
+      "thumb": "media/img-b142f5cda0560de7d9f9.jpg",
       "model": "seedance2.5",
       "params": "seedance2.5 · jimeng_multimodal2video",
       "status": "已生成",
@@ -978,7 +978,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/no-rush-prompts-part2--fe343ac68cdb697c6bf6.mp4",
-      "thumb": "assets/shots/S14.jpg",
+      "thumb": "media/img-8ea232b747545c2c6930.jpg",
       "model": "seedance2.5",
       "params": "9s · seedance2.5 · jimeng_multimodal2video",
       "status": "已生成",
@@ -1023,7 +1023,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/no-rush-prompts-part2--60fdd3647158144ac149.mp4",
-      "thumb": "assets/shots/S15.jpg",
+      "thumb": "media/img-02f030f5ee7dad1c0ea6.jpg",
       "model": "seedance2.5",
       "params": "16s · seedance2.5 · 480p · jimeng_multimodal2video",
       "status": "已生成",
@@ -1067,7 +1067,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/no-rush-prompts-part2--7f9d0463b3c5f8b1d5cf.mp4",
-      "thumb": "assets/shots/S16.jpg",
+      "thumb": "media/img-a80ee4e7820954ecedbf.jpg",
       "model": "seedance2.5",
       "params": "6s · seedance2.5 · jimeng_multimodal2video",
       "status": "已生成",
@@ -1111,7 +1111,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/no-rush-prompts-part2--871fc499dd69e583b25a.mp4",
-      "thumb": "assets/shots/S17.jpg",
+      "thumb": "media/img-93c623f611cf2ecba2b5.jpg",
       "model": "seedance2.5",
       "params": "12s · seedance2.5 · jimeng_multimodal2video",
       "status": "已生成",
@@ -1155,7 +1155,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/no-rush-prompts-part2--46cc1d2a30a5470aee31.mp4",
-      "thumb": "assets/shots/S18.jpg",
+      "thumb": "media/img-a4d321fe02d6864d3652.jpg",
       "model": "seedance2.5",
       "params": "19s · seedance2.5 · 480p · jimeng_multimodal2video",
       "status": "已生成",
@@ -1208,7 +1208,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/no-rush-prompts-part2--59bce2ad962caee33af5.mp4",
-      "thumb": "assets/shots/S19.jpg",
+      "thumb": "media/img-1d417f3904b65a3e9316.jpg",
       "model": "seedance2.5",
       "params": "6s · seedance2.5 · jimeng_multimodal2video",
       "status": "已生成",
@@ -1257,7 +1257,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/no-rush-prompts-part2--09def3aa034fdef62700.mp4",
-      "thumb": "assets/shots/S20.jpg",
+      "thumb": "media/img-2326061181927263e36a.jpg",
       "model": "seedance2.5",
       "params": "8s · seedance2.5 · jimeng_multimodal2video",
       "status": "已生成",
@@ -1322,7 +1322,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/no-rush-prompts-part2--fa50aaaa9dad0ed9ca96.mp4",
-      "thumb": "assets/shots/S21.jpg",
+      "thumb": "media/img-b25b7cedd877cca80ad0.jpg",
       "model": "seedance2.5",
       "params": "10s · seedance2.5 · 480p · jimeng_multimodal2video",
       "status": "已生成",
@@ -1356,7 +1356,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/no-rush-prompts-part2--4c668c843c4f9c937991.mp4",
-      "thumb": "assets/shots/S22.jpg",
+      "thumb": "media/img-2f0a51779d3856fdfc73.jpg",
       "model": "seedance2.5",
       "params": "8s · seedance2.5 · 480p · jimeng_multimodal2video",
       "status": "已生成",
@@ -1409,7 +1409,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/no-rush-prompts-part2--469db9ff71cc14363277.mp4",
-      "thumb": "assets/shots/S23.jpg",
+      "thumb": "media/img-91ee52fcb8599fdbc57e.jpg",
       "model": "seedance2.5",
       "params": "11s · seedance2.5 · 480p · jimeng_multimodal2video",
       "status": "已生成",
@@ -1453,7 +1453,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/no-rush-prompts-part2--05ee00ebe9b2b5be85ce.mp4",
-      "thumb": "assets/shots/S24.jpg",
+      "thumb": "media/img-8227f8d1aecbf5f3bbee.jpg",
       "model": "seedance2.5",
       "params": "7s · seedance2.5 · 480p · jimeng_multimodal2video",
       "status": "已生成",
@@ -1497,7 +1497,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/no-rush-prompts-part2--4e55ca4d91beb4ab22a5.mp4",
-      "thumb": "assets/shots/S25.jpg",
+      "thumb": "media/img-f2e960c2e793c4cbbbf1.jpg",
       "model": "seedance2.5",
       "params": "9s · seedance2.5 · 480p · jimeng_multimodal2video",
       "status": "已生成",
@@ -1555,7 +1555,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/no-rush-prompts-part2--d86148efdfc2b0206425.mp4",
-      "thumb": "assets/shots/S26.jpg",
+      "thumb": "media/img-713fb58b9b02d4e0bcaf.jpg",
       "model": "seedance2.5",
       "params": "10s · seedance2.5 · 480p · jimeng_multimodal2video",
       "status": "已生成",
@@ -1599,7 +1599,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/no-rush-prompts-part2--97acd1ab4ce22221e386.mp4",
-      "thumb": "assets/shots/S27.jpg",
+      "thumb": "media/img-408d842361193708d551.jpg",
       "model": "seedance2.5",
       "params": "6s · seedance2.5 · jimeng_multimodal2video",
       "status": "已生成",
@@ -1626,7 +1626,7 @@ window.registerProject({
       "prompt": "景别 · 机位 · 运动\t字卡\n引用(双@)\t字卡镜 · 无资产引用(版式:片头字卡模板)\n首帧提示词(静)\t黑底字卡「机器做多,人做对。」\n动态提示词(动)\t字亮,保持,渐隐。\n台词与声音(AU01–AU04)\t音乐AU04:终止式\n效果AU03:章印“咚”落版\n光源动机\t纯字卡\n前后连续性\t与片头字卡同款版式\n禁止发生\t—(见场级/全片通用禁止项)\n",
       "refs": [],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/no-rush-prompts-part2--8c9fb4a66d9e2d3af374.mp4",
-      "thumb": "assets/shots/S28.jpg",
+      "thumb": "media/img-47db3a34b16e472c6ce2.jpg",
       "model": "seedance2.5",
       "params": "seedance2.5 · 480p · jimeng_text2video",
       "status": "已生成",
@@ -1665,7 +1665,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/no-rush-prompts-part2--a318b64c6a4ea2f15f07.mp4",
-      "thumb": "assets/shots/S29.jpg",
+      "thumb": "media/img-4f8910c2ff0d8d546c61.jpg",
       "model": "seedance2.5",
       "params": "12s · seedance2.5 · jimeng_multimodal2video",
       "status": "已生成",
@@ -1714,7 +1714,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/no-rush-prompts-part2--feb1a6a82964cb5c8291.mp4",
-      "thumb": "assets/shots/S30.jpg",
+      "thumb": "media/img-50ba1460fda56b95a1e9.jpg",
       "model": "seedance2.5",
       "params": "15s · seedance2.5 · 480p · jimeng_multimodal2video",
       "status": "已生成",

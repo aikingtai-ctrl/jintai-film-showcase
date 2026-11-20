@@ -64,7 +64,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/h3-micro-expression-dual-15s--1bd4d42c4c824d9e7062.mp4",
-      "thumb": "assets/shots/S01.jpg",
+      "thumb": "media/img-e326598875c04802d5f7.jpg",
       "model": "FeiHou_H3_Remix_v0.7 + 3d_bf16 upscaler + fp16 VAE",
       "params": "15s · 1080×1920 · 24fps · Ref2VA 原片光影替换 + 零蒙版原生净肤",
       "status": "已生成"
@@ -85,7 +85,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/h3-micro-expression-dual-15s--1fa7e70cee2a3d4948f8.mp4",
-      "thumb": "assets/shots/S02.jpg",
+      "thumb": "media/img-69551bf4db09f5c8c3c1.jpg",
       "model": "FeiHou_H3_Remix_v0.7 + 3d_bf16 upscaler + fp16 VAE",
       "params": "15s · 1080×1920 · 24fps · 纯单图 Ref2VA 自由五阶段微表情",
       "status": "已生成"
@@ -106,7 +106,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/h3-micro-expression-dual-15s--457fbcc0d2353f051347.mp4",
-      "thumb": "assets/shots/S03.jpg",
+      "thumb": "media/img-cda0e7f9b7dfdd828385.jpg",
       "model": "FeiHou_H3_Remix_v0.7 + 3d_bf16 upscaler + fp16 VAE",
       "params": "15s · 1080×1920 · 24fps · Ref2VA 原片光影替换 + 零蒙版原生净肤",
       "status": "已生成"
@@ -127,7 +127,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/h3-micro-expression-dual-15s--9b28b4ea91d252c886e2.mp4",
-      "thumb": "assets/shots/S04.jpg",
+      "thumb": "media/img-49ad749ed3610c8faaa7.jpg",
       "model": "FeiHou_H3_Remix_v0.7 + 3d_bf16 upscaler + fp16 VAE",
       "params": "15s · 1080×1920 · 24fps · 纯单图 Ref2VA 自由五阶段微表情",
       "status": "已生成"

@@ -261,7 +261,7 @@ window.registerProject({
           "src": "media/img-8adfad51bc9b2a7d1fd8.svg"
         }
       ],
-      "thumb": "assets/shots/SH01.svg",
+      "thumb": "media/img-a06163675ae9e24d404a.svg",
       "video": "",
       "seed": "20260922",
       "params": "720p · 8s · 图生视频 · cfg 默认",
@@ -295,7 +295,7 @@ window.registerProject({
           "src": "media/img-9d748aae2211e7a0b197.svg"
         }
       ],
-      "thumb": "assets/shots/SH02.svg",
+      "thumb": "media/img-e4058572f77332e6f91b.svg",
       "video": "",
       "seed": "20260923",
       "params": "720p · 6s · 图生视频 + 角色参考",
@@ -334,7 +334,7 @@ window.registerProject({
           "src": "media/img-4f6474ddd16dfb59c3fc.svg"
         }
       ],
-      "thumb": "assets/shots/SH03.svg",
+      "thumb": "media/img-83790da32fddc6ebc49c.svg",
       "video": "",
       "seed": "20260924",
       "params": "720p · 4s · 图生视频",
@@ -368,7 +368,7 @@ window.registerProject({
           "src": "media/img-2484db2c777540bd27b5.svg"
         }
       ],
-      "thumb": "assets/shots/SH04.svg",
+      "thumb": "media/img-38f93851357a038405be.svg",
       "video": "",
       "seed": "20260925",
       "params": "720p · 10s · 图生视频 + SH01 首帧复用",
@@ -403,7 +403,7 @@ window.registerProject({
           "src": "media/img-240fbbcd938917ea45d0.svg"
         }
       ],
-      "thumb": "assets/shots/SH05.svg",
+      "thumb": "media/img-ab42169e2fe12072386b.svg",
       "video": "",
       "seed": "20260926",
       "params": "720p · 8s · 图生视频 + 角色参考",
@@ -437,7 +437,7 @@ window.registerProject({
           "src": "media/img-d126d79a0536815c22c2.svg"
         }
       ],
-      "thumb": "assets/shots/SH06.svg",
+      "thumb": "media/img-4a3cae5372703c0f228c.svg",
       "video": "",
       "seed": "20260927",
       "params": "720p · 6s · 图生视频 + 角色参考",
@@ -471,7 +471,7 @@ window.registerProject({
           "src": "media/img-d126d79a0536815c22c2.svg"
         }
       ],
-      "thumb": "assets/shots/SH07.svg",
+      "thumb": "media/img-cf66f20016c98a7823bb.svg",
       "video": "",
       "seed": "20260928",
       "params": "720p · 10s · 图生视频",
@@ -505,7 +505,7 @@ window.registerProject({
           "src": "media/img-e6aca5079bc2f7cb551a.svg"
         }
       ],
-      "thumb": "assets/shots/SH08.svg",
+      "thumb": "media/img-3a3d45e840ec9a7cec99.svg",
       "video": "",
       "seed": "20260929",
       "params": "720p · 10s · 图生视频",

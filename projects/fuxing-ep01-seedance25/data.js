@@ -201,7 +201,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/fuxing-ep01-seedance25--45bed861ad7a31b2fabf.mp4",
-      "thumb": "assets/shots/S01.jpg",
+      "thumb": "media/img-83b43bb06046dacef4f8.jpg",
       "model": "seedance2.5",
       "params": "15s · seedance2.5 · 1280×720 · taskId 2167 · jimeng_multimodal2video",
       "status": "已生成",
@@ -239,7 +239,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/fuxing-ep01-seedance25--0b67a77a139f25cc2b53.mp4",
-      "thumb": "assets/shots/S02.jpg",
+      "thumb": "media/img-6c20c35015d32a91c075.jpg",
       "model": "seedance2.5",
       "params": "15s · seedance2.5 · 1280×720 · taskId 2168 · jimeng_multimodal2video",
       "status": "已生成",
@@ -277,7 +277,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/fuxing-ep01-seedance25--2ac9433290a37a9078d3.mp4",
-      "thumb": "assets/shots/S03.jpg",
+      "thumb": "media/img-709613fbfeb1d8b8c23c.jpg",
       "model": "seedance2.5",
       "params": "15s · seedance2.5 · 1280×720 · taskId 2172 · jimeng_image2video",
       "status": "已生成",
@@ -315,7 +315,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/fuxing-ep01-seedance25--b775b3412e5465639b4c.mp4",
-      "thumb": "assets/shots/S04.jpg",
+      "thumb": "media/img-1ab60731a1a102bb1479.jpg",
       "model": "seedance2.5",
       "params": "15s · seedance2.5 · 1280×720 · taskId 2169 · jimeng_multimodal2video",
       "status": "已生成",
@@ -353,7 +353,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/fuxing-ep01-seedance25--9ef7247756ecf6d755de.mp4",
-      "thumb": "assets/shots/S05.jpg",
+      "thumb": "media/img-6cff9b3d92be1e3f2bc8.jpg",
       "model": "seedance2.5",
       "params": "15s · seedance2.5 · 1280×720 · taskId 2171 · jimeng_image2video",
       "status": "已生成",
@@ -391,7 +391,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/fuxing-ep01-seedance25--2eab9a0af86dfcfc64d6.mp4",
-      "thumb": "assets/shots/S06.jpg",
+      "thumb": "media/img-57b9770f01956bf3b7e8.jpg",
       "model": "seedance2.5",
       "params": "15s · seedance2.5 · 1280×720 · taskId 2170 · jimeng_multimodal2video",
       "status": "已生成",

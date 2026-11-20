@@ -77,7 +77,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/ai-dance-trio-recast-15s--ca46702cb7caca82c761.mp4",
-      "thumb": "assets/shots/S01.jpg",
+      "thumb": "media/img-0739627bce7b1fbb7c50.jpg",
       "model": "seedance2.5",
       "params": "15s · seedance2.5 · 9:16 · jimeng_multimodal2video",
       "status": "已生成",

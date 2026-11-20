@@ -75,7 +75,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/yellow-armor-vine-break-15s--d882602ef4eefe248778.mp4",
-      "thumb": "assets/shots/S01.jpg",
+      "thumb": "media/img-b0fd4226c6a2283e3b94.jpg",
       "model": "seedance2.5",
       "params": "15s · seedance2.5 · 21:9 · jimeng_multimodal2video",
       "status": "已生成",

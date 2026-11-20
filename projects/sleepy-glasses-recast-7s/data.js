@@ -68,7 +68,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/sleepy-glasses-recast-7s--032cb0c76f22eaa0d020.mp4",
-      "thumb": "assets/shots/S01.jpg",
+      "thumb": "media/img-accef892cf2122df3a4c.jpg",
       "model": "seedance2.5",
       "params": "7s · seedance2.5 · 3:4 · jimeng_multimodal2video",
       "status": "已生成",

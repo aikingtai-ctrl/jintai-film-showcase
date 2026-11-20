@@ -132,7 +132,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/alley-pajama-duo-dance-h3-26s--f2a43afcc5c3913c27de.mp4",
-      "thumb": "assets/shots/S01.jpg",
+      "thumb": "media/img-a98e8624fc92a1a30bdd.jpg",
       "model": "FeiHou_H3_v0.7",
       "params": "832×1440 → 1080×1920 · 5+5步 · seed 8888",
       "status": "已生成"
@@ -157,7 +157,7 @@ window.registerProject({
         }
       ],
       "video": "",
-      "thumb": "assets/shots/S02.jpg",
+      "thumb": "media/img-a208eb03a0f8263cd448.jpg",
       "model": "FeiHou_H3_v0.7",
       "params": "overlap_frames=22 · color_match=True",
       "status": "已合入成片"
@@ -178,7 +178,7 @@ window.registerProject({
         }
       ],
       "video": "",
-      "thumb": "assets/shots/S03.jpg",
+      "thumb": "media/img-7a86950e8dda6893e805.jpg",
       "model": "FeiHou_H3_v0.7",
       "params": "625 frames total @ 24fps",
       "status": "已合入成片"

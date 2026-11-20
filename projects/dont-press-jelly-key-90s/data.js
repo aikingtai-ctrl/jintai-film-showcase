@@ -121,7 +121,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/dont-press-jelly-key-90s--44d622b1989bf2708615.mp4",
-      "thumb": "assets/shots/S01.jpg",
+      "thumb": "media/img-62cf44ebdcde139dfe34.jpg",
       "model": "A 机 H3 SelfLift + Context-IR (S16/S17 续接)",
       "params": "4s · 1920×1080 · 24fps",
       "status": "已生成"
@@ -143,7 +143,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/dont-press-jelly-key-90s--18d8074f90544e883ddc.mp4",
-      "thumb": "assets/shots/S02.jpg",
+      "thumb": "media/img-e8b030078f9744866d73.jpg",
       "model": "A 机 H3 SelfLift + Context-IR (S16/S17 续接)",
       "params": "4s · 1920×1080 · 24fps",
       "status": "已生成"
@@ -165,7 +165,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/dont-press-jelly-key-90s--c5fa39ba302a3f1d2800.mp4",
-      "thumb": "assets/shots/S03.jpg",
+      "thumb": "media/img-ba83ea8e982f4ceedf69.jpg",
       "model": "A 机 H3 SelfLift + Context-IR (S16/S17 续接)",
       "params": "4s · 1920×1080 · 24fps",
       "status": "已生成"
@@ -187,7 +187,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/dont-press-jelly-key-90s--e597ccfab999b164388f.mp4",
-      "thumb": "assets/shots/S04.jpg",
+      "thumb": "media/img-da358a883bf0f40399f9.jpg",
       "model": "A 机 H3 SelfLift + Context-IR (S16/S17 续接)",
       "params": "4s · 1920×1080 · 24fps",
       "status": "已生成"
@@ -209,7 +209,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/dont-press-jelly-key-90s--e1396015b748583675c2.mp4",
-      "thumb": "assets/shots/S05.jpg",
+      "thumb": "media/img-682bf08dd82273bf065f.jpg",
       "model": "A 机 H3 SelfLift + Context-IR (S16/S17 续接)",
       "params": "4s · 1920×1080 · 24fps",
       "status": "已生成"
@@ -231,7 +231,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/dont-press-jelly-key-90s--8130d12862d48622c314.mp4",
-      "thumb": "assets/shots/S06.jpg",
+      "thumb": "media/img-4e4e54c5e1e752e9f0e0.jpg",
       "model": "A 机 H3 SelfLift + Context-IR (S16/S17 续接)",
       "params": "6s · 1920×1080 · 24fps",
       "status": "已生成"
@@ -253,7 +253,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/dont-press-jelly-key-90s--da01e3bb38a48f4db4e2.mp4",
-      "thumb": "assets/shots/S07.jpg",
+      "thumb": "media/img-d01801e648e05a502b82.jpg",
       "model": "A 机 H3 SelfLift + Context-IR (S16/S17 续接)",
       "params": "6s · 1920×1080 · 24fps",
       "status": "已生成"
@@ -275,7 +275,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/dont-press-jelly-key-90s--cc580a8877b1546b5562.mp4",
-      "thumb": "assets/shots/S08.jpg",
+      "thumb": "media/img-ab56cbb48309130c53f1.jpg",
       "model": "A 机 H3 SelfLift + Context-IR (S16/S17 续接)",
       "params": "6s · 1920×1080 · 24fps",
       "status": "已生成"
@@ -297,7 +297,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/dont-press-jelly-key-90s--96760584198d9e883b6e.mp4",
-      "thumb": "assets/shots/S09.jpg",
+      "thumb": "media/img-23579b7dd598e6dae4a4.jpg",
       "model": "A 机 H3 SelfLift + Context-IR (S16/S17 续接)",
       "params": "6s · 1920×1080 · 24fps",
       "status": "已生成"
@@ -319,7 +319,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/dont-press-jelly-key-90s--3cff1de22e801a096148.mp4",
-      "thumb": "assets/shots/S10.jpg",
+      "thumb": "media/img-966671c874b59f1dca38.jpg",
       "model": "A 机 H3 SelfLift + Context-IR (S16/S17 续接)",
       "params": "4s · 1920×1080 · 24fps",
       "status": "已生成"
@@ -341,7 +341,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/dont-press-jelly-key-90s--4fabc05b5558e6e0a7ba.mp4",
-      "thumb": "assets/shots/S11.jpg",
+      "thumb": "media/img-673fb572911fbc82b6c4.jpg",
       "model": "A 机 H3 SelfLift + Context-IR (S16/S17 续接)",
       "params": "4s · 1920×1080 · 24fps",
       "status": "已生成"
@@ -363,7 +363,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/dont-press-jelly-key-90s--1457207af8e8c93b9ce1.mp4",
-      "thumb": "assets/shots/S12.jpg",
+      "thumb": "media/img-4eadd831aa94dd1b6c5d.jpg",
       "model": "A 机 H3 SelfLift + Context-IR (S16/S17 续接)",
       "params": "6s · 1920×1080 · 24fps",
       "status": "已生成"
@@ -385,7 +385,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/dont-press-jelly-key-90s--bfe9122d1c6b8690a359.mp4",
-      "thumb": "assets/shots/S13.jpg",
+      "thumb": "media/img-b3b93120754e1161d2e3.jpg",
       "model": "A 机 H3 SelfLift + Context-IR (S16/S17 续接)",
       "params": "4s · 1920×1080 · 24fps",
       "status": "已生成"
@@ -407,7 +407,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/dont-press-jelly-key-90s--d7e78d66cdc319f7605e.mp4",
-      "thumb": "assets/shots/S14.jpg",
+      "thumb": "media/img-f5f276634421e519b02f.jpg",
       "model": "A 机 H3 SelfLift + Context-IR (S16/S17 续接)",
       "params": "4s · 1920×1080 · 24fps",
       "status": "已生成"
@@ -429,7 +429,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/dont-press-jelly-key-90s--2bd03a76ca0518233eb0.mp4",
-      "thumb": "assets/shots/S15.jpg",
+      "thumb": "media/img-e0463ae18cd788e3c390.jpg",
       "model": "A 机 H3 SelfLift + Context-IR (S16/S17 续接)",
       "params": "6s · 1920×1080 · 24fps",
       "status": "已生成"
@@ -451,7 +451,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/dont-press-jelly-key-90s--af98f2b881c7dee7cd87.mp4",
-      "thumb": "assets/shots/S16.jpg",
+      "thumb": "media/img-ecf3df08b47a681beea3.jpg",
       "model": "A 机 H3 SelfLift + Context-IR (S16/S17 续接)",
       "params": "6s · 1920×1080 · 24fps",
       "status": "已生成"
@@ -473,7 +473,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/dont-press-jelly-key-90s--7b8518d0afe53399cff2.mp4",
-      "thumb": "assets/shots/S17.jpg",
+      "thumb": "media/img-d2f8ccdcd8e338e0f2e2.jpg",
       "model": "A 机 H3 SelfLift + Context-IR (S16/S17 续接)",
       "params": "5s · 1920×1080 · 24fps",
       "status": "已生成"
@@ -495,7 +495,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/dont-press-jelly-key-90s--b74fe228cfcba2cd4003.mp4",
-      "thumb": "assets/shots/S18.jpg",
+      "thumb": "media/img-ef5744ba34f7aa580d93.jpg",
       "model": "A 机 H3 SelfLift + Context-IR (S16/S17 续接)",
       "params": "4s · 1920×1080 · 24fps",
       "status": "已生成"
@@ -517,7 +517,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/dont-press-jelly-key-90s--d3c6726cbc62f0b83e0e.mp4",
-      "thumb": "assets/shots/S19.jpg",
+      "thumb": "media/img-d456ca3163e9ab3ad2c7.jpg",
       "model": "A 机 H3 SelfLift + Context-IR (S16/S17 续接)",
       "params": "3s · 1920×1080 · 24fps",
       "status": "已生成"

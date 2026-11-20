@@ -75,7 +75,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/metro-duo-recast-27s--58a5c92b72a50aec058f.mp4",
-      "thumb": "assets/shots/S01.jpg",
+      "thumb": "media/img-41e0994955580a75d227.jpg",
       "model": "seedance2.5",
       "params": "27s · seedance2.5 · jimeng_multimodal2video",
       "status": "已生成",

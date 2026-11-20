@@ -82,7 +82,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/homework-recast-repair-18s--9511e73d8ebf7abbbfd3.mp4",
-      "thumb": "assets/shots/S01.jpg",
+      "thumb": "media/img-9e2102acbbcf25c82416.jpg",
       "model": "seedance2.5",
       "params": "18s · seedance2.5 · jimeng_multimodal2video",
       "status": "已生成",

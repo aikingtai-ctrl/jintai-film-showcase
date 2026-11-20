@@ -81,7 +81,7 @@ window.registerProject({
           "src": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/pixel-quest-arcade-30s--e308e662e855b8b69cd5.mp4"
         }
       ],
-      "thumb": "assets/shots/t_2.80.png",
+      "thumb": "media/img-fa94ed84246214899523.png",
       "model": "金泰 Pixel-Art Canvas2D 确定性逐帧引擎 + Python Chiptune 合成器",
       "params": "384×216×5 = 1920×1080 · 30fps · 150 BPM",
       "status": "已生成"
@@ -107,7 +107,7 @@ window.registerProject({
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/pixel-quest-arcade-30s--3cc6672812d08ca2cfbe.mp4",
       "alts": [],
-      "thumb": "assets/shots/t_8.50.png",
+      "thumb": "media/img-10f7ad8dc92e28a2c6ee.png",
       "model": "金泰 Pixel-Art Canvas2D 确定性逐帧引擎 + Python Chiptune 合成器",
       "params": "384×216×5 = 1920×1080 · 30fps · 150 BPM",
       "status": "已生成"
@@ -133,7 +133,7 @@ window.registerProject({
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/pixel-quest-arcade-30s--3cc6672812d08ca2cfbe.mp4",
       "alts": [],
-      "thumb": "assets/shots/t_17.70.png",
+      "thumb": "media/img-66cb6dee13e63813b326.png",
       "model": "金泰 Pixel-Art Canvas2D 确定性逐帧引擎 + Python Chiptune 合成器",
       "params": "384×216×5 = 1920×1080 · 30fps · 150 BPM",
       "status": "已生成"
@@ -159,7 +159,7 @@ window.registerProject({
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/pixel-quest-arcade-30s--3cc6672812d08ca2cfbe.mp4",
       "alts": [],
-      "thumb": "assets/shots/t_22.80.png",
+      "thumb": "media/img-b7e8dfcc8b6915f76eba.png",
       "model": "金泰 Pixel-Art Canvas2D 确定性逐帧引擎 + Python Chiptune 合成器",
       "params": "384×216×5 = 1920×1080 · 30fps · 150 BPM",
       "status": "已生成"
@@ -185,7 +185,7 @@ window.registerProject({
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/pixel-quest-arcade-30s--3cc6672812d08ca2cfbe.mp4",
       "alts": [],
-      "thumb": "assets/shots/t_28.50.png",
+      "thumb": "media/img-14bfd28a1b0ad8141b1a.png",
       "model": "金泰 Pixel-Art Canvas2D 确定性逐帧引擎 + Python Chiptune 合成器",
       "params": "384×216×5 = 1920×1080 · 30fps · 150 BPM",
       "status": "已生成"

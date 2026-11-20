@@ -228,7 +228,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/tanghun-ep1--bd1b7b2b6d4009e44767.mp4",
-      "thumb": "assets/shots/S01.jpg",
+      "thumb": "media/img-4b95c31531c559b6c7db.jpg",
       "model": "seedance2.5",
       "params": "8s · seedance2.5 · 16:9 · 1080p · jimeng_multimodal2video",
       "status": "已生成",
@@ -264,7 +264,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/tanghun-ep1--eae091f05f9c06e2d760.mp4",
-      "thumb": "assets/shots/S02.jpg",
+      "thumb": "media/img-54256c01ea6103db9d21.jpg",
       "model": "seedance2.5",
       "params": "7s · seedance2.5 · 16:9 · 1080p · jimeng_multimodal2video",
       "status": "已生成",
@@ -300,7 +300,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/tanghun-ep1--a5ef77c0c31bd4d3bb59.mp4",
-      "thumb": "assets/shots/S03.jpg",
+      "thumb": "media/img-cfa541f2c65f1fa5d073.jpg",
       "model": "seedance2.5",
       "params": "5s · seedance2.5 · 16:9 · 1080p · jimeng_multimodal2video",
       "status": "已生成",
@@ -340,7 +340,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/tanghun-ep1--e8bd9d2e7b77a627f4e1.mp4",
-      "thumb": "assets/shots/S04.jpg",
+      "thumb": "media/img-c747d8ee8930a60c9466.jpg",
       "model": "seedance2.5",
       "params": "15s · seedance2.5 · 16:9 · 1080p · jimeng_multimodal2video",
       "status": "已生成",
@@ -388,7 +388,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/tanghun-ep1--176d668889832871410b.mp4",
-      "thumb": "assets/shots/S05.jpg",
+      "thumb": "media/img-45fb7443c03e13e2ef6a.jpg",
       "model": "seedance2.5",
       "params": "15s · seedance2.5 · 16:9 · 1080p · jimeng_multimodal2video",
       "status": "已生成",
@@ -424,7 +424,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/tanghun-ep1--b83f5b66408203a7de30.mp4",
-      "thumb": "assets/shots/S06.jpg",
+      "thumb": "media/img-585a9b98a0e242eb9a4b.jpg",
       "model": "seedance2.5",
       "params": "5s · seedance2.5 · 16:9 · 1080p · jimeng_multimodal2video",
       "status": "已生成",
@@ -460,7 +460,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/tanghun-ep1--ecb0c7f245fd3445ee5c.mp4",
-      "thumb": "assets/refs/1790045275510_0c81547c.png",
+      "thumb": "media/img-27a4c33b3cda93acbe19.png",
       "model": "seedance2.5",
       "params": "10s · seedance2.5 · 16:9 · jimeng_multimodal2video",
       "status": "已生成",
@@ -496,7 +496,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/tanghun-ep1--776f5860f117a256d4d4.mp4",
-      "thumb": "assets/shots/S08.jpg",
+      "thumb": "media/img-668681f0c3e89939a4b5.jpg",
       "model": "seedance2.5",
       "params": "10s · seedance2.5 · 16:9 · jimeng_multimodal2video",
       "status": "已生成",
@@ -540,7 +540,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/tanghun-ep1--60bac0d1aa344743788d.mp4",
-      "thumb": "assets/refs/1790045297686_60978df2.png",
+      "thumb": "media/img-a4a74d1ba948e1bf061e.png",
       "model": "seedance2.5",
       "params": "10s · seedance2.5 · 16:9 · jimeng_multimodal2video",
       "status": "已生成",
@@ -576,7 +576,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/tanghun-ep1--fa8f708caefd1cd22ac6.mp4",
-      "thumb": "assets/shots/S10.jpg",
+      "thumb": "media/img-6e3e91fc0fe62f56b486.jpg",
       "model": "seedance2.5",
       "params": "10s · seedance2.5 · 16:9 · jimeng_multimodal2video",
       "status": "已生成",
@@ -612,7 +612,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/tanghun-ep1--d4b1d8882e28b6fb0220.mp4",
-      "thumb": "assets/shots/S11.jpg",
+      "thumb": "media/img-026e03be76935c20e10b.jpg",
       "model": "seedance2.5",
       "params": "15s · seedance2.5 · 16:9 · jimeng_multimodal2video",
       "status": "已生成",
@@ -656,7 +656,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/tanghun-ep1--05ad0a9da701f3c08753.mp4",
-      "thumb": "assets/shots/S12.jpg",
+      "thumb": "media/img-33992b05a22ee04584fc.jpg",
       "model": "seedance2.5",
       "params": "10s · seedance2.5 · 16:9 · jimeng_multimodal2video",
       "status": "已生成",
@@ -704,7 +704,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/tanghun-ep1--e0f646a6c5da6cc6647a.mp4",
-      "thumb": "assets/refs/1790045284336_12b01e49.png",
+      "thumb": "media/img-0dbf8722b20d9a09395c.png",
       "model": "seedance2.5",
       "params": "10s · seedance2.5 · 16:9 · jimeng_multimodal2video",
       "status": "已生成",
@@ -748,7 +748,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/tanghun-ep1--61bfd2bf15b594668e89.mp4",
-      "thumb": "assets/shots/S14.jpg",
+      "thumb": "media/img-e5cbc9fbf6579ecd6111.jpg",
       "model": "seedance2.5",
       "params": "10s · seedance2.5 · 16:9 · jimeng_multimodal2video",
       "status": "已生成",
@@ -788,7 +788,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/tanghun-ep1--433474ec1235b8967e91.mp4",
-      "thumb": "assets/shots/S15.jpg",
+      "thumb": "media/img-5cbf1aaafb40e9cc4259.jpg",
       "model": "seedance2.5",
       "params": "10s · seedance2.5 · 16:9 · jimeng_multimodal2video",
       "status": "已生成",
@@ -824,7 +824,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/tanghun-ep1--0921cd022961342c01ca.mp4",
-      "thumb": "assets/shots/S16.jpg",
+      "thumb": "media/img-e7183a8d9a1a5694b8bc.jpg",
       "model": "seedance2.5",
       "params": "10s · seedance2.5 · 16:9 · jimeng_multimodal2video",
       "status": "已生成",
@@ -860,7 +860,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/tanghun-ep1--665a54e28e454e8cee28.mp4",
-      "thumb": "assets/shots/S17.jpg",
+      "thumb": "media/img-ec23ea7942ff468d3a14.jpg",
       "model": "seedance2.5",
       "params": "10s · seedance2.5 · 16:9 · jimeng_multimodal2video",
       "status": "已生成",
@@ -896,7 +896,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/tanghun-ep1--bf1947ff962d436ba16d.mp4",
-      "thumb": "assets/refs/1790045273899_f4531e0a.png",
+      "thumb": "media/img-15bf49536571029de84c.png",
       "model": "seedance2.5",
       "params": "10s · seedance2.5 · 16:9 · jimeng_multimodal2video",
       "status": "已生成",
@@ -932,7 +932,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/tanghun-ep1--56419e43a39a9c4fb4a0.mp4",
-      "thumb": "assets/shots/S19.jpg",
+      "thumb": "media/img-b87e17465dd5aa6f1a9e.jpg",
       "model": "seedance2.5",
       "params": "10s · seedance2.5 · 16:9 · jimeng_multimodal2video",
       "status": "已生成",
@@ -964,7 +964,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/tanghun-ep1--0f86936a4cc6fa1d80e9.mp4",
-      "thumb": "assets/shots/S20.jpg",
+      "thumb": "media/img-d15748a170ca0ef495b1.jpg",
       "model": "kie_grok_i2v",
       "params": "kie_grok_i2v",
       "status": "已生成",

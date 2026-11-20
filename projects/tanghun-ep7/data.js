@@ -162,7 +162,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/tanghun-ep7--21606c205fc0dab04462.mp4",
-      "thumb": "assets/shots/S01.jpg",
+      "thumb": "media/img-49dab275af19806adf4e.jpg",
       "model": "seedance2.5",
       "params": "8s · seedance2.5 · 720p · jimeng_image2video",
       "status": "已生成",
@@ -198,7 +198,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/tanghun-ep7--29787b36384bdbed5a69.mp4",
-      "thumb": "assets/shots/S02.jpg",
+      "thumb": "media/img-7db330a8f60e88aa3ba3.jpg",
       "model": "seedance2.5",
       "params": "11s · seedance2.5 · jimeng_frames2video",
       "status": "已生成",
@@ -234,7 +234,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/tanghun-ep7--815261f00ce21e38b32b.mp4",
-      "thumb": "assets/shots/S03.jpg",
+      "thumb": "media/img-03bb4010b2f259de8b7d.jpg",
       "model": "seedance2.5",
       "params": "5s · seedance2.5 · jimeng_multimodal2video",
       "status": "已生成",
@@ -266,7 +266,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/tanghun-ep7--5b0193428080e121185b.mp4",
-      "thumb": "assets/shots/S04.jpg",
+      "thumb": "media/img-60b3b0b6e05815f42056.jpg",
       "model": "seedance2.5",
       "params": "13s · seedance2.5 · 720p · jimeng_image2video",
       "status": "已生成",
@@ -298,7 +298,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/tanghun-ep7--089590b6e2e0a231f201.mp4",
-      "thumb": "assets/shots/S05.jpg",
+      "thumb": "media/img-2166de585a758f13f6ef.jpg",
       "model": "seedance2.5",
       "params": "10s · seedance2.5 · 720p · jimeng_image2video",
       "status": "已生成",
@@ -330,7 +330,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/tanghun-ep7--92d610269b457d3bfaf7.mp4",
-      "thumb": "assets/shots/S06.jpg",
+      "thumb": "media/img-c1dd63cc86abf5d52649.jpg",
       "model": "seedance2.5",
       "params": "10s · seedance2.5 · 720p · jimeng_image2video",
       "status": "已生成",
@@ -394,7 +394,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/tanghun-ep7--c2ea0415a2284b588121.mp4",
-      "thumb": "assets/shots/S08.jpg",
+      "thumb": "media/img-f09d706240eefcd39bcf.jpg",
       "model": "seedance2.5",
       "params": "7s · seedance2.5 · 720p · jimeng_image2video",
       "status": "已生成",
@@ -426,7 +426,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/tanghun-ep7--9253de07ddbfddc7fc59.mp4",
-      "thumb": "assets/shots/S09.jpg",
+      "thumb": "media/img-083cacec7ebf9fd39d9d.jpg",
       "model": "seedance2.5",
       "params": "12s · seedance2.5 · 720p · jimeng_image2video",
       "status": "已生成",
@@ -490,7 +490,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/tanghun-ep7--3d8eba12bd73b864c2c0.mp4",
-      "thumb": "assets/shots/S11.jpg",
+      "thumb": "media/img-ff064a098af68dd13425.jpg",
       "model": "seedance2.5",
       "params": "13s · seedance2.5 · 720p · jimeng_image2video",
       "status": "已生成",
@@ -522,7 +522,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/tanghun-ep7--2f3ab20c4e0bc9b81669.mp4",
-      "thumb": "assets/shots/S12.jpg",
+      "thumb": "media/img-84128c902925919db63d.jpg",
       "model": "seedance2.5",
       "params": "7s · seedance2.5 · 720p · jimeng_image2video",
       "status": "已生成",
@@ -558,7 +558,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/tanghun-ep7--c0e276a616423784ba90.mp4",
-      "thumb": "assets/shots/S13.jpg",
+      "thumb": "media/img-8aec8fdc4d36799b2d98.jpg",
       "model": "seedance2.5",
       "params": "9s · seedance2.5 · jimeng_frames2video",
       "status": "已生成",
@@ -590,7 +590,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/tanghun-ep7--db9185ca0fc2cad7219d.mp4",
-      "thumb": "assets/shots/S14.jpg",
+      "thumb": "media/img-7826a039be165e0510b3.jpg",
       "model": "seedance2.5",
       "params": "5s · seedance2.5 · 720p · jimeng_image2video",
       "status": "已生成",
@@ -622,7 +622,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/tanghun-ep7--284cfe53ff4ad13b3b77.mp4",
-      "thumb": "assets/shots/S15.jpg",
+      "thumb": "media/img-4d5969ac0c248a10b251.jpg",
       "model": "seedance2.5",
       "params": "9s · seedance2.5 · 720p · jimeng_image2video",
       "status": "已生成",
@@ -654,7 +654,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/tanghun-ep7--1376aa6337a975ab207b.mp4",
-      "thumb": "assets/shots/S16.jpg",
+      "thumb": "media/img-05f58b6c75b358401aea.jpg",
       "model": "seedance2.5",
       "params": "13s · seedance2.5 · 720p · jimeng_image2video",
       "status": "已生成",
@@ -686,7 +686,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/tanghun-ep7--8feab8f7bcdb6a947ae2.mp4",
-      "thumb": "assets/shots/S17.jpg",
+      "thumb": "media/img-88103a51cdc4adcabf9c.jpg",
       "model": "seedance2.5",
       "params": "9s · seedance2.5 · 720p · jimeng_image2video",
       "status": "已生成",
@@ -722,7 +722,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/tanghun-ep7--776b971b8486060c9f62.mp4",
-      "thumb": "assets/shots/S18.jpg",
+      "thumb": "media/img-2e9fe68dcf194a892804.jpg",
       "model": "seedance2.5",
       "params": "11s · seedance2.5 · jimeng_frames2video",
       "status": "已生成",
@@ -754,7 +754,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/tanghun-ep7--437ad926364e112342a8.mp4",
-      "thumb": "assets/shots/S19.jpg",
+      "thumb": "media/img-c05bc28f770f2992ca34.jpg",
       "model": "seedance2.5",
       "params": "9s · seedance2.5 · 720p · jimeng_image2video",
       "status": "已生成",
@@ -790,7 +790,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/tanghun-ep7--0b93f8a42cc115402d21.mp4",
-      "thumb": "assets/shots/S20.jpg",
+      "thumb": "media/img-97032f15e451e8ef0937.jpg",
       "model": "seedance2.5",
       "params": "seedance2.5 · jimeng_frames2video",
       "status": "已生成",
@@ -858,7 +858,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/tanghun-ep7--165f576382826fba0548.mp4",
-      "thumb": "assets/shots/S22.jpg",
+      "thumb": "media/img-973da751be3f9dbbe36f.jpg",
       "model": "seedance2.5",
       "params": "11s · seedance2.5 · jimeng_multimodal2video",
       "status": "已生成",
@@ -890,7 +890,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/tanghun-ep7--ef9b194d65558b497636.mp4",
-      "thumb": "assets/shots/S23.jpg",
+      "thumb": "media/img-761af708fcb8514cbff8.jpg",
       "model": "seedance2.5",
       "params": "11s · seedance2.5 · jimeng_multimodal2video",
       "status": "已生成",
@@ -926,7 +926,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/tanghun-ep7--6f26cbbbae74d48b3a3a.mp4",
-      "thumb": "assets/shots/S24.jpg",
+      "thumb": "media/img-10b70d4fb9a6af208368.jpg",
       "model": "seedance2.5",
       "params": "10s · seedance2.5 · jimeng_multimodal2video",
       "status": "已生成",
@@ -958,7 +958,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/tanghun-ep7--a877043230ee19059454.mp4",
-      "thumb": "assets/shots/S25.jpg",
+      "thumb": "media/img-a1caf296e4c0e3a42680.jpg",
       "model": "seedance2.5",
       "params": "8s · seedance2.5 · 720p · jimeng_image2video",
       "status": "已生成",

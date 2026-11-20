@@ -152,7 +152,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/tuomashi-couture-h3-lc-123s--e9ee5c4606e47326a942.mp4",
-      "thumb": "assets/shots/S01.jpg",
+      "thumb": "media/img-2193c0c35935cb94ef93.jpg",
       "model": "FeiHou_MiniMax-H3_Remix_HSA_v0.7 + Breeze TTS 2 / LC",
       "params": "1280×720 @ 25fps",
       "status": "已合入成片"
@@ -173,7 +173,7 @@ window.registerProject({
         }
       ],
       "video": "",
-      "thumb": "assets/shots/S02.jpg",
+      "thumb": "media/img-2791c8e493d372447020.jpg",
       "model": "FeiHou_MiniMax-H3_Remix_HSA_v0.7 + Breeze TTS 2 / LC",
       "params": "1280×720 @ 25fps",
       "status": "已合入成片"
@@ -194,7 +194,7 @@ window.registerProject({
         }
       ],
       "video": "",
-      "thumb": "assets/shots/S03.jpg",
+      "thumb": "media/img-58b0ea531c674fd9cbe8.jpg",
       "model": "FeiHou_MiniMax-H3_Remix_HSA_v0.7 + Breeze TTS 2 / LC",
       "params": "1280×720 @ 25fps",
       "status": "已合入成片"
@@ -215,7 +215,7 @@ window.registerProject({
         }
       ],
       "video": "",
-      "thumb": "assets/shots/S04.jpg",
+      "thumb": "media/img-11c2e6935bc9729940cc.jpg",
       "model": "FeiHou_MiniMax-H3_Remix_HSA_v0.7 + Breeze TTS 2 / LC",
       "params": "1280×720 @ 25fps",
       "status": "已合入成片"

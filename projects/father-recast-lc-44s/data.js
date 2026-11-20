@@ -68,7 +68,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/father-recast-lc-44s--f57fc25fa4136e339f89.mp4",
-      "thumb": "assets/shots/S01_fire_wide_compare.png",
+      "thumb": "media/img-23f127b20af312f72291.png",
       "model": "局部跟踪重绘 + Seed-VC V2 (LC) + LatentSync",
       "params": "3.2s · 1080×1920 · 25fps",
       "status": "已生成"
@@ -89,7 +89,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/father-recast-lc-44s--f57fc25fa4136e339f89.mp4",
-      "thumb": "assets/shots/S02_fire_close_compare.png",
+      "thumb": "media/img-03eff3bd59f3605cf5b9.png",
       "model": "局部跟踪重绘 + Seed-VC V2 (LC) + LatentSync",
       "params": "4.0s · 1080×1920 · 25fps",
       "status": "已生成"
@@ -110,7 +110,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/father-recast-lc-44s--f57fc25fa4136e339f89.mp4",
-      "thumb": "assets/shots/S04_fire_denial_compare.png",
+      "thumb": "media/img-611546b82f5957d3a592.png",
       "model": "局部跟踪重绘 + Seed-VC V2 (LC) + LatentSync",
       "params": "4.5s · 1080×1920 · 25fps",
       "status": "已生成"
@@ -131,7 +131,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/father-recast-lc-44s--f57fc25fa4136e339f89.mp4",
-      "thumb": "assets/shots/S05_burglar_son_compare.png",
+      "thumb": "media/img-1467b723ab7c826a3873.png",
       "model": "局部跟踪重绘 + Seed-VC V2 (LC) + LatentSync",
       "params": "4.3s · 1080×1920 · 25fps",
       "status": "已生成"
@@ -152,7 +152,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/father-recast-lc-44s--f57fc25fa4136e339f89.mp4",
-      "thumb": "assets/shots/S06_clean_police_compare.png",
+      "thumb": "media/img-dbb287c17087803e9d5d.png",
       "model": "局部跟踪重绘 + Seed-VC V2 (LC) + LatentSync",
       "params": "5.0s · 1080×1920 · 25fps",
       "status": "已生成"
@@ -173,7 +173,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/father-recast-lc-44s--f57fc25fa4136e339f89.mp4",
-      "thumb": "assets/shots/S07_son_clean_compare.png",
+      "thumb": "media/img-e5eaae18f548c9534f5f.png",
       "model": "局部跟踪重绘 + Seed-VC V2 (LC) + LatentSync",
       "params": "3.5s · 1080×1920 · 25fps",
       "status": "已生成"
@@ -194,7 +194,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/father-recast-lc-44s--f57fc25fa4136e339f89.mp4",
-      "thumb": "assets/shots/S09_police_denial_compare.png",
+      "thumb": "media/img-061e182c546d23919c14.png",
       "model": "局部跟踪重绘 + Seed-VC V2 (LC) + LatentSync",
       "params": "5.5s · 1080×1920 · 25fps",
       "status": "已生成"
@@ -215,7 +215,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/father-recast-lc-44s--6e26db4bd234adcf77a9.mp4",
-      "thumb": "assets/shots/S10_son_pain_compare.png",
+      "thumb": "media/img-e4ea855cb799cb8d3115.png",
       "model": "局部跟踪重绘 + Seed-VC V2 (LC) + LatentSync",
       "params": "3.5s · 1080×1920 · 25fps",
       "status": "已生成"
@@ -236,7 +236,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/father-recast-lc-44s--6e26db4bd234adcf77a9.mp4",
-      "thumb": "assets/shots/S11_doctor_clean_compare.png",
+      "thumb": "media/img-efd4a12b7db1797922b7.png",
       "model": "局部跟踪重绘 + Seed-VC V2 (LC) + LatentSync",
       "params": "3.5s · 1080×1920 · 25fps",
       "status": "已生成"
@@ -257,7 +257,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/father-recast-lc-44s--6e26db4bd234adcf77a9.mp4",
-      "thumb": "assets/shots/S12_doctor_wide_compare.png",
+      "thumb": "media/img-116a0a60245acaf47c70.png",
       "model": "局部跟踪重绘 + Seed-VC V2 (LC) + LatentSync",
       "params": "3.0s · 1080×1920 · 25fps",
       "status": "已生成"
@@ -278,7 +278,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/father-recast-lc-44s--6e26db4bd234adcf77a9.mp4",
-      "thumb": "assets/shots/S13_doctor_denial_compare.png",
+      "thumb": "media/img-18396c63bbd82ac44bc7.png",
       "model": "局部跟踪重绘 + Seed-VC V2 (LC) + LatentSync",
       "params": "3.52s · 1080×1920 · 25fps",
       "status": "已生成"

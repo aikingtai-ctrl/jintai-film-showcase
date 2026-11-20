@@ -203,7 +203,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/xianxia-sword-array-30s--af5b0c0cb6525d6794a7.mp4",
-      "thumb": "assets/shots/S01.jpg",
+      "thumb": "media/img-b2e43a8d8fa618f7e7b0.jpg",
       "model": "seedance2.5",
       "params": "5s · seedance2.5 · 16:9 · 720p · jimeng_multimodal2video",
       "status": "已生成",
@@ -255,7 +255,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/xianxia-sword-array-30s--844e7c4cdb02aac4a5a5.mp4",
-      "thumb": "assets/shots/S02.jpg",
+      "thumb": "media/img-b869072bba7620efc75a.jpg",
       "model": "seedance2.5",
       "params": "5s · seedance2.5 · 16:9 · 720p · jimeng_multimodal2video",
       "status": "已生成",
@@ -307,7 +307,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/xianxia-sword-array-30s--da3525b1530336449ad8.mp4",
-      "thumb": "assets/shots/S03.jpg",
+      "thumb": "media/img-f29f71936827db1cd175.jpg",
       "model": "seedance2.5",
       "params": "5s · seedance2.5 · 16:9 · 720p · jimeng_multimodal2video",
       "status": "已生成",
@@ -359,7 +359,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/xianxia-sword-array-30s--c10e9e2707d52348c9c2.mp4",
-      "thumb": "assets/shots/S04.jpg",
+      "thumb": "media/img-c5ec571decc8beac52ca.jpg",
       "model": "seedance2.5",
       "params": "5s · seedance2.5 · 16:9 · 720p · jimeng_multimodal2video",
       "status": "已生成",
@@ -411,7 +411,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/xianxia-sword-array-30s--f395c0ff91640364e29b.mp4",
-      "thumb": "assets/shots/S05.jpg",
+      "thumb": "media/img-a26f8dfc8a1ec7e9d172.jpg",
       "model": "seedance2.5",
       "params": "5s · seedance2.5 · 16:9 · 720p · jimeng_multimodal2video",
       "status": "已生成",
@@ -463,7 +463,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/xianxia-sword-array-30s--fe85875984922c3be6da.mp4",
-      "thumb": "assets/shots/S06.jpg",
+      "thumb": "media/img-5516c2564c248f04ccf8.jpg",
       "model": "seedance2.5",
       "params": "5s · seedance2.5 · 16:9 · 720p · jimeng_multimodal2video",
       "status": "已生成",

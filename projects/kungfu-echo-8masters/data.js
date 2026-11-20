@@ -328,7 +328,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/kungfu-echo-8masters--a76ce9353247491b8325.mp4",
-      "thumb": "assets/shots/S01.jpg",
+      "thumb": "media/img-544e0ef062e646de38c9.jpg",
       "model": "seedance2.5",
       "params": "30s · 16:9 · 1280×720 60fps · taskId 2264 · jimeng_multimodal2video",
       "status": "已生成",
@@ -370,7 +370,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/kungfu-echo-8masters--9eac8428a5a4de09a281.mp4",
-      "thumb": "assets/shots/S02.jpg",
+      "thumb": "media/img-dc938b18c7ec8185b8a8.jpg",
       "model": "seedance2.5",
       "params": "30s · 16:9 · 1280×720 60fps · taskId 2265 · jimeng_multimodal2video",
       "status": "已生成",
@@ -420,7 +420,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/kungfu-echo-8masters--f62b4b8051d70c8e7fd3.mp4",
-      "thumb": "assets/shots/S03.jpg",
+      "thumb": "media/img-b5831fcc5883b0cf69ad.jpg",
       "model": "seedance2.5",
       "params": "30s · 16:9 · 1280×720 60fps · taskId 2343 · jimeng_multimodal2video",
       "status": "已生成",
@@ -466,7 +466,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/kungfu-echo-8masters--f5643f8bb815bdff2e08.mp4",
-      "thumb": "assets/shots/S04.jpg",
+      "thumb": "media/img-e8247dee50d58e3455b7.jpg",
       "model": "seedance2.5",
       "params": "30s · 16:9 · 1280×720 60fps · taskId 2267 + 2341 · jimeng_multimodal2video",
       "status": "已生成",
@@ -517,7 +517,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/kungfu-echo-8masters--abc11134af22b61794a2.mp4",
-      "thumb": "assets/shots/S05.jpg",
+      "thumb": "media/img-2c369e76b0d06c7d1244.jpg",
       "model": "seedance2.5",
       "params": "30s · 16:9 · 1280×720 60fps · taskId 2268 · jimeng_multimodal2video",
       "status": "已生成",
@@ -559,7 +559,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/kungfu-echo-8masters--29abe4891129b7bcfcc2.mp4",
-      "thumb": "assets/shots/S06.jpg",
+      "thumb": "media/img-c594f66c84cba8f4abde.jpg",
       "model": "seedance2.5",
       "params": "30s · 16:9 · 1280×720 60fps · taskId 2269 · jimeng_multimodal2video",
       "status": "已生成",
@@ -601,7 +601,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/kungfu-echo-8masters--fd6d741b272b77418486.mp4",
-      "thumb": "assets/shots/S07.jpg",
+      "thumb": "media/img-92c838125e7082616183.jpg",
       "model": "seedance2.5",
       "params": "30s · 16:9 · 1280×720 60fps · taskId 2270 + 2340 · jimeng_multimodal2video",
       "status": "已生成",
@@ -652,7 +652,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/kungfu-echo-8masters--b177b544cb8df4b9e742.mp4",
-      "thumb": "assets/shots/S08.jpg",
+      "thumb": "media/img-9eb7a653c883f08fb9b1.jpg",
       "model": "seedance2.5",
       "params": "30s · 16:9 · 1280×720 60fps · taskId 2271 · jimeng_multimodal2video",
       "status": "已生成",

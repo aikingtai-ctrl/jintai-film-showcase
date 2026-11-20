@@ -98,7 +98,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/kingtai-zaojie-sanctuary-180s--a8c9fba91a01696d621a.mp4",
-      "thumb": "assets/shots/S01.jpg",
+      "thumb": "media/img-2518bdfa960b36d10c1f.jpg",
       "model": "Three.js 60fps Engine + MiniMax Music 3",
       "params": "1920×1080 @ 60fps · Web 优化压制版 (原母带 1.02 GB)",
       "status": "已合入成片 (9.13 PASS)"
@@ -119,7 +119,7 @@ window.registerProject({
         }
       ],
       "video": "",
-      "thumb": "assets/shots/S02.jpg",
+      "thumb": "media/img-9c72eeccf14d66de3ca2.jpg",
       "model": "Three.js 60fps Engine + MiniMax Music 3",
       "params": "1920×1080 @ 60fps · Web 优化压制版 (原母带 1.02 GB)",
       "status": "已合入成片 (9.13 PASS)"
@@ -140,7 +140,7 @@ window.registerProject({
         }
       ],
       "video": "",
-      "thumb": "assets/shots/S03.jpg",
+      "thumb": "media/img-29bae379c4d202d7cdba.jpg",
       "model": "Three.js 60fps Engine + MiniMax Music 3",
       "params": "1920×1080 @ 60fps · Web 优化压制版 (原母带 1.02 GB)",
       "status": "已合入成片 (9.13 PASS)"
@@ -161,7 +161,7 @@ window.registerProject({
         }
       ],
       "video": "",
-      "thumb": "assets/shots/S04.jpg",
+      "thumb": "media/img-1d58c0d9c489dba5f1d8.jpg",
       "model": "Three.js 60fps Engine + MiniMax Music 3",
       "params": "1920×1080 @ 60fps · Web 优化压制版 (原母带 1.02 GB)",
       "status": "已合入成片 (9.13 PASS)"
@@ -182,7 +182,7 @@ window.registerProject({
         }
       ],
       "video": "",
-      "thumb": "assets/shots/S05.jpg",
+      "thumb": "media/img-ed33034994162a0cc885.jpg",
       "model": "Three.js 60fps Engine + MiniMax Music 3",
       "params": "1920×1080 @ 60fps · Web 优化压制版 (原母带 1.02 GB)",
       "status": "已合入成片 (9.13 PASS)"
@@ -203,7 +203,7 @@ window.registerProject({
         }
       ],
       "video": "",
-      "thumb": "assets/shots/S06.jpg",
+      "thumb": "media/img-dac0be4f353fa9744098.jpg",
       "model": "Three.js 60fps Engine + MiniMax Music 3",
       "params": "1920×1080 @ 60fps · Web 优化压制版 (原母带 1.02 GB)",
       "status": "已合入成片 (9.13 PASS)"
@@ -224,7 +224,7 @@ window.registerProject({
         }
       ],
       "video": "",
-      "thumb": "assets/shots/S07.jpg",
+      "thumb": "media/img-08c0da0bb46409364af9.jpg",
       "model": "Three.js 60fps Engine + MiniMax Music 3",
       "params": "1920×1080 @ 60fps · Web 优化压制版 (原母带 1.02 GB)",
       "status": "已合入成片 (9.13 PASS)"
@@ -245,7 +245,7 @@ window.registerProject({
         }
       ],
       "video": "",
-      "thumb": "assets/shots/S08.jpg",
+      "thumb": "media/img-c9c2391c63856b1d0a87.jpg",
       "model": "Three.js 60fps Engine + MiniMax Music 3",
       "params": "1920×1080 @ 60fps · Web 优化压制版 (原母带 1.02 GB)",
       "status": "已合入成片 (9.13 PASS)"
@@ -266,7 +266,7 @@ window.registerProject({
         }
       ],
       "video": "",
-      "thumb": "assets/shots/S09.jpg",
+      "thumb": "media/img-1e0d21c0623298cff977.jpg",
       "model": "Three.js 60fps Engine + MiniMax Music 3",
       "params": "1920×1080 @ 60fps · Web 优化压制版 (原母带 1.02 GB)",
       "status": "已合入成片 (9.13 PASS)"
@@ -287,7 +287,7 @@ window.registerProject({
         }
       ],
       "video": "",
-      "thumb": "assets/shots/S10.jpg",
+      "thumb": "media/img-d2b0369122f4e886f910.jpg",
       "model": "Three.js 60fps Engine + MiniMax Music 3",
       "params": "1920×1080 @ 60fps · Web 优化压制版 (原母带 1.02 GB)",
       "status": "已合入成片 (9.13 PASS)"

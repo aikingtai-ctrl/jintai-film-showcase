@@ -72,7 +72,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/yqsy-character-recast-8s--69735446cd0e7efffd53.mp4",
-      "thumb": "assets/shots/S01.jpg",
+      "thumb": "media/img-e8b9bff7367187e96974.jpg",
       "model": "seedance2.5",
       "params": "8s · seedance2.5 · 9:16 · jimeng_multimodal2video",
       "status": "已生成",

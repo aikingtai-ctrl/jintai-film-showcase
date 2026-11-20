@@ -69,7 +69,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/didnt-expect-recast-58s--75d3c79927dfc8fb35ea.mp4",
-      "thumb": "assets/shots/S01.jpg",
+      "thumb": "media/img-447c2e790001e9d84028.jpg",
       "model": "seedance2.5",
       "params": "30s · seedance2.5 · 4:3 · jimeng_multimodal2video",
       "status": "已生成",
@@ -101,7 +101,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/didnt-expect-recast-58s--e3411d61ef24de910418.mp4",
-      "thumb": "assets/shots/S02.jpg",
+      "thumb": "media/img-c78a3174f3e03abfbbe2.jpg",
       "model": "seedance2.5",
       "params": "28s · seedance2.5 · 4:3 · jimeng_multimodal2video",
       "status": "已生成",

@@ -76,7 +76,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/glam-rock-doll-8s--9bae9bf60da913bd73b1.mp4",
-      "thumb": "assets/shots/S01.jpg",
+      "thumb": "media/img-823dbd4eed8721e28546.jpg",
       "model": "seedance2.5",
       "params": "8s · seedance2.5 · 9:16 · jimeng_multimodal2video",
       "status": "已生成",

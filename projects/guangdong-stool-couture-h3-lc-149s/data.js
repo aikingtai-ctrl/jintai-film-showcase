@@ -140,7 +140,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/guangdong-stool-couture-h3-lc-149s--61da6f5407bb6c60d9dc.mp4",
-      "thumb": "assets/shots/S01.jpg",
+      "thumb": "media/img-42183dd42bfd65ea790e.jpg",
       "model": "FeiHou_MiniMax-H3_Remix_HSA_v0.7 + Breeze TTS 2 / LC",
       "params": "1280×720 @ 25fps",
       "status": "已合入成片"
@@ -161,7 +161,7 @@ window.registerProject({
         }
       ],
       "video": "",
-      "thumb": "assets/shots/S02.jpg",
+      "thumb": "media/img-6f7787a520d9dc060817.jpg",
       "model": "FeiHou_MiniMax-H3_Remix_HSA_v0.7 + Breeze TTS 2 / LC",
       "params": "1280×720 @ 25fps",
       "status": "已合入成片"
@@ -182,7 +182,7 @@ window.registerProject({
         }
       ],
       "video": "",
-      "thumb": "assets/shots/S03.jpg",
+      "thumb": "media/img-2e29c191c4fccc77a347.jpg",
       "model": "FeiHou_MiniMax-H3_Remix_HSA_v0.7 + Breeze TTS 2 / LC",
       "params": "1280×720 @ 25fps",
       "status": "已合入成片"
@@ -203,7 +203,7 @@ window.registerProject({
         }
       ],
       "video": "",
-      "thumb": "assets/shots/S04.jpg",
+      "thumb": "media/img-c9a5e4354a61a7daad51.jpg",
       "model": "FeiHou_MiniMax-H3_Remix_HSA_v0.7 + Breeze TTS 2 / LC",
       "params": "1280×720 @ 25fps",
       "status": "已合入成片"

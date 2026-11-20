@@ -123,7 +123,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/apocalyptic-bridge-escape-h3-15s--f370b1c85e7e92438b48.mp4",
-      "thumb": "assets/shots/S01.jpg",
+      "thumb": "media/img-eb20cf1ce4ef696c5bef.jpg",
       "model": "FeiHou_MiniMax-H3_Remix_HSA_v0.7",
       "params": "H3 二段式 1536×864 (s01_seedB) · @pictures 1,2,3 + @first anchor2_s01_v1.png",
       "status": "已合入成片"
@@ -151,7 +151,7 @@ window.registerProject({
         }
       ],
       "video": "",
-      "thumb": "assets/shots/S02.jpg",
+      "thumb": "media/img-b6cbf515879f68900e5c.jpg",
       "model": "FeiHou_MiniMax-H3_Remix_HSA_v0.7",
       "params": "Wan2.1-MiniMaxRemover-1.3B 512×256 时序去水印补丁回贴 1080p",
       "status": "已合入成片"
@@ -179,7 +179,7 @@ window.registerProject({
         }
       ],
       "video": "",
-      "thumb": "assets/shots/S03.jpg",
+      "thumb": "media/img-8fc8d873e7138386335a.jpg",
       "model": "FeiHou_MiniMax-H3_Remix_HSA_v0.7",
       "params": "Wan2.1-MiniMaxRemover-1.3B 时序无痕去水印",
       "status": "已合入成片"
@@ -207,7 +207,7 @@ window.registerProject({
         }
       ],
       "video": "",
-      "thumb": "assets/shots/S04.jpg",
+      "thumb": "media/img-7a7afc94ecd83c043169.jpg",
       "model": "FeiHou_MiniMax-H3_Remix_HSA_v0.7",
       "params": "H3 二段式 1536×864 (s04_seedA) · 无人空车底板防白人胡须串脸",
       "status": "已合入成片"
@@ -235,7 +235,7 @@ window.registerProject({
         }
       ],
       "video": "",
-      "thumb": "assets/shots/S05.jpg",
+      "thumb": "media/img-2389f9b4293e3e0e7608.jpg",
       "model": "FeiHou_MiniMax-H3_Remix_HSA_v0.7",
       "params": "Wan2.1-MiniMaxRemover-1.3B 时序无痕去水印",
       "status": "已合入成片"
@@ -263,7 +263,7 @@ window.registerProject({
         }
       ],
       "video": "",
-      "thumb": "assets/shots/S06.jpg",
+      "thumb": "media/img-99ba609bcca28afcd0a1.jpg",
       "model": "FeiHou_MiniMax-H3_Remix_HSA_v0.7",
       "params": "H3 二段式 1536×864 (s06_seedB) · 骨相与银框眼镜跨镜严丝合缝",
       "status": "已合入成片"
@@ -291,7 +291,7 @@ window.registerProject({
         }
       ],
       "video": "",
-      "thumb": "assets/shots/S07.jpg",
+      "thumb": "media/img-7ac79633d14596249ce9.jpg",
       "model": "FeiHou_MiniMax-H3_Remix_HSA_v0.7",
       "params": "H3 亚秒镜头 3× 时序展宽（16f→56f 跨过 3D VAE 瓶颈后 [::3] 抽回 16f · s07_seedA）",
       "status": "已合入成片"

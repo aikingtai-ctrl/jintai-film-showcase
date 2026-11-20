@@ -110,7 +110,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/viggle-remake-h3-dual-showcase--180f71077a6b028e5c95.mp4",
-      "thumb": "assets/shots/S01.jpg",
+      "thumb": "media/img-239919fac04f0d2a9407.jpg",
       "model": "FeiHou MiniMax H3 Viggle-Remake MCP",
       "params": "832×480 @ 24fps · 9.417s",
       "status": "已生成"
@@ -131,7 +131,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/viggle-remake-h3-dual-showcase--1f3ebdffcb877f335ee7.mp4",
-      "thumb": "assets/shots/S02.jpg",
+      "thumb": "media/img-282af8bef56ec881e565.jpg",
       "model": "FeiHou MiniMax H3 Viggle-Remake MCP",
       "params": "1664×480 @ 24fps · 9.417s",
       "status": "已生成"
@@ -152,7 +152,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/viggle-remake-h3-dual-showcase--a97c505327b21b781c86.mp4",
-      "thumb": "assets/shots/S03.jpg",
+      "thumb": "media/img-672be9f182c5f55d2caa.jpg",
       "model": "FeiHou MiniMax H3 Viggle-Remake MCP",
       "params": "832×480 @ 24fps · 9.417s",
       "status": "已生成"
@@ -173,7 +173,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/viggle-remake-h3-dual-showcase--f2441998a5cdc6fe689e.mp4",
-      "thumb": "assets/shots/S04.jpg",
+      "thumb": "media/img-f747f779528854f1fc9f.jpg",
       "model": "FeiHou MiniMax H3 Viggle-Remake MCP",
       "params": "1664×480 @ 24fps · 9.417s",
       "status": "已生成"

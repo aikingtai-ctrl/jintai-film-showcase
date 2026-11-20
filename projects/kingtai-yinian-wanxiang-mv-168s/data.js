@@ -66,7 +66,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/kingtai-yinian-wanxiang-mv-168s--836607c67a21e65d4a34.mp4",
-      "thumb": "assets/shots/S01.jpg",
+      "thumb": "media/img-d76b9f727372d5d2bdc0.jpg",
       "model": "MiniMax Music 3 + TypeScript/WebGL2 60fps Engine",
       "params": "1920×1080 · 60fps · Deterministic f.t",
       "status": "已生成"
@@ -88,7 +88,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/kingtai-yinian-wanxiang-mv-168s--836607c67a21e65d4a34.mp4",
-      "thumb": "assets/shots/S02.jpg",
+      "thumb": "media/img-181b366a1a429b0413a3.jpg",
       "model": "MiniMax Music 3 + TypeScript/WebGL2 60fps Engine",
       "params": "1920×1080 · 60fps · Deterministic f.t",
       "status": "已生成"
@@ -110,7 +110,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/kingtai-yinian-wanxiang-mv-168s--836607c67a21e65d4a34.mp4",
-      "thumb": "assets/shots/S03.jpg",
+      "thumb": "media/img-613a90ab313dc3356ece.jpg",
       "model": "MiniMax Music 3 + TypeScript/WebGL2 60fps Engine",
       "params": "1920×1080 · 60fps · Deterministic f.t",
       "status": "已生成"
@@ -132,7 +132,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/kingtai-yinian-wanxiang-mv-168s--836607c67a21e65d4a34.mp4",
-      "thumb": "assets/shots/S04.jpg",
+      "thumb": "media/img-31ccc9920c9ddbb5aee5.jpg",
       "model": "MiniMax Music 3 + TypeScript/WebGL2 60fps Engine",
       "params": "1920×1080 · 60fps · Deterministic f.t",
       "status": "已生成"
@@ -154,7 +154,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/kingtai-yinian-wanxiang-mv-168s--836607c67a21e65d4a34.mp4",
-      "thumb": "assets/shots/S05.jpg",
+      "thumb": "media/img-20f10980a0dd33fa3d32.jpg",
       "model": "MiniMax Music 3 + TypeScript/WebGL2 60fps Engine",
       "params": "1920×1080 · 60fps · Deterministic f.t",
       "status": "已生成"
@@ -176,7 +176,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/kingtai-yinian-wanxiang-mv-168s--836607c67a21e65d4a34.mp4",
-      "thumb": "assets/shots/S06.jpg",
+      "thumb": "media/img-8836480b4bd8b7105763.jpg",
       "model": "MiniMax Music 3 + TypeScript/WebGL2 60fps Engine",
       "params": "1920×1080 · 60fps · Deterministic f.t",
       "status": "已生成"
@@ -198,7 +198,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/kingtai-yinian-wanxiang-mv-168s--836607c67a21e65d4a34.mp4",
-      "thumb": "assets/shots/S07.jpg",
+      "thumb": "media/img-5e5bd2e24c10baff7029.jpg",
       "model": "MiniMax Music 3 + TypeScript/WebGL2 60fps Engine",
       "params": "1920×1080 · 60fps · Deterministic f.t",
       "status": "已生成"
@@ -220,7 +220,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/kingtai-yinian-wanxiang-mv-168s--836607c67a21e65d4a34.mp4",
-      "thumb": "assets/shots/S08.jpg",
+      "thumb": "media/img-c85869174b32e40a93e9.jpg",
       "model": "MiniMax Music 3 + TypeScript/WebGL2 60fps Engine",
       "params": "1920×1080 · 60fps · Deterministic f.t",
       "status": "已生成"
@@ -242,7 +242,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/kingtai-yinian-wanxiang-mv-168s--836607c67a21e65d4a34.mp4",
-      "thumb": "assets/shots/S09.jpg",
+      "thumb": "media/img-42fed782e2301b5011b0.jpg",
       "model": "MiniMax Music 3 + TypeScript/WebGL2 60fps Engine",
       "params": "1920×1080 · 60fps · Deterministic f.t",
       "status": "已生成"
@@ -264,7 +264,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/kingtai-yinian-wanxiang-mv-168s--836607c67a21e65d4a34.mp4",
-      "thumb": "assets/shots/S10.jpg",
+      "thumb": "media/img-e0eaa9f5ef9dacf92004.jpg",
       "model": "MiniMax Music 3 + TypeScript/WebGL2 60fps Engine",
       "params": "1920×1080 · 60fps · Deterministic f.t",
       "status": "已生成"
@@ -286,7 +286,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/kingtai-yinian-wanxiang-mv-168s--836607c67a21e65d4a34.mp4",
-      "thumb": "assets/shots/S11.jpg",
+      "thumb": "media/img-8026625ce9c6a260b20a.jpg",
       "model": "MiniMax Music 3 + TypeScript/WebGL2 60fps Engine",
       "params": "1920×1080 · 60fps · Deterministic f.t",
       "status": "已生成"
@@ -308,7 +308,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/kingtai-yinian-wanxiang-mv-168s--836607c67a21e65d4a34.mp4",
-      "thumb": "assets/shots/S12.jpg",
+      "thumb": "media/img-795730a34a133f57e213.jpg",
       "model": "MiniMax Music 3 + TypeScript/WebGL2 60fps Engine",
       "params": "1920×1080 · 60fps · Deterministic f.t",
       "status": "已生成"
@@ -330,7 +330,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/kingtai-yinian-wanxiang-mv-168s--836607c67a21e65d4a34.mp4",
-      "thumb": "assets/shots/S13.jpg",
+      "thumb": "media/img-ff22531ea88faf90abb6.jpg",
       "model": "MiniMax Music 3 + TypeScript/WebGL2 60fps Engine",
       "params": "1920×1080 · 60fps · Deterministic f.t",
       "status": "已生成"
@@ -352,7 +352,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/kingtai-yinian-wanxiang-mv-168s--836607c67a21e65d4a34.mp4",
-      "thumb": "assets/shots/S14.jpg",
+      "thumb": "media/img-1da80d6628ab97fad559.jpg",
       "model": "MiniMax Music 3 + TypeScript/WebGL2 60fps Engine",
       "params": "1920×1080 · 60fps · Deterministic f.t",
       "status": "已生成"

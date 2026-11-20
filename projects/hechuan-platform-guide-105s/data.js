@@ -98,7 +98,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/hechuan-platform-guide-105s--a790c3254030e96a703b.mp4",
-      "thumb": "assets/shots/S01.jpg",
+      "thumb": "media/img-4ba712593d6247e990be.jpg",
       "model": "1+5 多AGENT协作组 · A机 H100 配音配乐",
       "params": "1920×1080 @ 30fps · 3.5s",
       "status": "已合入成片 (9.56 PASS)"
@@ -119,7 +119,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/hechuan-platform-guide-105s--68e38fc5fff80899dd70.mp4",
-      "thumb": "assets/shots/S02.jpg",
+      "thumb": "media/img-6a9d342878bf1f897968.jpg",
       "model": "1+5 多AGENT协作组 · A机 H100 配音配乐",
       "params": "1920×1080 @ 30fps · 4.5s",
       "status": "已合入成片 (9.56 PASS)"
@@ -140,7 +140,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/hechuan-platform-guide-105s--12a6e3bdc6ee09e270da.mp4",
-      "thumb": "assets/shots/S03.jpg",
+      "thumb": "media/img-7110bfe793585baeea8b.jpg",
       "model": "1+5 多AGENT协作组 · A机 H100 配音配乐",
       "params": "1920×1080 @ 30fps · 5.5s",
       "status": "已合入成片 (9.56 PASS)"
@@ -161,7 +161,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/hechuan-platform-guide-105s--f3560112add71cefdba5.mp4",
-      "thumb": "assets/shots/S04.jpg",
+      "thumb": "media/img-9eeda5da2f23ac4f97c8.jpg",
       "model": "1+5 多AGENT协作组 · A机 H100 配音配乐",
       "params": "1920×1080 @ 30fps · 6.5s",
       "status": "已合入成片 (9.56 PASS)"
@@ -182,7 +182,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/hechuan-platform-guide-105s--c9811739755f3b23bed1.mp4",
-      "thumb": "assets/shots/S05.jpg",
+      "thumb": "media/img-93d4c96705f001a91ddc.jpg",
       "model": "1+5 多AGENT协作组 · A机 H100 配音配乐",
       "params": "1920×1080 @ 30fps · 8.5s",
       "status": "已合入成片 (9.56 PASS)"
@@ -203,7 +203,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/hechuan-platform-guide-105s--8168c6ff5c9acd24225f.mp4",
-      "thumb": "assets/shots/S06.jpg",
+      "thumb": "media/img-3b517bc6f4eef1c970ee.jpg",
       "model": "1+5 多AGENT协作组 · A机 H100 配音配乐",
       "params": "1920×1080 @ 30fps · 7.5s",
       "status": "已合入成片 (9.56 PASS)"
@@ -224,7 +224,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/hechuan-platform-guide-105s--3f88005270ac01e3a9bd.mp4",
-      "thumb": "assets/shots/S07.jpg",
+      "thumb": "media/img-33e7fbef49fc0fa55afa.jpg",
       "model": "1+5 多AGENT协作组 · A机 H100 配音配乐",
       "params": "1920×1080 @ 30fps · 7.5s",
       "status": "已合入成片 (9.56 PASS)"
@@ -245,7 +245,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/hechuan-platform-guide-105s--c689633bbea55a494d7e.mp4",
-      "thumb": "assets/shots/S08.jpg",
+      "thumb": "media/img-83f2a46697537d5d11b4.jpg",
       "model": "1+5 多AGENT协作组 · A机 H100 配音配乐",
       "params": "1920×1080 @ 30fps · 7.5s",
       "status": "已合入成片 (9.56 PASS)"
@@ -266,7 +266,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/hechuan-platform-guide-105s--c80cdf8dc7f087c6fcea.mp4",
-      "thumb": "assets/shots/S09.jpg",
+      "thumb": "media/img-27fbaecbd59dd712a1cb.jpg",
       "model": "1+5 多AGENT协作组 · A机 H100 配音配乐",
       "params": "1920×1080 @ 30fps · 7.0s",
       "status": "已合入成片 (9.56 PASS)"
@@ -287,7 +287,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/hechuan-platform-guide-105s--cab4f02d13a332b8065c.mp4",
-      "thumb": "assets/shots/S10.jpg",
+      "thumb": "media/img-cd52349eda240c804c99.jpg",
       "model": "1+5 多AGENT协作组 · A机 H100 配音配乐",
       "params": "1920×1080 @ 30fps · 8.5s",
       "status": "已合入成片 (9.56 PASS)"
@@ -308,7 +308,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/hechuan-platform-guide-105s--97e4d10869aaa2c719f4.mp4",
-      "thumb": "assets/shots/S11.jpg",
+      "thumb": "media/img-02aacba7ee6fb64aae9a.jpg",
       "model": "1+5 多AGENT协作组 · A机 H100 配音配乐",
       "params": "1920×1080 @ 30fps · 8.5s",
       "status": "已合入成片 (9.56 PASS)"
@@ -329,7 +329,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/hechuan-platform-guide-105s--603911bce5a28891091d.mp4",
-      "thumb": "assets/shots/S12.jpg",
+      "thumb": "media/img-ed10cde4d92dad2e1264.jpg",
       "model": "1+5 多AGENT协作组 · A机 H100 配音配乐",
       "params": "1920×1080 @ 30fps · 8.5s",
       "status": "已合入成片 (9.56 PASS)"
@@ -350,7 +350,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/hechuan-platform-guide-105s--c4b13c45c973b4883e30.mp4",
-      "thumb": "assets/shots/S13.jpg",
+      "thumb": "media/img-71eab799032a37f0fd0c.jpg",
       "model": "1+5 多AGENT协作组 · A机 H100 配音配乐",
       "params": "1920×1080 @ 30fps · 9.5s",
       "status": "已合入成片 (9.56 PASS)"
@@ -371,7 +371,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/hechuan-platform-guide-105s--9cdb35b4ea26ee982133.mp4",
-      "thumb": "assets/shots/S14.jpg",
+      "thumb": "media/img-f8ce30a273e099a6f77a.jpg",
       "model": "1+5 多AGENT协作组 · A机 H100 配音配乐",
       "params": "1920×1080 @ 30fps · 12.0s",
       "status": "已合入成片 (9.56 PASS)"

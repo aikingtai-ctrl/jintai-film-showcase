@@ -98,7 +98,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/pegasus-comedy-recap-100s--d51b106ff3371922483c.mp4",
-      "thumb": "assets/shots/S01.jpg",
+      "thumb": "media/img-a317fad3dc4081a0d978.jpg",
       "model": "B机 RTX 5090 Topaz 2× + A机 Breeze-TTS-2 + Music 3",
       "params": "00.00s–06.73s · 1920×1080 @ 30fps",
       "status": "已合入成片"
@@ -126,7 +126,7 @@ window.registerProject({
         }
       ],
       "video": "",
-      "thumb": "assets/shots/S02.jpg",
+      "thumb": "media/img-8dedfed532f89b672786.jpg",
       "model": "B机 RTX 5090 Topaz 2× + A机 Breeze-TTS-2 + Music 3",
       "params": "06.73s–12.89s · 1920×1080 @ 30fps",
       "status": "已合入成片"
@@ -154,7 +154,7 @@ window.registerProject({
         }
       ],
       "video": "",
-      "thumb": "assets/shots/S03.jpg",
+      "thumb": "media/img-eab9664e5da101ef26ec.jpg",
       "model": "B机 RTX 5090 Topaz 2× + A机 Breeze-TTS-2 + Music 3",
       "params": "12.89s–20.59s · 1920×1080 @ 30fps",
       "status": "已合入成片"
@@ -182,7 +182,7 @@ window.registerProject({
         }
       ],
       "video": "",
-      "thumb": "assets/shots/S04.jpg",
+      "thumb": "media/img-8f25914406adefad5abf.jpg",
       "model": "B机 RTX 5090 Topaz 2× + A机 Breeze-TTS-2 + Music 3",
       "params": "20.59s–26.97s · 1920×1080 @ 30fps",
       "status": "已合入成片"
@@ -210,7 +210,7 @@ window.registerProject({
         }
       ],
       "video": "",
-      "thumb": "assets/shots/S05.jpg",
+      "thumb": "media/img-78092aa631c556d9bfa2.jpg",
       "model": "B机 RTX 5090 Topaz 2× + A机 Breeze-TTS-2 + Music 3",
       "params": "26.97s–36.05s · 1920×1080 @ 30fps",
       "status": "已合入成片"
@@ -238,7 +238,7 @@ window.registerProject({
         }
       ],
       "video": "",
-      "thumb": "assets/shots/S06.jpg",
+      "thumb": "media/img-bdab3df0d0da9016972a.jpg",
       "model": "B机 RTX 5090 Topaz 2× + A机 Breeze-TTS-2 + Music 3",
       "params": "36.05s–46.02s · 1920×1080 @ 30fps",
       "status": "已合入成片"
@@ -266,7 +266,7 @@ window.registerProject({
         }
       ],
       "video": "",
-      "thumb": "assets/shots/S07.jpg",
+      "thumb": "media/img-5dd18468c58525b08e2e.jpg",
       "model": "B机 RTX 5090 Topaz 2× + A机 Breeze-TTS-2 + Music 3",
       "params": "46.02s–55.48s · 1920×1080 @ 30fps",
       "status": "已合入成片"
@@ -294,7 +294,7 @@ window.registerProject({
         }
       ],
       "video": "",
-      "thumb": "assets/shots/S08.jpg",
+      "thumb": "media/img-3db2439806408f31f1c0.jpg",
       "model": "B机 RTX 5090 Topaz 2× + A机 Breeze-TTS-2 + Music 3",
       "params": "55.48s–64.71s · 1920×1080 @ 30fps",
       "status": "已合入成片"
@@ -322,7 +322,7 @@ window.registerProject({
         }
       ],
       "video": "",
-      "thumb": "assets/shots/S09.jpg",
+      "thumb": "media/img-2da0a09e7ccc82431a39.jpg",
       "model": "B机 RTX 5090 Topaz 2× + A机 Breeze-TTS-2 + Music 3",
       "params": "64.71s–74.75s · 1920×1080 @ 30fps",
       "status": "已合入成片"
@@ -350,7 +350,7 @@ window.registerProject({
         }
       ],
       "video": "",
-      "thumb": "assets/shots/S10.jpg",
+      "thumb": "media/img-f9cb9acc2cf323e03755.jpg",
       "model": "B机 RTX 5090 Topaz 2× + A机 Breeze-TTS-2 + Music 3",
       "params": "74.75s–82.95s · 1920×1080 @ 30fps",
       "status": "已合入成片"
@@ -378,7 +378,7 @@ window.registerProject({
         }
       ],
       "video": "",
-      "thumb": "assets/shots/S11.jpg",
+      "thumb": "media/img-5767d93bf913fe35f8e0.jpg",
       "model": "B机 RTX 5090 Topaz 2× + A机 Breeze-TTS-2 + Music 3",
       "params": "82.95s–90.83s · 1920×1080 @ 30fps",
       "status": "已合入成片"
@@ -406,7 +406,7 @@ window.registerProject({
         }
       ],
       "video": "",
-      "thumb": "assets/shots/S12.jpg",
+      "thumb": "media/img-638ec4ee4a813add85a4.jpg",
       "model": "B机 RTX 5090 Topaz 2× + A机 Breeze-TTS-2 + Music 3",
       "params": "90.83s–99.64s · 1920×1080 @ 30fps",
       "status": "已合入成片"

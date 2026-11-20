@@ -461,7 +461,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/scene-zero--861f8f42a5b1054c375b.mp4",
-      "thumb": "assets/shots/S01.jpg",
+      "thumb": "media/img-059279ac913dfe92d6b2.jpg",
       "model": "seedance2.5",
       "params": "6s · seedance2.5 · 21:9 · jimeng_multimodal2video",
       "status": "已生成",
@@ -493,7 +493,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/scene-zero--cde40c05b9a12c23729c.mp4",
-      "thumb": "assets/shots/S02.jpg",
+      "thumb": "media/img-cfac083be677873d9f86.jpg",
       "model": "seedance2.5",
       "params": "6s · seedance2.5 · 21:9 · jimeng_multimodal2video",
       "status": "已生成",
@@ -531,7 +531,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/scene-zero--15b8ba669b31bf546f88.mp4",
-      "thumb": "assets/shots/S03.jpg",
+      "thumb": "media/img-05863afafd5cc0d87072.jpg",
       "model": "seedance2.5",
       "params": "6s · seedance2.5 · 21:9 · jimeng_multimodal2video",
       "status": "已生成",
@@ -569,7 +569,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/scene-zero--64709d4ad977ffac60ad.mp4",
-      "thumb": "assets/shots/S04.jpg",
+      "thumb": "media/img-c8dd8d546cc1e8eb7fcd.jpg",
       "model": "seedance2.5",
       "params": "seedance2.5 · 21:9 · jimeng_multimodal2video",
       "status": "已生成",
@@ -607,7 +607,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/scene-zero--87036ddabfe9e3d83a21.mp4",
-      "thumb": "assets/shots/S05.jpg",
+      "thumb": "media/img-2cfcb8d56f775f9a70ee.jpg",
       "model": "seedance2.5",
       "params": "6s · seedance2.5 · 21:9 · jimeng_multimodal2video",
       "status": "已生成",
@@ -645,7 +645,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/scene-zero--e7d57391719ac705e210.mp4",
-      "thumb": "assets/shots/S06.jpg",
+      "thumb": "media/img-4fc04073fad2ebcc2c00.jpg",
       "model": "seedance2.5",
       "params": "seedance2.5 · 21:9 · jimeng_multimodal2video",
       "status": "已生成",
@@ -683,7 +683,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/scene-zero--726ee7f70198998f3ab7.mp4",
-      "thumb": "assets/shots/S07.jpg",
+      "thumb": "media/img-abc27e41a63d4aa43cdc.jpg",
       "model": "seedance2.5",
       "params": "7s · seedance2.5 · 21:9 · jimeng_multimodal2video",
       "status": "已生成",
@@ -721,7 +721,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/scene-zero--855ef542b8d52eb199f5.mp4",
-      "thumb": "assets/shots/S08.jpg",
+      "thumb": "media/img-d1b7c4b943692054bf35.jpg",
       "model": "seedance2.5",
       "params": "seedance2.5 · 21:9 · jimeng_multimodal2video",
       "status": "已生成",
@@ -759,7 +759,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/scene-zero--5503a287c2d95671a288.mp4",
-      "thumb": "assets/shots/S09.jpg",
+      "thumb": "media/img-647b4ff906db97451383.jpg",
       "model": "seedance2.5",
       "params": "seedance2.5 · 21:9 · jimeng_multimodal2video",
       "status": "已生成",
@@ -797,7 +797,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/scene-zero--30fd57b878d971adce95.mp4",
-      "thumb": "assets/shots/S10.jpg",
+      "thumb": "media/img-725542371a8820c0c82f.jpg",
       "model": "seedance2.5",
       "params": "seedance2.5 · 21:9 · jimeng_multimodal2video",
       "status": "已生成",
@@ -839,7 +839,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/scene-zero--c77873c38346e46402e4.mp4",
-      "thumb": "assets/shots/S11.jpg",
+      "thumb": "media/img-95dd86d9af231c4e7f0f.jpg",
       "model": "seedance2.5",
       "params": "seedance2.5 · 21:9 · jimeng_multimodal2video",
       "status": "已生成",
@@ -871,7 +871,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/scene-zero--22685bd19a86a40c47aa.mp4",
-      "thumb": "assets/shots/S12.jpg",
+      "thumb": "media/img-a136a21a47ddec712bac.jpg",
       "model": "seedance2.5",
       "params": "6s · seedance2.5 · 21:9 · jimeng_multimodal2video",
       "status": "已生成",
@@ -914,7 +914,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/scene-zero--af90f383b6a8862b416e.mp4",
-      "thumb": "assets/shots/S13.jpg",
+      "thumb": "media/img-27f1a684bcbecceacff3.jpg",
       "model": "seedance2.5",
       "params": "seedance2.5 · 21:9 · jimeng_multimodal2video",
       "status": "已生成",
@@ -946,7 +946,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/scene-zero--662ab5b64c75cf30e017.mp4",
-      "thumb": "assets/shots/S14.jpg",
+      "thumb": "media/img-abf7e1a198c07096c5f5.jpg",
       "model": "seedance2.5",
       "params": "6s · seedance2.5 · 21:9 · jimeng_multimodal2video",
       "status": "已生成",
@@ -984,7 +984,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/scene-zero--80365212290311a743f6.mp4",
-      "thumb": "assets/shots/S15.jpg",
+      "thumb": "media/img-c9c702dab705b19e7c10.jpg",
       "model": "seedance2.5",
       "params": "6s · seedance2.5 · 21:9 · jimeng_multimodal2video",
       "status": "已生成",
@@ -1022,7 +1022,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/scene-zero--9008ec1958030930f114.mp4",
-      "thumb": "assets/shots/S16.jpg",
+      "thumb": "media/img-d7f6691a18d6941cefad.jpg",
       "model": "seedance2.5",
       "params": "6s · seedance2.5 · 21:9 · jimeng_multimodal2video",
       "status": "已生成",
@@ -1060,7 +1060,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/scene-zero--5efd993f70323d7f7129.mp4",
-      "thumb": "assets/shots/S17.jpg",
+      "thumb": "media/img-0f0d8354a2da6966098b.jpg",
       "model": "seedance2.5",
       "params": "7s · seedance2.5 · 21:9 · jimeng_multimodal2video",
       "status": "已生成",
@@ -1110,7 +1110,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/scene-zero--358bdfcc5d68ffe9dc12.mp4",
-      "thumb": "assets/shots/S18.jpg",
+      "thumb": "media/img-ab0c741f5939d9c55342.jpg",
       "model": "seedance2.5",
       "params": "6s · seedance2.5 · 21:9 · jimeng_multimodal2video",
       "status": "已生成",
@@ -1148,7 +1148,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/scene-zero--c4cd0d3945815f0777ab.mp4",
-      "thumb": "assets/shots/S19.jpg",
+      "thumb": "media/img-1261ab85a20eb201b80c.jpg",
       "model": "seedance2.5",
       "params": "seedance2.5 · 21:9 · jimeng_multimodal2video",
       "status": "已生成",
@@ -1190,7 +1190,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/scene-zero--cc11e63e76389fc23718.mp4",
-      "thumb": "assets/shots/S20.jpg",
+      "thumb": "media/img-f0e5f82ae687f607bd6d.jpg",
       "model": "seedance2.5",
       "params": "seedance2.5 · 21:9 · jimeng_multimodal2video",
       "status": "已生成",
@@ -1236,7 +1236,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/scene-zero--20cc1df372c807ac1368.mp4",
-      "thumb": "assets/shots/S21.jpg",
+      "thumb": "media/img-7379c52a2aa8aaeda470.jpg",
       "model": "seedance2.5",
       "params": "6s · seedance2.5 · 21:9 · jimeng_multimodal2video",
       "status": "已生成",
@@ -1274,7 +1274,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/scene-zero--1e19e1a2b6261a94ca50.mp4",
-      "thumb": "assets/shots/S22.jpg",
+      "thumb": "media/img-b7c428430f88218802bb.jpg",
       "model": "seedance2.5",
       "params": "seedance2.5 · 21:9 · jimeng_multimodal2video",
       "status": "已生成",
@@ -1306,7 +1306,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/scene-zero--030ca9f565d05a1f4242.mp4",
-      "thumb": "assets/shots/S23.jpg",
+      "thumb": "media/img-9abd65137982065d4ccb.jpg",
       "model": "seedance2.5",
       "params": "6s · seedance2.5 · 21:9 · jimeng_multimodal2video",
       "status": "已生成",
@@ -1344,7 +1344,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/scene-zero--34845912d028b14b7130.mp4",
-      "thumb": "assets/shots/S24.jpg",
+      "thumb": "media/img-38fa8b1bc5fe972601b7.jpg",
       "model": "seedance2.5",
       "params": "7s · seedance2.5 · 21:9 · jimeng_multimodal2video",
       "status": "已生成",
@@ -1376,7 +1376,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/scene-zero--57dee99d9576ff58a817.mp4",
-      "thumb": "assets/shots/S25.jpg",
+      "thumb": "media/img-65057efb200b8f90d2ad.jpg",
       "model": "seedance2.5",
       "params": "seedance2.5 · 21:9 · jimeng_multimodal2video",
       "status": "已生成",
@@ -1441,7 +1441,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/scene-zero--e71243dd8a3085cbc4fc.mp4",
-      "thumb": "assets/shots/S26.jpg",
+      "thumb": "media/img-a7f2298a133a2e61f1a7.jpg",
       "model": "seedance2.5",
       "params": "seedance2.5 · 21:9 · jimeng_multimodal2video",
       "status": "已生成",
@@ -1507,7 +1507,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/scene-zero--f7e28e65f5a940c86724.mp4",
-      "thumb": "assets/shots/S27.jpg",
+      "thumb": "media/img-556669427ab34c6b2ed9.jpg",
       "model": "seedance2.5",
       "params": "seedance2.5 · 21:9 · jimeng_multimodal2video",
       "status": "已生成",
@@ -1553,7 +1553,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/scene-zero--bd377075aa1a6e0307d6.mp4",
-      "thumb": "assets/shots/S28.jpg",
+      "thumb": "media/img-88c0b5f1114d95309edc.jpg",
       "model": "seedance2.5",
       "params": "seedance2.5 · 21:9 · jimeng_multimodal2video",
       "status": "已生成",
@@ -1615,7 +1615,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/scene-zero--1514777a1cebb33fea4f.mp4",
-      "thumb": "assets/shots/S29.jpg",
+      "thumb": "media/img-ae07e4a20bb400d623c0.jpg",
       "model": "seedance2.5",
       "params": "6s · seedance2.5 · 21:9 · jimeng_multimodal2video",
       "status": "已生成",
@@ -1653,7 +1653,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/scene-zero--2ee5ab7201938a0c3ada.mp4",
-      "thumb": "assets/shots/S30.jpg",
+      "thumb": "media/img-f7f1284300a08c847a96.jpg",
       "model": "seedance2.5",
       "params": "seedance2.5 · 21:9 · jimeng_multimodal2video",
       "status": "已生成",
@@ -1685,7 +1685,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/scene-zero--7f9be846d53d80834834.mp4",
-      "thumb": "assets/shots/S31.jpg",
+      "thumb": "media/img-bc4b5222edc2f44b86d9.jpg",
       "model": "seedance2.5",
       "params": "6s · seedance2.5 · 21:9 · jimeng_multimodal2video",
       "status": "已生成",
@@ -1728,7 +1728,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/scene-zero--dcf0f72f7d3fbc89e25f.mp4",
-      "thumb": "assets/shots/S32.jpg",
+      "thumb": "media/img-57893a171e6434cb7b72.jpg",
       "model": "seedance2.5",
       "params": "6s · seedance2.5 · 21:9 · jimeng_multimodal2video",
       "status": "已生成",
@@ -1771,7 +1771,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/scene-zero--0dfe98f6b9084ff7d743.mp4",
-      "thumb": "assets/shots/S33.jpg",
+      "thumb": "media/img-2e5fb1f9448eb3fc7429.jpg",
       "model": "seedance2.5",
       "params": "8s · seedance2.5 · 21:9 · jimeng_multimodal2video",
       "status": "已生成",
@@ -1809,7 +1809,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/scene-zero--2e19f408d28972924b68.mp4",
-      "thumb": "assets/shots/S34.jpg",
+      "thumb": "media/img-71a722493c09153f4cbb.jpg",
       "model": "seedance2.5",
       "params": "6s · seedance2.5 · 21:9 · jimeng_multimodal2video",
       "status": "已生成",
@@ -1838,7 +1838,7 @@ window.registerProject({
       "prompt": "景别  65mm正面近景，同SH35\t运镜  固定\n灯光  右后5600K冷白侧逆光，门内3000K暖橙点光；前低中低远中雾。冻结纸片不动，人物暗部可读。\t角色@  @角色_学生创作者\n场景@  @场景_未来片场\n画面  @角色_学生创作者 @场景_未来片场。起幅：学生独自站在相同标记，眼线与她重合。0—1秒稳住；1—4秒：学生轻抬眼并停住；末1秒：目光与SH35一致，肩线不偏。摄影机：固定。环境：背景保持稳定，光位与道具不跳变。\n\n对白  她（画外）@第零场_女一 ：“后来才知道，” 不生成字幕；对白统一后期录制。\n音效 / 配乐  她的声音跨人物底片继续。配乐按全片科幻配乐分轨后期铺设，不在每条生成片内重复起乐。\n",
       "refs": [],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/scene-zero--13552a2b6e285c585d8b.mp4",
-      "thumb": "assets/shots/S35.jpg",
+      "thumb": "media/img-60f9e75343d303d996fc.jpg",
       "model": "seedance2.5",
       "params": "seedance2.5 · 21:9 · jimeng_multimodal2video",
       "status": "已生成",
@@ -1900,7 +1900,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/scene-zero--77d4315db61bd3e81634.mp4",
-      "thumb": "assets/shots/S36.jpg",
+      "thumb": "media/img-c8c5e699dda8175a5e08.jpg",
       "model": "seedance2.5",
       "params": "6s · seedance2.5 · 21:9 · jimeng_multimodal2video",
       "status": "已生成",
@@ -1962,7 +1962,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/scene-zero--6b765fce6b740e86188d.mp4",
-      "thumb": "assets/shots/S37.jpg",
+      "thumb": "media/img-5d0b9591a25a30a307a0.jpg",
       "model": "seedance2.5",
       "params": "seedance2.5 · 21:9 · jimeng_multimodal2video",
       "status": "已生成",
@@ -2028,7 +2028,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/scene-zero--6906adef73ef79735c36.mp4",
-      "thumb": "assets/shots/S38.jpg",
+      "thumb": "media/img-7e83bff1f378675bf6ba.jpg",
       "model": "seedance2.5",
       "params": "6s · seedance2.5 · 21:9 · jimeng_multimodal2video",
       "status": "已生成",
@@ -2060,7 +2060,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/scene-zero--33319a72d5c5e5b2836a.mp4",
-      "thumb": "assets/shots/S39.jpg",
+      "thumb": "media/img-9b342575d5598c6cc934.jpg",
       "model": "seedance2.5",
       "params": "seedance2.5 · 21:9 · jimeng_multimodal2video",
       "status": "已生成",
@@ -2092,7 +2092,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/scene-zero--ca20ee0201e75c5c6302.mp4",
-      "thumb": "assets/shots/S40.jpg",
+      "thumb": "media/img-d273ae1f68c0032eb28b.jpg",
       "model": "seedance2.5",
       "params": "seedance2.5 · 21:9 · jimeng_multimodal2video",
       "status": "已生成",
@@ -2124,7 +2124,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/scene-zero--bc4230c084bfab4ea876.mp4",
-      "thumb": "assets/shots/S41.jpg",
+      "thumb": "media/img-cdaba4b379dd803d68eb.jpg",
       "model": "seedance2.5",
       "params": "6s · seedance2.5 · 21:9 · jimeng_multimodal2video",
       "status": "已生成",
@@ -2156,7 +2156,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/scene-zero--d08d728d4b5c2fba9d46.mp4",
-      "thumb": "assets/shots/S42.jpg",
+      "thumb": "media/img-3a7e5eba1288426f455f.jpg",
       "model": "seedance2.5",
       "params": "7s · seedance2.5 · 21:9 · jimeng_multimodal2video",
       "status": "已生成",
@@ -2194,7 +2194,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/scene-zero--c32a0b55e693cb4af105.mp4",
-      "thumb": "assets/shots/S43.jpg",
+      "thumb": "media/img-8afe9a688e3c8c27b409.jpg",
       "model": "seedance2.5",
       "params": "8s · seedance2.5 · 21:9 · jimeng_multimodal2video",
       "status": "已生成",
@@ -2232,7 +2232,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/scene-zero--01423096ce4733bd3e54.mp4",
-      "thumb": "assets/shots/S44.jpg",
+      "thumb": "media/img-6bb6941a88f15a299f2a.jpg",
       "model": "seedance2.5",
       "params": "7s · seedance2.5 · 21:9 · jimeng_multimodal2video",
       "status": "已生成",
@@ -2264,7 +2264,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/scene-zero--71909f7c7ea8d31748b3.mp4",
-      "thumb": "assets/shots/S45.jpg",
+      "thumb": "media/img-0f2b07eb960dc51c27db.jpg",
       "model": "seedance2.5",
       "params": "6s · seedance2.5 · 21:9 · jimeng_multimodal2video",
       "status": "已生成",
@@ -2318,7 +2318,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/scene-zero--b9510518a93ed90a6b11.mp4",
-      "thumb": "assets/shots/S46.jpg",
+      "thumb": "media/img-773e68cc374a084ca88d.jpg",
       "model": "seedance2.5",
       "params": "seedance2.5 · 21:9 · jimeng_multimodal2video",
       "status": "已生成",
@@ -2377,7 +2377,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/scene-zero--2442efb17583379e267a.mp4",
-      "thumb": "assets/shots/S47.jpg",
+      "thumb": "media/img-1965f02bf3300d94548e.jpg",
       "model": "seedance2.5",
       "params": "15s · seedance2.5 · 21:9 · jimeng_multimodal2video",
       "status": "已生成",
@@ -2436,7 +2436,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/scene-zero--234d8cd3fd04c9692046.mp4",
-      "thumb": "assets/shots/S48.jpg",
+      "thumb": "media/img-8dbdc918ee35f4031a6e.jpg",
       "model": "seedance2.5",
       "params": "8s · seedance2.5 · 21:9 · jimeng_multimodal2video",
       "status": "已生成",
@@ -2495,7 +2495,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/scene-zero--a77aa245addc00c8eede.mp4",
-      "thumb": "assets/shots/S49.jpg",
+      "thumb": "media/img-fe0759fe91a9cdbd90c1.jpg",
       "model": "seedance2.5",
       "params": "7s · seedance2.5 · 21:9 · jimeng_multimodal2video",
       "status": "已生成",
@@ -2527,7 +2527,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/scene-zero--7c64613507c1502d512a.mp4",
-      "thumb": "assets/shots/S50.jpg",
+      "thumb": "media/img-bad30f462cc0fd2b3eb6.jpg",
       "model": "seedance2.5",
       "params": "7s · seedance2.5 · 21:9 · jimeng_multimodal2video",
       "status": "已生成",
@@ -2564,7 +2564,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/scene-zero--76bab4b262945dcbe756.mp4",
-      "thumb": "assets/shots/S51.jpg",
+      "thumb": "media/img-ad0016b8be25b12cd4c7.jpg",
       "model": "seedance2.5",
       "params": "seedance2.5 · 21:9 · jimeng_multimodal2video",
       "status": "已生成",

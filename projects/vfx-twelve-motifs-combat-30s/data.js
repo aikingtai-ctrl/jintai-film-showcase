@@ -89,7 +89,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/vfx-twelve-motifs-combat-30s--3b6f9ceb633b9f5255a5.mp4",
-      "thumb": "assets/shots/S01.jpg",
+      "thumb": "media/img-e1df9f5e3e681adca51f.jpg",
       "model": "seedance2.5",
       "params": "5s · seedance2.5 · 21:9 · 720p · jimeng_multimodal2video",
       "status": "已生成",
@@ -137,7 +137,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/vfx-twelve-motifs-combat-30s--45b77ffe670cb1a7c20b.mp4",
-      "thumb": "assets/shots/S02.jpg",
+      "thumb": "media/img-85f42bc1fb0eee8ad56c.jpg",
       "model": "seedance2.5",
       "params": "5s · seedance2.5 · 21:9 · 720p · jimeng_multimodal2video",
       "status": "已生成",
@@ -185,7 +185,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/vfx-twelve-motifs-combat-30s--c3d5a6e692e48cb2fe4c.mp4",
-      "thumb": "assets/shots/S03.jpg",
+      "thumb": "media/img-b5c250b3807c572aca03.jpg",
       "model": "seedance2.5",
       "params": "5s · seedance2.5 · 21:9 · 720p · jimeng_multimodal2video",
       "status": "已生成",
@@ -233,7 +233,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/vfx-twelve-motifs-combat-30s--baafd058c3f1c78cf3f8.mp4",
-      "thumb": "assets/shots/S04.jpg",
+      "thumb": "media/img-50ac604d52a53312981b.jpg",
       "model": "seedance2.5",
       "params": "5s · seedance2.5 · 21:9 · 720p · jimeng_multimodal2video",
       "status": "已生成",
@@ -281,7 +281,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/vfx-twelve-motifs-combat-30s--d9ccf5eb42402283e58d.mp4",
-      "thumb": "assets/shots/S05.jpg",
+      "thumb": "media/img-fb64115aae43dacff8e1.jpg",
       "model": "seedance2.5",
       "params": "5s · seedance2.5 · 21:9 · 720p · jimeng_multimodal2video",
       "status": "已生成",
@@ -329,7 +329,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/vfx-twelve-motifs-combat-30s--7021abb6d3d9acf76574.mp4",
-      "thumb": "assets/shots/S06.jpg",
+      "thumb": "media/img-02853a191bafcc6e48ec.jpg",
       "model": "seedance2.5",
       "params": "5s · seedance2.5 · 21:9 · 720p · jimeng_multimodal2video",
       "status": "已生成",

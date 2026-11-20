@@ -76,7 +76,7 @@ window.registerProject({
           "src": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/pianist-singer-h3-recast-120s--8cfe0653b28128de68bd.mp4"
         }
       ],
-      "thumb": "assets/shots/S01.jpg",
+      "thumb": "media/img-774f0413c80221853e2c.jpg",
       "model": "A 机 MiniMax H3 (原照单图身份修正)",
       "params": "160 帧 (6.67s) · 1280×720 · 24fps",
       "status": "已生成"
@@ -103,7 +103,7 @@ window.registerProject({
           "src": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/pianist-singer-h3-recast-120s--1de53856fbd62bed23e3.mp4"
         }
       ],
-      "thumb": "assets/shots/S02.jpg",
+      "thumb": "media/img-08b44b20c81e2fe4e96d.jpg",
       "model": "A 机 MiniMax H3 (原照单图身份修正)",
       "params": "280 帧 (11.67s) · 1280×720 · 24fps",
       "status": "已生成"
@@ -130,7 +130,7 @@ window.registerProject({
           "src": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/pianist-singer-h3-recast-120s--33849bc525e4833e6ab2.mp4"
         }
       ],
-      "thumb": "assets/shots/S03.jpg",
+      "thumb": "media/img-ee4f4fb017685b347378.jpg",
       "model": "A 机 MiniMax H3 (原照单图身份修正)",
       "params": "280 帧 (11.67s) · 1280×720 · 24fps",
       "status": "已生成"
@@ -157,7 +157,7 @@ window.registerProject({
           "src": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/pianist-singer-h3-recast-120s--88ae914ca0a8eef3b02a.mp4"
         }
       ],
-      "thumb": "assets/shots/S04.jpg",
+      "thumb": "media/img-0673c05b52490f3afbae.jpg",
       "model": "A 机 MiniMax H3 (原照单图身份修正)",
       "params": "294 帧 (12.25s) · 1280×720 · 24fps",
       "status": "已生成"
@@ -184,7 +184,7 @@ window.registerProject({
           "src": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/pianist-singer-h3-recast-120s--98491ddf8e91a02176ab.mp4"
         }
       ],
-      "thumb": "assets/shots/S05.jpg",
+      "thumb": "media/img-5d2cfb5909c04c59c362.jpg",
       "model": "A 机 MiniMax H3 (原照单图身份修正)",
       "params": "294 帧 (12.25s) · 1280×720 · 24fps",
       "status": "已生成"
@@ -211,7 +211,7 @@ window.registerProject({
           "src": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/pianist-singer-h3-recast-120s--ecb6485221d1e941c621.mp4"
         }
       ],
-      "thumb": "assets/shots/S06.jpg",
+      "thumb": "media/img-f03677d4e215e7e86fbc.jpg",
       "model": "A 机 MiniMax H3 (原照单图身份修正)",
       "params": "132 帧 (5.5s) · 1280×720 · 24fps",
       "status": "已生成"
@@ -238,7 +238,7 @@ window.registerProject({
           "src": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/pianist-singer-h3-recast-120s--8e25330852f6996a0a22.mp4"
         }
       ],
-      "thumb": "assets/shots/S07.jpg",
+      "thumb": "media/img-a8588599fb7e002b515f.jpg",
       "model": "A 机 MiniMax H3 (原照单图身份修正)",
       "params": "240 帧 (10.0s) · 1280×720 · 24fps",
       "status": "已生成"
@@ -265,7 +265,7 @@ window.registerProject({
           "src": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/pianist-singer-h3-recast-120s--b1e8397523af5217c8c5.mp4"
         }
       ],
-      "thumb": "assets/shots/S08.jpg",
+      "thumb": "media/img-3c00cb720c6f86d762d4.jpg",
       "model": "A 机 MiniMax H3 (原照单图身份修正)",
       "params": "240 帧 (10.0s) · 1280×720 · 24fps",
       "status": "已生成"
@@ -292,7 +292,7 @@ window.registerProject({
           "src": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/pianist-singer-h3-recast-120s--e930efda7417dfeff847.mp4"
         }
       ],
-      "thumb": "assets/shots/S09.jpg",
+      "thumb": "media/img-aa2d62501499f0fcd2b4.jpg",
       "model": "A 机 MiniMax H3 (原照单图身份修正)",
       "params": "240 帧 (10.0s) · 1280×720 · 24fps",
       "status": "已生成"
@@ -319,7 +319,7 @@ window.registerProject({
           "src": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/pianist-singer-h3-recast-120s--00d9a0afa0be04f528b7.mp4"
         }
       ],
-      "thumb": "assets/shots/S10.jpg",
+      "thumb": "media/img-959dc6e92dcbd07cffb0.jpg",
       "model": "A 机 MiniMax H3 (原照单图身份修正)",
       "params": "266 帧 (11.08s) · 1280×720 · 24fps",
       "status": "已生成"
@@ -346,7 +346,7 @@ window.registerProject({
           "src": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/pianist-singer-h3-recast-120s--a45aab5c04522a466513.mp4"
         }
       ],
-      "thumb": "assets/shots/S11.jpg",
+      "thumb": "media/img-d8e8c3f5f4ab8acd3fac.jpg",
       "model": "A 机 MiniMax H3 (原照单图身份修正)",
       "params": "205 帧 (8.54s) · 1280×720 · 24fps",
       "status": "已生成"

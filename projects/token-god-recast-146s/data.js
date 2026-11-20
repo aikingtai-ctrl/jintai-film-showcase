@@ -90,7 +90,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/token-god-recast-146s--d95734b65a6d77245d95.mp4",
-      "thumb": "assets/shots/S01.jpg",
+      "thumb": "media/img-e39787300c7c8200e96d.jpg",
       "model": "seedance2.5",
       "params": "30s · seedance2.5 · jimeng_multimodal2video",
       "status": "已生成",
@@ -130,7 +130,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/token-god-recast-146s--ec1320a2e8b5ff672322.mp4",
-      "thumb": "assets/shots/S02.jpg",
+      "thumb": "media/img-9d23089635a1116aa227.jpg",
       "model": "seedance2.5",
       "params": "17s · seedance2.5 · jimeng_multimodal2video",
       "status": "已生成",
@@ -166,7 +166,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/token-god-recast-146s--b09f8fecb1dc4c654088.mp4",
-      "thumb": "assets/shots/S03.jpg",
+      "thumb": "media/img-5d6948a0fe093c053213.jpg",
       "model": "seedance2.5",
       "params": "5s · seedance2.5 · jimeng_multimodal2video",
       "status": "已生成",
@@ -210,7 +210,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/token-god-recast-146s--0ab80dd216f4df9203c7.mp4",
-      "thumb": "assets/shots/S04.jpg",
+      "thumb": "media/img-4c01e5735470e1b5441c.jpg",
       "model": "seedance2.5",
       "params": "4s · seedance2.5 · jimeng_multimodal2video",
       "status": "已生成",
@@ -250,7 +250,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/token-god-recast-146s--07cf2405288ef803b352.mp4",
-      "thumb": "assets/shots/S05.jpg",
+      "thumb": "media/img-36f4a7a4e4b4e03e0170.jpg",
       "model": "seedance2.5",
       "params": "26s · seedance2.5 · jimeng_multimodal2video",
       "status": "已生成",

@@ -71,7 +71,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/jinyi-rooftop-chase--c82254270b1bb4706bcd.mp4",
-      "thumb": "assets/shots/S01.jpg",
+      "thumb": "media/img-9e8f73daf17ea046603e.jpg",
       "model": "seedance2.5",
       "params": "30s · seedance2.5 · jimeng_multimodal2video",
       "status": "已生成",

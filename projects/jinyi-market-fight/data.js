@@ -72,7 +72,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/jinyi-market-fight--a6904caaad75204bfa6b.mp4",
-      "thumb": "assets/shots/S01.jpg",
+      "thumb": "media/img-6a7dc6f170080536a1f2.jpg",
       "model": "seedance2.5",
       "params": "30s · seedance2.5 · jimeng_multimodal2video",
       "status": "已生成",

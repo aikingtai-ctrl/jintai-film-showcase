@@ -179,7 +179,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/kungfu-echo-21x9-onetake--dd39383adb965a373467.mp4",
-      "thumb": "assets/shots/S01.jpg",
+      "thumb": "media/img-fce54610c8bbb9f41e60.jpg",
       "model": "seedance2.5",
       "params": "30s · 21:9 · 2520×1080（去灰超清精调）· taskId 2354 · jimeng_multimodal2video",
       "status": "已生成",

@@ -83,7 +83,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/night-market-daoist-30s--f4f4774e5105f9d42ed4.mp4",
-      "thumb": "assets/shots/S01.jpg",
+      "thumb": "media/img-04aff1d483c6ef6c93ae.jpg",
       "model": "seedance2.5",
       "params": "14s · seedance2.5 · jimeng_multimodal2video",
       "status": "已生成",
