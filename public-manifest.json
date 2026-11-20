@@ -3,6 +3,16 @@
   "repository": "aikingtai-ctrl/jintai-film-showcase",
   "releaseTag": "media-v1",
   "projects": [
+    "deepwater-bluebeard-ep010",
+    "deepwater-bluebeard-ep009",
+    "deepwater-bluebeard-ep008",
+    "deepwater-bluebeard-ep007",
+    "deepwater-bluebeard-ep006",
+    "deepwater-bluebeard-ep005",
+    "deepwater-bluebeard-ep004",
+    "deepwater-bluebeard-ep003",
+    "deepwater-bluebeard-ep002",
+    "deepwater-bluebeard-ep001",
     "pegasus-comedy-recap-100s",
     "tuomashi-couture-h3-lc-123s",
     "sanbengzi-luxury-h3-lc-136s",
@@ -62,6 +72,181 @@
     "demo-night-keeper"
   ],
   "images": [
+    {
+      "projectId": "deepwater-bluebeard-ep010",
+      "path": "assets/media/img-e5a399b47d0fcd7d7fd8.jpg",
+      "bytes": 60857
+    },
+    {
+      "projectId": "deepwater-bluebeard-ep010",
+      "path": "assets/media/img-311a51ba5831a70a3813.png",
+      "bytes": 4932721
+    },
+    {
+      "projectId": "deepwater-bluebeard-ep010",
+      "path": "assets/media/img-769a049cbb3d21209555.png",
+      "bytes": 5071851
+    },
+    {
+      "projectId": "deepwater-bluebeard-ep010",
+      "path": "assets/media/img-6ab8b2a437293fcbe460.png",
+      "bytes": 1203013
+    },
+    {
+      "projectId": "deepwater-bluebeard-ep010",
+      "path": "assets/media/img-d9d2c1c6f8151218023c.png",
+      "bytes": 5421649
+    },
+    {
+      "projectId": "deepwater-bluebeard-ep010",
+      "path": "assets/media/img-765a992af8bfe8bd6acf.jpg",
+      "bytes": 249792
+    },
+    {
+      "projectId": "deepwater-bluebeard-ep010",
+      "path": "assets/media/img-fb4959d7f24fb700730d.jpg",
+      "bytes": 57101
+    },
+    {
+      "projectId": "deepwater-bluebeard-ep010",
+      "path": "assets/media/img-85d3bbdf3aba252a20e2.png",
+      "bytes": 5397901
+    },
+    {
+      "projectId": "deepwater-bluebeard-ep010",
+      "path": "assets/media/img-fede48ec5b2fbbc11f23.png",
+      "bytes": 4974067
+    },
+    {
+      "projectId": "deepwater-bluebeard-ep010",
+      "path": "assets/media/img-43a252acd92d4787eeb3.png",
+      "bytes": 2789235
+    },
+    {
+      "projectId": "deepwater-bluebeard-ep010",
+      "path": "assets/media/img-58d1ff15b7cc84b068c9.png",
+      "bytes": 5184770
+    },
+    {
+      "projectId": "deepwater-bluebeard-ep009",
+      "path": "assets/media/img-52ea7e610c0833b2420f.jpg",
+      "bytes": 60452
+    },
+    {
+      "projectId": "deepwater-bluebeard-ep009",
+      "path": "assets/media/img-bc8556d70dc1178a8e81.png",
+      "bytes": 3162979
+    },
+    {
+      "projectId": "deepwater-bluebeard-ep009",
+      "path": "assets/media/img-e997333b0a55c4960f79.png",
+      "bytes": 3082612
+    },
+    {
+      "projectId": "deepwater-bluebeard-ep009",
+      "path": "assets/media/img-a3cc16775a5fed3e8f61.png",
+      "bytes": 4388615
+    },
+    {
+      "projectId": "deepwater-bluebeard-ep008",
+      "path": "assets/media/img-cc301c9ed81d878c6b6f.jpg",
+      "bytes": 105842
+    },
+    {
+      "projectId": "deepwater-bluebeard-ep008",
+      "path": "assets/media/img-40947aec3cdda0f6d275.png",
+      "bytes": 4968496
+    },
+    {
+      "projectId": "deepwater-bluebeard-ep008",
+      "path": "assets/media/img-2b9f14881bcfd6c87949.png",
+      "bytes": 4832872
+    },
+    {
+      "projectId": "deepwater-bluebeard-ep008",
+      "path": "assets/media/img-f694094e40bf53f4db39.png",
+      "bytes": 3217409
+    },
+    {
+      "projectId": "deepwater-bluebeard-ep008",
+      "path": "assets/media/img-5b4ab4717436b0d6fbd1.png",
+      "bytes": 5492633
+    },
+    {
+      "projectId": "deepwater-bluebeard-ep007",
+      "path": "assets/media/img-128e55ad2416053cc2db.jpg",
+      "bytes": 55300
+    },
+    {
+      "projectId": "deepwater-bluebeard-ep007",
+      "path": "assets/media/img-cbbdc93e0e8f42d2df68.png",
+      "bytes": 4965894
+    },
+    {
+      "projectId": "deepwater-bluebeard-ep007",
+      "path": "assets/media/img-6ee480b28039f4f4ff98.png",
+      "bytes": 5016377
+    },
+    {
+      "projectId": "deepwater-bluebeard-ep006",
+      "path": "assets/media/img-422f1c08a99223623f78.jpg",
+      "bytes": 82603
+    },
+    {
+      "projectId": "deepwater-bluebeard-ep006",
+      "path": "assets/media/img-b8904d802cf9d76a6901.png",
+      "bytes": 6806001
+    },
+    {
+      "projectId": "deepwater-bluebeard-ep006",
+      "path": "assets/media/img-1bb2c76c317bf77c2c8a.png",
+      "bytes": 4099225
+    },
+    {
+      "projectId": "deepwater-bluebeard-ep005",
+      "path": "assets/media/img-320df5a254011d857e1a.jpg",
+      "bytes": 70238
+    },
+    {
+      "projectId": "deepwater-bluebeard-ep005",
+      "path": "assets/media/img-b27bc663e4556ae5b65d.png",
+      "bytes": 1323605
+    },
+    {
+      "projectId": "deepwater-bluebeard-ep005",
+      "path": "assets/media/img-1edd3ce7e028b676ee39.png",
+      "bytes": 3415343
+    },
+    {
+      "projectId": "deepwater-bluebeard-ep004",
+      "path": "assets/media/img-2fcccf30271b3a106498.jpg",
+      "bytes": 89776
+    },
+    {
+      "projectId": "deepwater-bluebeard-ep004",
+      "path": "assets/media/img-f9a23171ffce86870c44.png",
+      "bytes": 3429630
+    },
+    {
+      "projectId": "deepwater-bluebeard-ep003",
+      "path": "assets/media/img-8eaafcfdd80fa74df647.jpg",
+      "bytes": 71077
+    },
+    {
+      "projectId": "deepwater-bluebeard-ep003",
+      "path": "assets/media/img-25a0d1928f05e0813c03.png",
+      "bytes": 3659358
+    },
+    {
+      "projectId": "deepwater-bluebeard-ep002",
+      "path": "assets/media/img-e8942afcafb8c9f487dc.jpg",
+      "bytes": 69550
+    },
+    {
+      "projectId": "deepwater-bluebeard-ep001",
+      "path": "assets/media/img-8599de10adab70bf388c.jpg",
+      "bytes": 73628
+    },
     {
       "projectId": "pegasus-comedy-recap-100s",
       "path": "projects/pegasus-comedy-recap-100s/media/img-06561f2c16135285e8e7.jpg",
@@ -2464,6 +2649,426 @@
     }
   ],
   "media": [
+    {
+      "projectId": "deepwater-bluebeard-ep010",
+      "assetName": "deepwater-bluebeard-ep010--011026351c78dbef58c2.mp4",
+      "bytes": 128367752,
+      "url": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/deepwater-bluebeard-ep010--011026351c78dbef58c2.mp4"
+    },
+    {
+      "projectId": "deepwater-bluebeard-ep010",
+      "assetName": "deepwater-bluebeard-ep010--29a128a22f71df35a900.mp4",
+      "bytes": 20398326,
+      "url": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/deepwater-bluebeard-ep010--29a128a22f71df35a900.mp4"
+    },
+    {
+      "projectId": "deepwater-bluebeard-ep010",
+      "assetName": "deepwater-bluebeard-ep010--da7482e8ca0117042426.mp4",
+      "bytes": 21993511,
+      "url": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/deepwater-bluebeard-ep010--da7482e8ca0117042426.mp4"
+    },
+    {
+      "projectId": "deepwater-bluebeard-ep010",
+      "assetName": "deepwater-bluebeard-ep010--c3f35cd3fb550226a9f9.mp4",
+      "bytes": 20974443,
+      "url": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/deepwater-bluebeard-ep010--c3f35cd3fb550226a9f9.mp4"
+    },
+    {
+      "projectId": "deepwater-bluebeard-ep010",
+      "assetName": "deepwater-bluebeard-ep010--5899de545133405400a0.mp4",
+      "bytes": 23089999,
+      "url": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/deepwater-bluebeard-ep010--5899de545133405400a0.mp4"
+    },
+    {
+      "projectId": "deepwater-bluebeard-ep010",
+      "assetName": "deepwater-bluebeard-ep010--e6e6f9a47dbd0d7257a6.mp4",
+      "bytes": 21542073,
+      "url": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/deepwater-bluebeard-ep010--e6e6f9a47dbd0d7257a6.mp4"
+    },
+    {
+      "projectId": "deepwater-bluebeard-ep010",
+      "assetName": "deepwater-bluebeard-ep010--049a9943c6a58d5925ab.mp4",
+      "bytes": 20378954,
+      "url": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/deepwater-bluebeard-ep010--049a9943c6a58d5925ab.mp4"
+    },
+    {
+      "projectId": "deepwater-bluebeard-ep009",
+      "assetName": "deepwater-bluebeard-ep009--cc52c1a68f34fe90ca66.mp4",
+      "bytes": 130169030,
+      "url": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/deepwater-bluebeard-ep009--cc52c1a68f34fe90ca66.mp4"
+    },
+    {
+      "projectId": "deepwater-bluebeard-ep009",
+      "assetName": "deepwater-bluebeard-ep009--d9aa152ec8f9144ad3ed.mp4",
+      "bytes": 19655435,
+      "url": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/deepwater-bluebeard-ep009--d9aa152ec8f9144ad3ed.mp4"
+    },
+    {
+      "projectId": "deepwater-bluebeard-ep009",
+      "assetName": "deepwater-bluebeard-ep009--4cd40cb4bc849d766485.mp4",
+      "bytes": 24506525,
+      "url": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/deepwater-bluebeard-ep009--4cd40cb4bc849d766485.mp4"
+    },
+    {
+      "projectId": "deepwater-bluebeard-ep009",
+      "assetName": "deepwater-bluebeard-ep009--6ead66cc5e5488459bcb.mp4",
+      "bytes": 21303739,
+      "url": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/deepwater-bluebeard-ep009--6ead66cc5e5488459bcb.mp4"
+    },
+    {
+      "projectId": "deepwater-bluebeard-ep009",
+      "assetName": "deepwater-bluebeard-ep009--f4438c11a41ee47dff74.mp4",
+      "bytes": 28063821,
+      "url": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/deepwater-bluebeard-ep009--f4438c11a41ee47dff74.mp4"
+    },
+    {
+      "projectId": "deepwater-bluebeard-ep009",
+      "assetName": "deepwater-bluebeard-ep009--c7698f61d4daff91e69d.mp4",
+      "bytes": 20322516,
+      "url": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/deepwater-bluebeard-ep009--c7698f61d4daff91e69d.mp4"
+    },
+    {
+      "projectId": "deepwater-bluebeard-ep009",
+      "assetName": "deepwater-bluebeard-ep009--bba490b1b0cf3f748936.mp4",
+      "bytes": 16326696,
+      "url": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/deepwater-bluebeard-ep009--bba490b1b0cf3f748936.mp4"
+    },
+    {
+      "projectId": "deepwater-bluebeard-ep008",
+      "assetName": "deepwater-bluebeard-ep008--c96969f1218b6c228af1.mp4",
+      "bytes": 126804367,
+      "url": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/deepwater-bluebeard-ep008--c96969f1218b6c228af1.mp4"
+    },
+    {
+      "projectId": "deepwater-bluebeard-ep008",
+      "assetName": "deepwater-bluebeard-ep008--7b8f0facc46e68b86e74.mp4",
+      "bytes": 20811048,
+      "url": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/deepwater-bluebeard-ep008--7b8f0facc46e68b86e74.mp4"
+    },
+    {
+      "projectId": "deepwater-bluebeard-ep008",
+      "assetName": "deepwater-bluebeard-ep008--34ce6ee4921444dd36ed.mp4",
+      "bytes": 20832198,
+      "url": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/deepwater-bluebeard-ep008--34ce6ee4921444dd36ed.mp4"
+    },
+    {
+      "projectId": "deepwater-bluebeard-ep008",
+      "assetName": "deepwater-bluebeard-ep008--b9eefa42ffbfc625c599.mp4",
+      "bytes": 21601539,
+      "url": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/deepwater-bluebeard-ep008--b9eefa42ffbfc625c599.mp4"
+    },
+    {
+      "projectId": "deepwater-bluebeard-ep008",
+      "assetName": "deepwater-bluebeard-ep008--68cddc985440c78413ec.mp4",
+      "bytes": 22278052,
+      "url": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/deepwater-bluebeard-ep008--68cddc985440c78413ec.mp4"
+    },
+    {
+      "projectId": "deepwater-bluebeard-ep008",
+      "assetName": "deepwater-bluebeard-ep008--0ec7ab7cdb131a00dabc.mp4",
+      "bytes": 21232560,
+      "url": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/deepwater-bluebeard-ep008--0ec7ab7cdb131a00dabc.mp4"
+    },
+    {
+      "projectId": "deepwater-bluebeard-ep008",
+      "assetName": "deepwater-bluebeard-ep008--f42ecb070c06d757b03b.mp4",
+      "bytes": 20058641,
+      "url": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/deepwater-bluebeard-ep008--f42ecb070c06d757b03b.mp4"
+    },
+    {
+      "projectId": "deepwater-bluebeard-ep007",
+      "assetName": "deepwater-bluebeard-ep007--9a0c029f109917c5b1fb.mp4",
+      "bytes": 131065961,
+      "url": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/deepwater-bluebeard-ep007--9a0c029f109917c5b1fb.mp4"
+    },
+    {
+      "projectId": "deepwater-bluebeard-ep007",
+      "assetName": "deepwater-bluebeard-ep007--3d26647b4751487355f1.mp4",
+      "bytes": 22849514,
+      "url": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/deepwater-bluebeard-ep007--3d26647b4751487355f1.mp4"
+    },
+    {
+      "projectId": "deepwater-bluebeard-ep007",
+      "assetName": "deepwater-bluebeard-ep007--b09eb011dcbc4c73138b.mp4",
+      "bytes": 25495703,
+      "url": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/deepwater-bluebeard-ep007--b09eb011dcbc4c73138b.mp4"
+    },
+    {
+      "projectId": "deepwater-bluebeard-ep007",
+      "assetName": "deepwater-bluebeard-ep007--00146ee5385509ef18fc.mp4",
+      "bytes": 20843322,
+      "url": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/deepwater-bluebeard-ep007--00146ee5385509ef18fc.mp4"
+    },
+    {
+      "projectId": "deepwater-bluebeard-ep007",
+      "assetName": "deepwater-bluebeard-ep007--34221ccb3d41ee6d4394.mp4",
+      "bytes": 21888715,
+      "url": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/deepwater-bluebeard-ep007--34221ccb3d41ee6d4394.mp4"
+    },
+    {
+      "projectId": "deepwater-bluebeard-ep007",
+      "assetName": "deepwater-bluebeard-ep007--228b3a1f388c3f31abfc.mp4",
+      "bytes": 19369430,
+      "url": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/deepwater-bluebeard-ep007--228b3a1f388c3f31abfc.mp4"
+    },
+    {
+      "projectId": "deepwater-bluebeard-ep007",
+      "assetName": "deepwater-bluebeard-ep007--e19597e7688ba6b62f41.mp4",
+      "bytes": 20628971,
+      "url": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/deepwater-bluebeard-ep007--e19597e7688ba6b62f41.mp4"
+    },
+    {
+      "projectId": "deepwater-bluebeard-ep006",
+      "assetName": "deepwater-bluebeard-ep006--3214e5496de144764e1b.mp4",
+      "bytes": 149575798,
+      "url": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/deepwater-bluebeard-ep006--3214e5496de144764e1b.mp4"
+    },
+    {
+      "projectId": "deepwater-bluebeard-ep006",
+      "assetName": "deepwater-bluebeard-ep006--2887c6a1b11c36e30247.mp4",
+      "bytes": 24329523,
+      "url": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/deepwater-bluebeard-ep006--2887c6a1b11c36e30247.mp4"
+    },
+    {
+      "projectId": "deepwater-bluebeard-ep006",
+      "assetName": "deepwater-bluebeard-ep006--9a91164aca750ed0fc16.mp4",
+      "bytes": 26967705,
+      "url": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/deepwater-bluebeard-ep006--9a91164aca750ed0fc16.mp4"
+    },
+    {
+      "projectId": "deepwater-bluebeard-ep006",
+      "assetName": "deepwater-bluebeard-ep006--22ab78464cc9d160c6c5.mp4",
+      "bytes": 25164419,
+      "url": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/deepwater-bluebeard-ep006--22ab78464cc9d160c6c5.mp4"
+    },
+    {
+      "projectId": "deepwater-bluebeard-ep006",
+      "assetName": "deepwater-bluebeard-ep006--4a0ec16359acf29350e6.mp4",
+      "bytes": 22694518,
+      "url": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/deepwater-bluebeard-ep006--4a0ec16359acf29350e6.mp4"
+    },
+    {
+      "projectId": "deepwater-bluebeard-ep006",
+      "assetName": "deepwater-bluebeard-ep006--c3e794dbb73eaa8b369c.mp4",
+      "bytes": 24992646,
+      "url": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/deepwater-bluebeard-ep006--c3e794dbb73eaa8b369c.mp4"
+    },
+    {
+      "projectId": "deepwater-bluebeard-ep006",
+      "assetName": "deepwater-bluebeard-ep006--1b39aedf8ac402443371.mp4",
+      "bytes": 25436658,
+      "url": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/deepwater-bluebeard-ep006--1b39aedf8ac402443371.mp4"
+    },
+    {
+      "projectId": "deepwater-bluebeard-ep005",
+      "assetName": "deepwater-bluebeard-ep005--497662a33c39e3056f48.mp4",
+      "bytes": 139979212,
+      "url": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/deepwater-bluebeard-ep005--497662a33c39e3056f48.mp4"
+    },
+    {
+      "projectId": "deepwater-bluebeard-ep005",
+      "assetName": "deepwater-bluebeard-ep005--74a158c0198d385e17db.mp4",
+      "bytes": 23364465,
+      "url": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/deepwater-bluebeard-ep005--74a158c0198d385e17db.mp4"
+    },
+    {
+      "projectId": "deepwater-bluebeard-ep005",
+      "assetName": "deepwater-bluebeard-ep005--14441d6762587712515b.mp4",
+      "bytes": 22237201,
+      "url": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/deepwater-bluebeard-ep005--14441d6762587712515b.mp4"
+    },
+    {
+      "projectId": "deepwater-bluebeard-ep005",
+      "assetName": "deepwater-bluebeard-ep005--02b3ebb48e7943360d73.mp4",
+      "bytes": 21103494,
+      "url": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/deepwater-bluebeard-ep005--02b3ebb48e7943360d73.mp4"
+    },
+    {
+      "projectId": "deepwater-bluebeard-ep005",
+      "assetName": "deepwater-bluebeard-ep005--39829bc5e083bbe77d98.mp4",
+      "bytes": 23072729,
+      "url": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/deepwater-bluebeard-ep005--39829bc5e083bbe77d98.mp4"
+    },
+    {
+      "projectId": "deepwater-bluebeard-ep005",
+      "assetName": "deepwater-bluebeard-ep005--08e78290dd0e4cfc6065.mp4",
+      "bytes": 25353991,
+      "url": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/deepwater-bluebeard-ep005--08e78290dd0e4cfc6065.mp4"
+    },
+    {
+      "projectId": "deepwater-bluebeard-ep005",
+      "assetName": "deepwater-bluebeard-ep005--3711c80079ff3f089aed.mp4",
+      "bytes": 24857073,
+      "url": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/deepwater-bluebeard-ep005--3711c80079ff3f089aed.mp4"
+    },
+    {
+      "projectId": "deepwater-bluebeard-ep004",
+      "assetName": "deepwater-bluebeard-ep004--17530d3288baa2d83b77.mp4",
+      "bytes": 126239516,
+      "url": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/deepwater-bluebeard-ep004--17530d3288baa2d83b77.mp4"
+    },
+    {
+      "projectId": "deepwater-bluebeard-ep004",
+      "assetName": "deepwater-bluebeard-ep004--4f0e06b2d9d5d82ef391.mp4",
+      "bytes": 18492709,
+      "url": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/deepwater-bluebeard-ep004--4f0e06b2d9d5d82ef391.mp4"
+    },
+    {
+      "projectId": "deepwater-bluebeard-ep004",
+      "assetName": "deepwater-bluebeard-ep004--18b64c06d0b1dcb2229b.mp4",
+      "bytes": 19691749,
+      "url": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/deepwater-bluebeard-ep004--18b64c06d0b1dcb2229b.mp4"
+    },
+    {
+      "projectId": "deepwater-bluebeard-ep004",
+      "assetName": "deepwater-bluebeard-ep004--6cb5b6092d56d71638e5.mp4",
+      "bytes": 26308110,
+      "url": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/deepwater-bluebeard-ep004--6cb5b6092d56d71638e5.mp4"
+    },
+    {
+      "projectId": "deepwater-bluebeard-ep004",
+      "assetName": "deepwater-bluebeard-ep004--5526e0ed54fc83505e3a.mp4",
+      "bytes": 22372827,
+      "url": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/deepwater-bluebeard-ep004--5526e0ed54fc83505e3a.mp4"
+    },
+    {
+      "projectId": "deepwater-bluebeard-ep004",
+      "assetName": "deepwater-bluebeard-ep004--ee09513c0cc0d8fe6a6b.mp4",
+      "bytes": 18322696,
+      "url": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/deepwater-bluebeard-ep004--ee09513c0cc0d8fe6a6b.mp4"
+    },
+    {
+      "projectId": "deepwater-bluebeard-ep004",
+      "assetName": "deepwater-bluebeard-ep004--adf082b234376544fb89.mp4",
+      "bytes": 21060901,
+      "url": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/deepwater-bluebeard-ep004--adf082b234376544fb89.mp4"
+    },
+    {
+      "projectId": "deepwater-bluebeard-ep003",
+      "assetName": "deepwater-bluebeard-ep003--c05c7e17af47e7528f8c.mp4",
+      "bytes": 122571965,
+      "url": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/deepwater-bluebeard-ep003--c05c7e17af47e7528f8c.mp4"
+    },
+    {
+      "projectId": "deepwater-bluebeard-ep003",
+      "assetName": "deepwater-bluebeard-ep003--043f9140d4120ea5f713.mp4",
+      "bytes": 20935309,
+      "url": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/deepwater-bluebeard-ep003--043f9140d4120ea5f713.mp4"
+    },
+    {
+      "projectId": "deepwater-bluebeard-ep003",
+      "assetName": "deepwater-bluebeard-ep003--b9e3a5838401eb430298.mp4",
+      "bytes": 20296166,
+      "url": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/deepwater-bluebeard-ep003--b9e3a5838401eb430298.mp4"
+    },
+    {
+      "projectId": "deepwater-bluebeard-ep003",
+      "assetName": "deepwater-bluebeard-ep003--b089562fb988120d6d52.mp4",
+      "bytes": 21092907,
+      "url": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/deepwater-bluebeard-ep003--b089562fb988120d6d52.mp4"
+    },
+    {
+      "projectId": "deepwater-bluebeard-ep003",
+      "assetName": "deepwater-bluebeard-ep003--849dd7bc435f849668e7.mp4",
+      "bytes": 24179037,
+      "url": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/deepwater-bluebeard-ep003--849dd7bc435f849668e7.mp4"
+    },
+    {
+      "projectId": "deepwater-bluebeard-ep003",
+      "assetName": "deepwater-bluebeard-ep003--35e7ee30ddb1e60c1ea8.mp4",
+      "bytes": 17919911,
+      "url": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/deepwater-bluebeard-ep003--35e7ee30ddb1e60c1ea8.mp4"
+    },
+    {
+      "projectId": "deepwater-bluebeard-ep003",
+      "assetName": "deepwater-bluebeard-ep003--292e8e05c6010a6f1302.mp4",
+      "bytes": 18158329,
+      "url": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/deepwater-bluebeard-ep003--292e8e05c6010a6f1302.mp4"
+    },
+    {
+      "projectId": "deepwater-bluebeard-ep002",
+      "assetName": "deepwater-bluebeard-ep002--1afbef0532514f622b29.mp4",
+      "bytes": 131596485,
+      "url": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/deepwater-bluebeard-ep002--1afbef0532514f622b29.mp4"
+    },
+    {
+      "projectId": "deepwater-bluebeard-ep002",
+      "assetName": "deepwater-bluebeard-ep002--4a7e4ea9dc92b06e5937.mp4",
+      "bytes": 22208078,
+      "url": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/deepwater-bluebeard-ep002--4a7e4ea9dc92b06e5937.mp4"
+    },
+    {
+      "projectId": "deepwater-bluebeard-ep002",
+      "assetName": "deepwater-bluebeard-ep002--ee2b1c73774962f71980.mp4",
+      "bytes": 22158310,
+      "url": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/deepwater-bluebeard-ep002--ee2b1c73774962f71980.mp4"
+    },
+    {
+      "projectId": "deepwater-bluebeard-ep002",
+      "assetName": "deepwater-bluebeard-ep002--a1cf9931d706f02c34a8.mp4",
+      "bytes": 23198226,
+      "url": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/deepwater-bluebeard-ep002--a1cf9931d706f02c34a8.mp4"
+    },
+    {
+      "projectId": "deepwater-bluebeard-ep002",
+      "assetName": "deepwater-bluebeard-ep002--0e6c068a8cbf7ec05982.mp4",
+      "bytes": 19179611,
+      "url": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/deepwater-bluebeard-ep002--0e6c068a8cbf7ec05982.mp4"
+    },
+    {
+      "projectId": "deepwater-bluebeard-ep002",
+      "assetName": "deepwater-bluebeard-ep002--4aea0455bf959a30422d.mp4",
+      "bytes": 23490371,
+      "url": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/deepwater-bluebeard-ep002--4aea0455bf959a30422d.mp4"
+    },
+    {
+      "projectId": "deepwater-bluebeard-ep002",
+      "assetName": "deepwater-bluebeard-ep002--ab4ab5d8c2215f7697f1.mp4",
+      "bytes": 21371599,
+      "url": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/deepwater-bluebeard-ep002--ab4ab5d8c2215f7697f1.mp4"
+    },
+    {
+      "projectId": "deepwater-bluebeard-ep001",
+      "assetName": "deepwater-bluebeard-ep001--e7510820b1446823ee28.mp4",
+      "bytes": 121596821,
+      "url": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/deepwater-bluebeard-ep001--e7510820b1446823ee28.mp4"
+    },
+    {
+      "projectId": "deepwater-bluebeard-ep001",
+      "assetName": "deepwater-bluebeard-ep001--46ecb048576bc1e68a7b.mp4",
+      "bytes": 24091424,
+      "url": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/deepwater-bluebeard-ep001--46ecb048576bc1e68a7b.mp4"
+    },
+    {
+      "projectId": "deepwater-bluebeard-ep001",
+      "assetName": "deepwater-bluebeard-ep001--4be1ff42bdda2d824168.mp4",
+      "bytes": 21017678,
+      "url": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/deepwater-bluebeard-ep001--4be1ff42bdda2d824168.mp4"
+    },
+    {
+      "projectId": "deepwater-bluebeard-ep001",
+      "assetName": "deepwater-bluebeard-ep001--b74ebf2e54557d723950.mp4",
+      "bytes": 19281523,
+      "url": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/deepwater-bluebeard-ep001--b74ebf2e54557d723950.mp4"
+    },
+    {
+      "projectId": "deepwater-bluebeard-ep001",
+      "assetName": "deepwater-bluebeard-ep001--9d90ffae3cbd041aa4f3.mp4",
+      "bytes": 20723225,
+      "url": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/deepwater-bluebeard-ep001--9d90ffae3cbd041aa4f3.mp4"
+    },
+    {
+      "projectId": "deepwater-bluebeard-ep001",
+      "assetName": "deepwater-bluebeard-ep001--3dba270aca71fd43b349.mp4",
+      "bytes": 20510465,
+      "url": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/deepwater-bluebeard-ep001--3dba270aca71fd43b349.mp4"
+    },
+    {
+      "projectId": "deepwater-bluebeard-ep001",
+      "assetName": "deepwater-bluebeard-ep001--ddc00ccb15a097df3a83.mp4",
+      "bytes": 15982107,
+      "url": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/deepwater-bluebeard-ep001--ddc00ccb15a097df3a83.mp4"
+    },
     {
       "projectId": "pegasus-comedy-recap-100s",
       "assetName": "pegasus-comedy-recap-100s--d51b106ff3371922483c.mp4",
