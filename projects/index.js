@@ -1,4 +1,6 @@
 window.SHOWCASE_INDEX = [
+  "please-answer-179s",
+  "office-raid-recast-25s",
   "deepwater-bluebeard-ep010",
   "deepwater-bluebeard-ep009",
   "deepwater-bluebeard-ep008",

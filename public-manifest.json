@@ -3,6 +3,8 @@
   "repository": "aikingtai-ctrl/jintai-film-showcase",
   "releaseTag": "media-v1",
   "projects": [
+    "please-answer-179s",
+    "office-raid-recast-25s",
     "deepwater-bluebeard-ep010",
     "deepwater-bluebeard-ep009",
     "deepwater-bluebeard-ep008",
@@ -72,6 +74,76 @@
     "demo-night-keeper"
   ],
   "images": [
+    {
+      "projectId": "please-answer-179s",
+      "path": "projects/please-answer-179s/media/img-aba1ed42c2b54dc3cbf3.jpg",
+      "bytes": 85364
+    },
+    {
+      "projectId": "please-answer-179s",
+      "path": "projects/please-answer-179s/media/img-c5565efce04362d33c1d.png",
+      "bytes": 1803210
+    },
+    {
+      "projectId": "please-answer-179s",
+      "path": "projects/please-answer-179s/media/img-96ad116b936445db7436.png",
+      "bytes": 2224475
+    },
+    {
+      "projectId": "please-answer-179s",
+      "path": "projects/please-answer-179s/media/img-0545f4bf23d0cc357bc4.jpg",
+      "bytes": 50284
+    },
+    {
+      "projectId": "please-answer-179s",
+      "path": "projects/please-answer-179s/media/img-a29a676dad0d93f672ad.png",
+      "bytes": 1917010
+    },
+    {
+      "projectId": "please-answer-179s",
+      "path": "projects/please-answer-179s/media/img-5e6204d5029ba70e668b.jpg",
+      "bytes": 45955
+    },
+    {
+      "projectId": "please-answer-179s",
+      "path": "projects/please-answer-179s/media/img-4ff92b04ce324d7f0195.png",
+      "bytes": 1997827
+    },
+    {
+      "projectId": "please-answer-179s",
+      "path": "projects/please-answer-179s/media/img-321b7d4ccdc87f87c04a.jpg",
+      "bytes": 67571
+    },
+    {
+      "projectId": "please-answer-179s",
+      "path": "projects/please-answer-179s/media/img-92117157d91ce2d135a9.png",
+      "bytes": 1890274
+    },
+    {
+      "projectId": "please-answer-179s",
+      "path": "projects/please-answer-179s/media/img-74eef1251f1c726be16d.jpg",
+      "bytes": 48575
+    },
+    {
+      "projectId": "please-answer-179s",
+      "path": "projects/please-answer-179s/media/img-416bdb12a3c740749353.png",
+      "bytes": 1179457
+    },
+    {
+      "projectId": "please-answer-179s",
+      "path": "projects/please-answer-179s/media/img-3305fcad7b0d0c998121.jpg",
+      "bytes": 67140
+    },
+    {
+      "projectId": "office-raid-recast-25s",
+      "path": "projects/office-raid-recast-25s/media/img-8e6657892415ae2031ba.jpg",
+      "bytes": 39820
+    },
+    {
+      "projectId": "office-raid-recast-25s",
+      "path": "projects/office-raid-recast-25s/media/img-797b15e30b67b5be9840.png",
+      "bytes": 1682457
+    },
     {
       "projectId": "deepwater-bluebeard-ep010",
       "path": "assets/media/img-e5a399b47d0fcd7d7fd8.jpg",
@@ -4599,6 +4671,54 @@
     }
   ],
   "media": [
+    {
+      "projectId": "please-answer-179s",
+      "assetName": "please-answer-179s--f97d71522c5769b595af.mp4",
+      "bytes": 24494499,
+      "url": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/please-answer-179s--f97d71522c5769b595af.mp4"
+    },
+    {
+      "projectId": "please-answer-179s",
+      "assetName": "please-answer-179s--2f735d55e528833cdc94.mp4",
+      "bytes": 8251536,
+      "url": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/please-answer-179s--2f735d55e528833cdc94.mp4"
+    },
+    {
+      "projectId": "please-answer-179s",
+      "assetName": "please-answer-179s--fbe0c9268f47933cf45c.mp4",
+      "bytes": 6858031,
+      "url": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/please-answer-179s--fbe0c9268f47933cf45c.mp4"
+    },
+    {
+      "projectId": "please-answer-179s",
+      "assetName": "please-answer-179s--c0982de1826701c1d162.mp4",
+      "bytes": 7042912,
+      "url": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/please-answer-179s--c0982de1826701c1d162.mp4"
+    },
+    {
+      "projectId": "please-answer-179s",
+      "assetName": "please-answer-179s--65bd1010c2c672ad9529.mp4",
+      "bytes": 6336754,
+      "url": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/please-answer-179s--65bd1010c2c672ad9529.mp4"
+    },
+    {
+      "projectId": "please-answer-179s",
+      "assetName": "please-answer-179s--fccfb68562c715be090f.mp4",
+      "bytes": 7515627,
+      "url": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/please-answer-179s--fccfb68562c715be090f.mp4"
+    },
+    {
+      "projectId": "please-answer-179s",
+      "assetName": "please-answer-179s--7da4e7155562131e5ff7.mp4",
+      "bytes": 9405035,
+      "url": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/please-answer-179s--7da4e7155562131e5ff7.mp4"
+    },
+    {
+      "projectId": "office-raid-recast-25s",
+      "assetName": "office-raid-recast-25s--2b5ed6714d050e9a9d1f.mp4",
+      "bytes": 36526656,
+      "url": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/office-raid-recast-25s--2b5ed6714d050e9a9d1f.mp4"
+    },
     {
       "projectId": "deepwater-bluebeard-ep010",
       "assetName": "deepwater-bluebeard-ep010--011026351c78dbef58c2.mp4",
