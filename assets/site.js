@@ -10,7 +10,7 @@
   const tcOf = (sh) => sh.tc || (sh.start != null ? `${fmtDur(sh.start)}–${fmtDur(sh.start + (sh.duration || 0))}` : "");
 
   function loadScript(src) {
-    return new Promise((res, rej) => { const s = document.createElement("script"); s.src = src + "?v=20261126-1"; s.onload = res; s.onerror = () => rej(new Error("加载失败 " + src)); document.head.appendChild(s); });
+    return new Promise((res, rej) => { const s = document.createElement("script"); s.src = src + "?v=20261126-4"; s.onload = res; s.onerror = () => rej(new Error("加载失败 " + src)); document.head.appendChild(s); });
   }
   async function loadAll() {
     await loadScript("projects/index.js");
@@ -67,6 +67,24 @@
     $("#lb-media").innerHTML = isVideo ? `<video controls playsinline></video>` : `<img src="${esc(src)}" alt="">`;
     if (isVideo) setVideo($("#lb-media video"), src, true);
     $("#lb-cap").textContent = cap || "";
+    $("#lb").classList.add("on");
+  };
+  window.openFilmAt = function (pid, start, duration, cap) {
+    const p = P[pid], film = p && p.film;
+    if (!film || !film.src || !Number.isFinite(+start) || +start < 0) return;
+    ensureLightbox();
+    const src = asset(pid, film.src);
+    $("#lb-media").innerHTML = '<video controls playsinline preload="metadata"></video>';
+    const video = $("#lb-media video");
+    const from = +start, until = from + Math.max(0, +duration || 0);
+    video.addEventListener("loadedmetadata", () => {
+      video.currentTime = Math.min(from, Math.max(0, video.duration - .05));
+    }, { once: true });
+    if (until > from) video.addEventListener("timeupdate", () => {
+      if (video.currentTime >= until - .04) video.pause();
+    });
+    setVideo(video, src, true);
+    $("#lb-cap").textContent = cap || p.title;
     $("#lb").classList.add("on");
   };
   function toast(msg) { ensureLightbox(); const t = $("#toast"); t.textContent = msg; t.classList.add("on"); clearTimeout(t._h); t._h = setTimeout(() => t.classList.remove("on"), 1600); }
@@ -322,7 +340,7 @@
       <div class="media" ${sh.video ? `onclick="openMedia(${jsArg(A(sh.video))},${jsArg(`${sh.id} · ${sh.action || ""}`)},true)"` : sh.thumb ? `onclick="openMedia(${jsArg(A(sh.thumb))},${jsArg(sh.id)})"` : ""}>
         ${thumbEl(sh)}
         <span class="badge">${esc(sh.id)}</span><span class="tc">${esc(tcOf(sh))}${sh.duration ? ` · ${sh.duration}s` : ""}</span>
-      </div>${(sh.alts || []).length ? `<div class="alts">${sh.alts.map((a) => `<button class="btn sm" onclick="openMedia(${jsArg(A(a.src))},${jsArg(`${sh.id} ${a.label}`)},true)">▶ ${esc(a.label)}</button>`).join("")}</div>` : ""}`;
+      </div>${!sh.video && film.src && sh.start != null ? `<button class="btn sm" type="button" onclick="openFilmAt(${jsArg(id)},${Number(sh.start)},${Number(sh.duration) || 0},${jsArg(`${sh.id} · ${sh.title || sh.action || ""}`)})">▶ 从此镜播放</button>` : ""}${(sh.alts || []).length ? `<div class="alts">${sh.alts.map((a) => `<button class="btn sm" onclick="openMedia(${jsArg(A(a.src))},${jsArg(`${sh.id} ${a.label}`)},true)">▶ ${esc(a.label)}</button>`).join("")}</div>` : ""}`;
     const promptBlock = (sh, key, label, cls = "") => sh[key] ? `
       <details class="prompt ${cls}"><summary>▸ ${label}<button class="btn sm cp" onclick="event.preventDefault();copyText(this.closest('details').querySelector('pre').textContent,'${esc(sh.id)} ${label}')">复制</button></summary><pre>${esc(sh[key])}</pre></details>` : "";
 

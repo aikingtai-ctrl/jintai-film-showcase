@@ -72,7 +72,7 @@ window.registerProject({
       "name": "图 1 主角 · V2 定妆",
       "role": "全片连续性锚点",
       "look": "旧金冠与深红领口的哑光黑丝绒长袍主角。",
-      "image": "media/img-25c5b5a2c1799c41ea0a.png",
+      "image": "media/img-25c5b5a2c1799c41ea0a.webp",
       "uses": 2
     }
   ],
@@ -97,7 +97,7 @@ window.registerProject({
       "refs": [
         {
           "label": "V2 主角定妆图",
-          "src": "media/img-25c5b5a2c1799c41ea0a.png"
+          "src": "media/img-25c5b5a2c1799c41ea0a.webp"
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/h3-desert-pupil-sandstorm-15s--d34338621c46981beffa.mp4",
@@ -118,7 +118,7 @@ window.registerProject({
       "refs": [
         {
           "label": "V2 主角定妆图",
-          "src": "media/img-25c5b5a2c1799c41ea0a.png"
+          "src": "media/img-25c5b5a2c1799c41ea0a.webp"
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/h3-desert-pupil-sandstorm-15s--9ea675c1987687e31e65.mp4",

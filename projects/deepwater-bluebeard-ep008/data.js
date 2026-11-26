@@ -68,7 +68,7 @@ window.registerProject({
       "refs": [
         {
           "label": "上传参考图",
-          "src": "../../assets/media/img-40947aec3cdda0f6d275.png"
+          "src": "../../assets/media/img-40947aec3cdda0f6d275.webp"
         },
         {
           "label": "上传参考图",
@@ -76,7 +76,7 @@ window.registerProject({
         },
         {
           "label": "上传参考图",
-          "src": "../../assets/media/img-769a049cbb3d21209555.png"
+          "src": "../../assets/media/img-769a049cbb3d21209555.webp"
         },
         {
           "label": "上传参考图",
@@ -84,7 +84,7 @@ window.registerProject({
         },
         {
           "label": "上传参考图",
-          "src": "../../assets/media/img-2b9f14881bcfd6c87949.png"
+          "src": "../../assets/media/img-2b9f14881bcfd6c87949.webp"
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/deepwater-bluebeard-ep008--7b8f0facc46e68b86e74.mp4",
@@ -116,11 +116,11 @@ window.registerProject({
       "refs": [
         {
           "label": "上传参考图",
-          "src": "../../assets/media/img-40947aec3cdda0f6d275.png"
+          "src": "../../assets/media/img-40947aec3cdda0f6d275.webp"
         },
         {
           "label": "上传参考图",
-          "src": "../../assets/media/img-769a049cbb3d21209555.png"
+          "src": "../../assets/media/img-769a049cbb3d21209555.webp"
         },
         {
           "label": "上传参考图",
@@ -128,7 +128,7 @@ window.registerProject({
         },
         {
           "label": "上传参考图",
-          "src": "../../assets/media/img-2b9f14881bcfd6c87949.png"
+          "src": "../../assets/media/img-2b9f14881bcfd6c87949.webp"
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/deepwater-bluebeard-ep008--34ce6ee4921444dd36ed.mp4",
@@ -160,7 +160,7 @@ window.registerProject({
       "refs": [
         {
           "label": "上传参考图",
-          "src": "../../assets/media/img-40947aec3cdda0f6d275.png"
+          "src": "../../assets/media/img-40947aec3cdda0f6d275.webp"
         },
         {
           "label": "上传参考图",
@@ -168,11 +168,11 @@ window.registerProject({
         },
         {
           "label": "上传参考图",
-          "src": "../../assets/media/img-769a049cbb3d21209555.png"
+          "src": "../../assets/media/img-769a049cbb3d21209555.webp"
         },
         {
           "label": "上传参考图",
-          "src": "../../assets/media/img-f694094e40bf53f4db39.png"
+          "src": "../../assets/media/img-f694094e40bf53f4db39.webp"
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/deepwater-bluebeard-ep008--b9eefa42ffbfc625c599.mp4",
@@ -204,7 +204,7 @@ window.registerProject({
       "refs": [
         {
           "label": "上传参考图",
-          "src": "../../assets/media/img-40947aec3cdda0f6d275.png"
+          "src": "../../assets/media/img-40947aec3cdda0f6d275.webp"
         },
         {
           "label": "上传参考图",
@@ -212,7 +212,7 @@ window.registerProject({
         },
         {
           "label": "上传参考图",
-          "src": "../../assets/media/img-5b4ab4717436b0d6fbd1.png"
+          "src": "../../assets/media/img-5b4ab4717436b0d6fbd1.webp"
         },
         {
           "label": "上传参考图",
@@ -220,7 +220,7 @@ window.registerProject({
         },
         {
           "label": "上传参考图",
-          "src": "../../assets/media/img-f694094e40bf53f4db39.png"
+          "src": "../../assets/media/img-f694094e40bf53f4db39.webp"
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/deepwater-bluebeard-ep008--68cddc985440c78413ec.mp4",
@@ -252,7 +252,7 @@ window.registerProject({
       "refs": [
         {
           "label": "上传参考图",
-          "src": "../../assets/media/img-311a51ba5831a70a3813.png"
+          "src": "../../assets/media/img-311a51ba5831a70a3813.webp"
         },
         {
           "label": "上传参考图",
@@ -288,7 +288,7 @@ window.registerProject({
       "refs": [
         {
           "label": "上传参考图",
-          "src": "../../assets/media/img-311a51ba5831a70a3813.png"
+          "src": "../../assets/media/img-311a51ba5831a70a3813.webp"
         },
         {
           "label": "上传参考图",
@@ -296,11 +296,11 @@ window.registerProject({
         },
         {
           "label": "上传参考图",
-          "src": "../../assets/media/img-58d1ff15b7cc84b068c9.png"
+          "src": "../../assets/media/img-58d1ff15b7cc84b068c9.webp"
         },
         {
           "label": "上传参考图",
-          "src": "../../assets/media/img-fede48ec5b2fbbc11f23.png"
+          "src": "../../assets/media/img-fede48ec5b2fbbc11f23.webp"
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/deepwater-bluebeard-ep008--f42ecb070c06d757b03b.mp4",

@@ -95,11 +95,11 @@ window.registerProject({
       "refs": [
         {
           "label": "上传参考图",
-          "src": "../../assets/media/img-40947aec3cdda0f6d275.png"
+          "src": "../../assets/media/img-40947aec3cdda0f6d275.webp"
         },
         {
           "label": "上传参考图",
-          "src": "../../assets/media/img-769a049cbb3d21209555.png"
+          "src": "../../assets/media/img-769a049cbb3d21209555.webp"
         },
         {
           "label": "上传参考图",
@@ -135,7 +135,7 @@ window.registerProject({
       "refs": [
         {
           "label": "上传参考图",
-          "src": "../../assets/media/img-40947aec3cdda0f6d275.png"
+          "src": "../../assets/media/img-40947aec3cdda0f6d275.webp"
         },
         {
           "label": "上传参考图",
@@ -143,11 +143,11 @@ window.registerProject({
         },
         {
           "label": "上传参考图",
-          "src": "../../assets/media/img-2b9f14881bcfd6c87949.png"
+          "src": "../../assets/media/img-2b9f14881bcfd6c87949.webp"
         },
         {
           "label": "上传参考图",
-          "src": "../../assets/media/img-769a049cbb3d21209555.png"
+          "src": "../../assets/media/img-769a049cbb3d21209555.webp"
         },
         {
           "label": "上传参考图",
@@ -183,7 +183,7 @@ window.registerProject({
       "refs": [
         {
           "label": "上传参考图",
-          "src": "../../assets/media/img-40947aec3cdda0f6d275.png"
+          "src": "../../assets/media/img-40947aec3cdda0f6d275.webp"
         },
         {
           "label": "上传参考图",
@@ -191,7 +191,7 @@ window.registerProject({
         },
         {
           "label": "上传参考图",
-          "src": "../../assets/media/img-5b4ab4717436b0d6fbd1.png"
+          "src": "../../assets/media/img-5b4ab4717436b0d6fbd1.webp"
         },
         {
           "label": "上传参考图",
@@ -199,7 +199,7 @@ window.registerProject({
         },
         {
           "label": "上传参考图",
-          "src": "../../assets/media/img-2b9f14881bcfd6c87949.png"
+          "src": "../../assets/media/img-2b9f14881bcfd6c87949.webp"
         },
         {
           "label": "上传参考图",
@@ -235,7 +235,7 @@ window.registerProject({
       "refs": [
         {
           "label": "上传参考图",
-          "src": "../../assets/media/img-40947aec3cdda0f6d275.png"
+          "src": "../../assets/media/img-40947aec3cdda0f6d275.webp"
         },
         {
           "label": "上传参考图",
@@ -243,7 +243,7 @@ window.registerProject({
         },
         {
           "label": "上传参考图",
-          "src": "../../assets/media/img-5b4ab4717436b0d6fbd1.png"
+          "src": "../../assets/media/img-5b4ab4717436b0d6fbd1.webp"
         },
         {
           "label": "上传参考图",
@@ -251,7 +251,7 @@ window.registerProject({
         },
         {
           "label": "上传参考图",
-          "src": "../../assets/media/img-2b9f14881bcfd6c87949.png"
+          "src": "../../assets/media/img-2b9f14881bcfd6c87949.webp"
         },
         {
           "label": "上传参考图",
@@ -287,11 +287,11 @@ window.registerProject({
       "refs": [
         {
           "label": "上传参考图",
-          "src": "../../assets/media/img-40947aec3cdda0f6d275.png"
+          "src": "../../assets/media/img-40947aec3cdda0f6d275.webp"
         },
         {
           "label": "上传参考图",
-          "src": "../../assets/media/img-58d1ff15b7cc84b068c9.png"
+          "src": "../../assets/media/img-58d1ff15b7cc84b068c9.webp"
         },
         {
           "label": "上传参考图",
@@ -299,7 +299,7 @@ window.registerProject({
         },
         {
           "label": "上传参考图",
-          "src": "../../assets/media/img-5b4ab4717436b0d6fbd1.png"
+          "src": "../../assets/media/img-5b4ab4717436b0d6fbd1.webp"
         },
         {
           "label": "上传参考图",
@@ -307,7 +307,7 @@ window.registerProject({
         },
         {
           "label": "上传参考图",
-          "src": "../../assets/media/img-2b9f14881bcfd6c87949.png"
+          "src": "../../assets/media/img-2b9f14881bcfd6c87949.webp"
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/deepwater-bluebeard-ep001--ddc00ccb15a097df3a83.mp4",

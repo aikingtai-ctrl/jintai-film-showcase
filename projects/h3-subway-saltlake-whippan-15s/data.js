@@ -72,7 +72,7 @@ window.registerProject({
       "name": "图 1 主角 · V2 定妆",
       "role": "全片连续性锚点",
       "look": "浅蓝衬衫与深炭灰复古羊毛大衣主角。",
-      "image": "media/img-17ac7cbdc1091767dfd2.png",
+      "image": "media/img-17ac7cbdc1091767dfd2.webp",
       "uses": 2
     }
   ],
@@ -97,7 +97,7 @@ window.registerProject({
       "refs": [
         {
           "label": "V2 主角定妆图",
-          "src": "media/img-17ac7cbdc1091767dfd2.png"
+          "src": "media/img-17ac7cbdc1091767dfd2.webp"
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/h3-subway-saltlake-whippan-15s--16172344b48a37caf638.mp4",
@@ -118,7 +118,7 @@ window.registerProject({
       "refs": [
         {
           "label": "V2 主角定妆图",
-          "src": "media/img-17ac7cbdc1091767dfd2.png"
+          "src": "media/img-17ac7cbdc1091767dfd2.webp"
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/h3-subway-saltlake-whippan-15s--950198f5da1d480b2c3c.mp4",

@@ -282,7 +282,7 @@ window.registerProject({
       "id": "SC14",
       "name": "SC14_东坡松林_乌鸦造窝",
       "kind": "场景",
-      "image": "media/img-e84b1481b2543f41d34e.png",
+      "image": "media/img-e84b1481b2543f41d34e.webp",
       "uses": 0,
       "nodeId": "m8ETSVXRiyD2P7xLSia9H"
     },

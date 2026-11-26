@@ -72,7 +72,7 @@ window.registerProject({
       "name": "图 1 主角 · V2 定妆",
       "role": "全片连续性锚点",
       "look": "深灰色湿羊毛长风衣主角；与黑衣蒙面忍者对峙。",
-      "image": "media/img-7369fc06f214c45d847e.png",
+      "image": "media/img-7369fc06f214c45d847e.webp",
       "uses": 4
     }
   ],
@@ -97,7 +97,7 @@ window.registerProject({
       "refs": [
         {
           "label": "V2 主角定妆图",
-          "src": "media/img-7369fc06f214c45d847e.png"
+          "src": "media/img-7369fc06f214c45d847e.webp"
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/h3-observatory-bullet-time-15s--2465210f86c83c726539.mp4",
@@ -118,7 +118,7 @@ window.registerProject({
       "refs": [
         {
           "label": "V2 主角定妆图",
-          "src": "media/img-7369fc06f214c45d847e.png"
+          "src": "media/img-7369fc06f214c45d847e.webp"
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/h3-observatory-bullet-time-15s--c927bafccd213c1a66a7.mp4",
@@ -139,7 +139,7 @@ window.registerProject({
       "refs": [
         {
           "label": "V2 主角定妆图",
-          "src": "media/img-7369fc06f214c45d847e.png"
+          "src": "media/img-7369fc06f214c45d847e.webp"
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/h3-observatory-bullet-time-15s--7ad1260a2191dadc7d5a.mp4",
@@ -160,7 +160,7 @@ window.registerProject({
       "refs": [
         {
           "label": "V2 主角定妆图",
-          "src": "media/img-7369fc06f214c45d847e.png"
+          "src": "media/img-7369fc06f214c45d847e.webp"
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/h3-observatory-bullet-time-15s--169679332d11f2d2d711.mp4",

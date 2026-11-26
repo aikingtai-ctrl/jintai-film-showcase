@@ -72,7 +72,7 @@ window.registerProject({
       "name": "图 1 主角 · V2 定妆",
       "role": "全片连续性锚点",
       "look": "哑光黑色羊毛长风衣、深灰高领衫与黑靴主角。",
-      "image": "media/img-99b870935b3026c3a7c5.png",
+      "image": "media/img-99b870935b3026c3a7c5.webp",
       "uses": 1
     }
   ],
@@ -97,7 +97,7 @@ window.registerProject({
       "refs": [
         {
           "label": "V2 主角定妆图",
-          "src": "media/img-99b870935b3026c3a7c5.png"
+          "src": "media/img-99b870935b3026c3a7c5.webp"
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/h3-four-worlds-orbit-15s--6fdaffdd16c4757413c4.mp4",

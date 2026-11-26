@@ -224,7 +224,7 @@ window.registerProject({
       "refs": [
         {
           "label": "首帧图 · S01 首帧图·长安鸟瞰",
-          "src": "media/img-f9479df210e33a130c98.png"
+          "src": "media/img-f9479df210e33a130c98.webp"
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/tanghun-ep1--bd1b7b2b6d4009e44767.mp4",
@@ -260,7 +260,7 @@ window.registerProject({
         },
         {
           "label": "首帧图 · S02 首帧图·竹林雅集",
-          "src": "media/img-37ff6d8f199ff0a65b2a.png"
+          "src": "media/img-37ff6d8f199ff0a65b2a.webp"
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/tanghun-ep1--eae091f05f9c06e2d760.mp4",
@@ -292,7 +292,7 @@ window.registerProject({
       "refs": [
         {
           "label": "首帧图 · S03 首帧图·片名卡",
-          "src": "media/img-d7c21d9df0f78821f393.png"
+          "src": "media/img-d7c21d9df0f78821f393.webp"
         },
         {
           "label": "硬黄纸诗卷",
@@ -332,7 +332,7 @@ window.registerProject({
         },
         {
           "label": "首帧图 · S04 首帧图·客舍晨雨",
-          "src": "media/img-eb57ecaf1ebc39505dd5.png"
+          "src": "media/img-eb57ecaf1ebc39505dd5.webp"
         },
         {
           "label": "王维",
@@ -384,7 +384,7 @@ window.registerProject({
         },
         {
           "label": "首帧图 · S05 首帧图·王维客舍",
-          "src": "media/img-12bf2b8313e5f03b336c.png"
+          "src": "media/img-12bf2b8313e5f03b336c.webp"
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/tanghun-ep1--176d668889832871410b.mp4",
@@ -420,7 +420,7 @@ window.registerProject({
         },
         {
           "label": "首帧图 · S06 首帧图·数字人近景",
-          "src": "media/img-4018b62b9ad8d7cb4cdb.png"
+          "src": "media/img-4018b62b9ad8d7cb4cdb.webp"
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/tanghun-ep1--b83f5b66408203a7de30.mp4",
@@ -452,7 +452,7 @@ window.registerProject({
       "refs": [
         {
           "label": "首帧图 · S07 首帧图·石板雨痕",
-          "src": "media/img-27a4c33b3cda93acbe19.png"
+          "src": "media/img-27a4c33b3cda93acbe19.webp"
         },
         {
           "label": "元二",
@@ -460,7 +460,7 @@ window.registerProject({
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/tanghun-ep1--ecb0c7f245fd3445ee5c.mp4",
-      "thumb": "media/img-27a4c33b3cda93acbe19.png",
+      "thumb": "media/img-27a4c33b3cda93acbe19.webp",
       "model": "seedance2.5",
       "params": "10s · seedance2.5 · 16:9 · jimeng_multimodal2video",
       "status": "已生成",
@@ -492,7 +492,7 @@ window.registerProject({
         },
         {
           "label": "首帧图 · S08 首帧图·柳枝近景",
-          "src": "media/img-ca410e55612cabf212a9.png"
+          "src": "media/img-ca410e55612cabf212a9.webp"
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/tanghun-ep1--776f5860f117a256d4d4.mp4",
@@ -536,11 +536,11 @@ window.registerProject({
         },
         {
           "label": "首帧图 · S09 首帧图·对坐举杯",
-          "src": "media/img-a4a74d1ba948e1bf061e.png"
+          "src": "media/img-a4a74d1ba948e1bf061e.webp"
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/tanghun-ep1--60bac0d1aa344743788d.mp4",
-      "thumb": "media/img-a4a74d1ba948e1bf061e.png",
+      "thumb": "media/img-a4a74d1ba948e1bf061e.webp",
       "model": "seedance2.5",
       "params": "10s · seedance2.5 · 16:9 · jimeng_multimodal2video",
       "status": "已生成",
@@ -572,7 +572,7 @@ window.registerProject({
         },
         {
           "label": "首帧图 · S10 首帧图·阳关落日",
-          "src": "media/img-38b879b22d0bab9b2e3b.png"
+          "src": "media/img-38b879b22d0bab9b2e3b.webp"
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/tanghun-ep1--fa8f708caefd1cd22ac6.mp4",

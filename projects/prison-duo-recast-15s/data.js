@@ -77,7 +77,7 @@ window.registerProject({
         },
         {
           "label": "上传参考图",
-          "src": "media/img-c9fe1d3a316a27923c11.png"
+          "src": "media/img-c9fe1d3a316a27923c11.webp"
         },
         {
           "label": "上传参考图",

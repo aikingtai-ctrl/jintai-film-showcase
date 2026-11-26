@@ -71,21 +71,21 @@ window.registerProject({
       "id": "SCN-V2-01",
       "name": "弹球 01 · 大院全景（手势V2 9:16 2K 终版）",
       "desc": "画布 319「图像生成 #4」产出：锁定红砖木窗家属房、二八自行车、树荫、三名10岁男孩蹲姿及校正后的紧凑握拳手势与5cm小浅坑。",
-      "image": "media/img-54f759d4abada39f8f29.png",
+      "image": "media/img-54f759d4abada39f8f29.webp",
       "uses": 1
     },
     {
       "id": "SCN-V2-02",
       "name": "弹球 02 · 树旁背侧换位视角（手势V2 9:16 2K 终版）",
       "desc": "画布 319「图像生成 #6」产出：摄影机绕至右侧大树旁，以三分之四背侧角度斜看三名男孩与地面浅坑，用于 23–30 秒终幕切镜锚定。",
-      "image": "media/img-d03ef866904b2aa92f94.png",
+      "image": "media/img-d03ef866904b2aa92f94.webp",
       "uses": 1
     },
     {
       "id": "SCN-V2-03",
       "name": "弹球 03 · 握球蓄力近景（手势V2 9:16 2K 终版）",
       "desc": "画布 319「图像生成 #5」产出：严格依据真实弹珠教学实拍结构重绘——食指中指夹住15mm蓝球，中指弯曲环抱弯入拳内的拇指蓄力。",
-      "image": "media/img-cc7f7875378f9c30b90a.png",
+      "image": "media/img-cc7f7875378f9c30b90a.webp",
       "uses": 1
     }
   ],
@@ -108,14 +108,14 @@ window.registerProject({
       "id": "IG-V1-WIDE",
       "name": "画布 319 · 图像生成 #2（9:16 初版全景+填平大坑）",
       "desc": "kie_gpt_image_2_i2i 2K 竖屏重绘，将初稿夸张大洞修平为直径 5cm 深 1cm 的真实浅凹。",
-      "image": "media/img-5bc1a2928e6e80b94d3d.png",
+      "image": "media/img-5bc1a2928e6e80b94d3d.webp",
       "uses": 1
     },
     {
       "id": "IG-V1-SIDE",
       "name": "画布 319 · 图像生成 #3（9:16 初版换位机位）",
       "desc": "kie_gpt_image_2_i2i 2K 竖屏重绘，首次建立树旁斜向透视换位机位。",
-      "image": "media/img-5674e969bfc07a285331.png",
+      "image": "media/img-5674e969bfc07a285331.webp",
       "uses": 1
     }
   ],
@@ -157,15 +157,15 @@ window.registerProject({
       "refs": [
         {
           "label": "@image1 大院全景（手势V2 9:16）",
-          "src": "media/img-54f759d4abada39f8f29.png"
+          "src": "media/img-54f759d4abada39f8f29.webp"
         },
         {
           "label": "@image2 紧凑握拳蓄力近景（手势V2 9:16）",
-          "src": "media/img-cc7f7875378f9c30b90a.png"
+          "src": "media/img-cc7f7875378f9c30b90a.webp"
         },
         {
           "label": "@image3 树旁背侧换位视角（手势V2 9:16）",
-          "src": "media/img-d03ef866904b2aa92f94.png"
+          "src": "media/img-d03ef866904b2aa92f94.webp"
         },
         {
           "label": "30秒成片审片接触表",
@@ -205,11 +205,11 @@ window.registerProject({
       "refs": [
         {
           "label": "@image1 大院全景（9:16初版）",
-          "src": "media/img-5bc1a2928e6e80b94d3d.png"
+          "src": "media/img-5bc1a2928e6e80b94d3d.webp"
         },
         {
           "label": "@image2 曲指托球近景（9:16初版）",
-          "src": "media/img-f741784f802e9c41567b.png"
+          "src": "media/img-f741784f802e9c41567b.webp"
         },
         {
           "label": "10秒竖屏审片接触表",

@@ -104,7 +104,7 @@ window.registerProject({
       "id": "AUDIT-4V",
       "name": "Round 3 影视四联标准检视板",
       "desc": "终审版声画四联板。",
-      "image": "media/img-f68e3f4df2e0a5769f24.png"
+      "image": "media/img-f68e3f4df2e0a5769f24.webp"
     },
     {
       "id": "R3-8PT",
@@ -126,7 +126,7 @@ window.registerProject({
       "refs": [
         {
           "label": "Round 3 四联检视板",
-          "src": "media/img-f68e3f4df2e0a5769f24.png"
+          "src": "media/img-f68e3f4df2e0a5769f24.webp"
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/abandoned-hall-greybox-h3-8s--652c6d4decb2f8a4d2a7.mp4",
@@ -147,7 +147,7 @@ window.registerProject({
       "refs": [
         {
           "label": "Round 3 四联检视板",
-          "src": "media/img-f68e3f4df2e0a5769f24.png"
+          "src": "media/img-f68e3f4df2e0a5769f24.webp"
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/abandoned-hall-greybox-h3-8s--96583c0fd1e11f352d3d.mp4",
@@ -168,7 +168,7 @@ window.registerProject({
       "refs": [
         {
           "label": "Round 3 四联检视板",
-          "src": "media/img-f68e3f4df2e0a5769f24.png"
+          "src": "media/img-f68e3f4df2e0a5769f24.webp"
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/abandoned-hall-greybox-h3-8s--cdc327a4ea112d730237.mp4",
@@ -189,7 +189,7 @@ window.registerProject({
       "refs": [
         {
           "label": "Round 3 四联检视板",
-          "src": "media/img-f68e3f4df2e0a5769f24.png"
+          "src": "media/img-f68e3f4df2e0a5769f24.webp"
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/abandoned-hall-greybox-h3-8s--b3a2b16da98dc3b2b903.mp4",

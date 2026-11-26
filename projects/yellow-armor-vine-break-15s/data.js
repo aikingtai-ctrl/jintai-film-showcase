@@ -71,7 +71,7 @@ window.registerProject({
         },
         {
           "label": "上传参考图",
-          "src": "media/img-3560276b6c0c3477ab23.png"
+          "src": "media/img-3560276b6c0c3477ab23.webp"
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/yellow-armor-vine-break-15s--d882602ef4eefe248778.mp4",

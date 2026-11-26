@@ -77,7 +77,7 @@ window.registerProject({
       "id": "REF-S02",
       "name": "S02 首帧 · 王永利接雨",
       "kind": "参考图",
-      "image": "media/img-96512db171af8ed4fb59.png",
+      "image": "media/img-96512db171af8ed4fb59.webp",
       "uses": 1,
       "nodeId": "iKNosjaE7lYwQCKa9QkDz"
     },
@@ -85,7 +85,7 @@ window.registerProject({
       "id": "REF-S19",
       "name": "S19 首帧 · 王永利讲述",
       "kind": "参考图",
-      "image": "media/img-faa0496884f2876c689d.png",
+      "image": "media/img-faa0496884f2876c689d.webp",
       "uses": 1,
       "nodeId": "VoEvtjCi2rOwuo6mfsT9z"
     }
@@ -194,7 +194,7 @@ window.registerProject({
         },
         {
           "label": "REF-S02 S02 首帧 · 王永利接雨",
-          "src": "media/img-96512db171af8ed4fb59.png"
+          "src": "media/img-96512db171af8ed4fb59.webp"
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/tanghun-ep7--29787b36384bdbed5a69.mp4",
@@ -262,7 +262,7 @@ window.registerProject({
       "refs": [
         {
           "label": "上传参考图",
-          "src": "media/img-553be4bc12ad8f52dd65.png"
+          "src": "media/img-553be4bc12ad8f52dd65.webp"
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/tanghun-ep7--5b0193428080e121185b.mp4",
@@ -294,7 +294,7 @@ window.registerProject({
       "refs": [
         {
           "label": "上传参考图",
-          "src": "media/img-c18f3dff6c0d0ed08c5b.png"
+          "src": "media/img-c18f3dff6c0d0ed08c5b.webp"
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/tanghun-ep7--089590b6e2e0a231f201.mp4",
@@ -326,7 +326,7 @@ window.registerProject({
       "refs": [
         {
           "label": "上传参考图",
-          "src": "media/img-8f751a3f75f5bad39ef7.png"
+          "src": "media/img-8f751a3f75f5bad39ef7.webp"
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/tanghun-ep7--92d610269b457d3bfaf7.mp4",
@@ -358,7 +358,7 @@ window.registerProject({
       "refs": [
         {
           "label": "上传参考图",
-          "src": "media/img-ceedc10e267fbf7fab51.png"
+          "src": "media/img-ceedc10e267fbf7fab51.webp"
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/tanghun-ep7--59b62f5e111480af38a4.mp4",
@@ -454,7 +454,7 @@ window.registerProject({
       "refs": [
         {
           "label": "上传参考图",
-          "src": "media/img-65f64c0c2a210ce438c8.png"
+          "src": "media/img-65f64c0c2a210ce438c8.webp"
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/tanghun-ep7--ef3a88d248e881124c6d.mp4",
@@ -518,7 +518,7 @@ window.registerProject({
       "refs": [
         {
           "label": "上传参考图",
-          "src": "media/img-40ea602b1a3acd7ede8e.png"
+          "src": "media/img-40ea602b1a3acd7ede8e.webp"
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/tanghun-ep7--2f3ab20c4e0bc9b81669.mp4",
@@ -586,7 +586,7 @@ window.registerProject({
       "refs": [
         {
           "label": "上传参考图",
-          "src": "media/img-bac14a8ab6500f2aec84.png"
+          "src": "media/img-bac14a8ab6500f2aec84.webp"
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/tanghun-ep7--db9185ca0fc2cad7219d.mp4",
@@ -618,7 +618,7 @@ window.registerProject({
       "refs": [
         {
           "label": "上传参考图",
-          "src": "media/img-cf2d2d9a4b56588c5bdd.png"
+          "src": "media/img-cf2d2d9a4b56588c5bdd.webp"
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/tanghun-ep7--284cfe53ff4ad13b3b77.mp4",
@@ -650,7 +650,7 @@ window.registerProject({
       "refs": [
         {
           "label": "上传参考图",
-          "src": "media/img-5e6d0b93463828b6c941.png"
+          "src": "media/img-5e6d0b93463828b6c941.webp"
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/tanghun-ep7--1376aa6337a975ab207b.mp4",
@@ -714,11 +714,11 @@ window.registerProject({
       "refs": [
         {
           "label": "上传参考图",
-          "src": "media/img-50fc9a857c82af8090a7.png"
+          "src": "media/img-50fc9a857c82af8090a7.webp"
         },
         {
           "label": "上传参考图",
-          "src": "media/img-769579fd0853740ec110.png"
+          "src": "media/img-769579fd0853740ec110.webp"
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/tanghun-ep7--776b971b8486060c9f62.mp4",
@@ -750,7 +750,7 @@ window.registerProject({
       "refs": [
         {
           "label": "上传参考图",
-          "src": "media/img-9062a91f0c78baba3bca.png"
+          "src": "media/img-9062a91f0c78baba3bca.webp"
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/tanghun-ep7--437ad926364e112342a8.mp4",
@@ -782,11 +782,11 @@ window.registerProject({
       "refs": [
         {
           "label": "上传参考图",
-          "src": "media/img-88c94692923c6554d12a.png"
+          "src": "media/img-88c94692923c6554d12a.webp"
         },
         {
           "label": "上传参考图",
-          "src": "media/img-46f153ce4e6e5a376536.png"
+          "src": "media/img-46f153ce4e6e5a376536.webp"
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/tanghun-ep7--0b93f8a42cc115402d21.mp4",
@@ -818,11 +818,11 @@ window.registerProject({
       "refs": [
         {
           "label": "上传参考图",
-          "src": "media/img-46f153ce4e6e5a376536.png"
+          "src": "media/img-46f153ce4e6e5a376536.webp"
         },
         {
           "label": "上传参考图",
-          "src": "media/img-0a8caecc126001a7e606.png"
+          "src": "media/img-0a8caecc126001a7e606.webp"
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/tanghun-ep7--ecf675fd981af9506f1d.mp4",
@@ -854,7 +854,7 @@ window.registerProject({
       "refs": [
         {
           "label": "上传参考图",
-          "src": "media/img-db5100bc99ff6077634a.png"
+          "src": "media/img-db5100bc99ff6077634a.webp"
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/tanghun-ep7--165f576382826fba0548.mp4",
@@ -886,7 +886,7 @@ window.registerProject({
       "refs": [
         {
           "label": "REF-S19 S19 首帧 · 王永利讲述",
-          "src": "media/img-faa0496884f2876c689d.png"
+          "src": "media/img-faa0496884f2876c689d.webp"
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/tanghun-ep7--ef9b194d65558b497636.mp4",
@@ -922,7 +922,7 @@ window.registerProject({
         },
         {
           "label": "上传参考图",
-          "src": "media/img-db5100bc99ff6077634a.png"
+          "src": "media/img-db5100bc99ff6077634a.webp"
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/tanghun-ep7--6f26cbbbae74d48b3a3a.mp4",
@@ -954,7 +954,7 @@ window.registerProject({
       "refs": [
         {
           "label": "上传参考图",
-          "src": "media/img-b0eb4bc0fde6af58459b.png"
+          "src": "media/img-b0eb4bc0fde6af58459b.webp"
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/tanghun-ep7--a877043230ee19059454.mp4",
@@ -1005,7 +1005,7 @@ window.registerProject({
     {
       "name": "素材 · S20 水墨手卷首帧",
       "note": "参考图 · S20 尾声水墨手卷",
-      "src": "media/img-b0eb4bc0fde6af58459b.png"
+      "src": "media/img-b0eb4bc0fde6af58459b.webp"
     },
     {
       "name": "AI Video Canvas · 画布 308",

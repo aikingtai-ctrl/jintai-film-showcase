@@ -65,7 +65,7 @@ window.registerProject({
       "refs": [
         {
           "label": "上传参考图",
-          "src": "media/img-300d4ee11d6824903072.png"
+          "src": "media/img-300d4ee11d6824903072.webp"
         },
         {
           "label": "上传参考图",
@@ -73,7 +73,7 @@ window.registerProject({
         },
         {
           "label": "上传参考图",
-          "src": "media/img-85489aafddf29e0d94fb.png"
+          "src": "media/img-85489aafddf29e0d94fb.webp"
         }
       ],
       "video": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/ai-dance-trio-recast-15s--ca46702cb7caca82c761.mp4",
