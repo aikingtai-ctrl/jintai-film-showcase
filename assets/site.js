@@ -10,7 +10,7 @@
   const tcOf = (sh) => sh.tc || (sh.start != null ? `${fmtDur(sh.start)}–${fmtDur(sh.start + (sh.duration || 0))}` : "");
 
   function loadScript(src) {
-    return new Promise((res, rej) => { const s = document.createElement("script"); s.src = src + "?v=20261123-1"; s.onload = res; s.onerror = () => rej(new Error("加载失败 " + src)); document.head.appendChild(s); });
+    return new Promise((res, rej) => { const s = document.createElement("script"); s.src = src + "?v=20261126-1"; s.onload = res; s.onerror = () => rej(new Error("加载失败 " + src)); document.head.appendChild(s); });
   }
   async function loadAll() {
     await loadScript("projects/index.js");

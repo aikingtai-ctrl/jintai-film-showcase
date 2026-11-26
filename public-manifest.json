@@ -3,6 +3,10 @@
   "repository": "aikingtai-ctrl/jintai-film-showcase",
   "releaseTag": "media-v1",
   "projects": [
+    "h3-observatory-bullet-time-15s",
+    "h3-subway-saltlake-whippan-15s",
+    "h3-desert-pupil-sandstorm-15s",
+    "h3-four-worlds-orbit-15s",
     "please-answer-179s",
     "office-raid-recast-25s",
     "deepwater-bluebeard-ep010",
@@ -74,6 +78,111 @@
     "demo-night-keeper"
   ],
   "images": [
+    {
+      "projectId": "h3-observatory-bullet-time-15s",
+      "path": "projects/h3-observatory-bullet-time-15s/media/img-f63e55e9d937fdbb60a7.jpg",
+      "bytes": 53677
+    },
+    {
+      "projectId": "h3-observatory-bullet-time-15s",
+      "path": "projects/h3-observatory-bullet-time-15s/media/img-7369fc06f214c45d847e.png",
+      "bytes": 7141236
+    },
+    {
+      "projectId": "h3-observatory-bullet-time-15s",
+      "path": "projects/h3-observatory-bullet-time-15s/media/img-5986ae76b4ba122b1d06.jpg",
+      "bytes": 819020
+    },
+    {
+      "projectId": "h3-observatory-bullet-time-15s",
+      "path": "projects/h3-observatory-bullet-time-15s/media/img-55ba44c4238c88d3cf07.jpg",
+      "bytes": 52792
+    },
+    {
+      "projectId": "h3-observatory-bullet-time-15s",
+      "path": "projects/h3-observatory-bullet-time-15s/media/img-37b4b1858802da533ebe.jpg",
+      "bytes": 40976
+    },
+    {
+      "projectId": "h3-observatory-bullet-time-15s",
+      "path": "projects/h3-observatory-bullet-time-15s/media/img-c818fc6d135c0bff4d20.jpg",
+      "bytes": 56953
+    },
+    {
+      "projectId": "h3-observatory-bullet-time-15s",
+      "path": "projects/h3-observatory-bullet-time-15s/media/img-8eae3e8b31938d3a99b4.jpg",
+      "bytes": 35622
+    },
+    {
+      "projectId": "h3-subway-saltlake-whippan-15s",
+      "path": "projects/h3-subway-saltlake-whippan-15s/media/img-4b8f691a450d98af78c9.jpg",
+      "bytes": 46221
+    },
+    {
+      "projectId": "h3-subway-saltlake-whippan-15s",
+      "path": "projects/h3-subway-saltlake-whippan-15s/media/img-17ac7cbdc1091767dfd2.png",
+      "bytes": 6115878
+    },
+    {
+      "projectId": "h3-subway-saltlake-whippan-15s",
+      "path": "projects/h3-subway-saltlake-whippan-15s/media/img-8bd7e2fccd0bcf6bc6c2.jpg",
+      "bytes": 583248
+    },
+    {
+      "projectId": "h3-subway-saltlake-whippan-15s",
+      "path": "projects/h3-subway-saltlake-whippan-15s/media/img-cf81cd56efc59c4607df.jpg",
+      "bytes": 45819
+    },
+    {
+      "projectId": "h3-subway-saltlake-whippan-15s",
+      "path": "projects/h3-subway-saltlake-whippan-15s/media/img-0be7b45bd1d0724e17f0.jpg",
+      "bytes": 26332
+    },
+    {
+      "projectId": "h3-desert-pupil-sandstorm-15s",
+      "path": "projects/h3-desert-pupil-sandstorm-15s/media/img-715225c8b2457eaef82c.jpg",
+      "bytes": 38167
+    },
+    {
+      "projectId": "h3-desert-pupil-sandstorm-15s",
+      "path": "projects/h3-desert-pupil-sandstorm-15s/media/img-25c5b5a2c1799c41ea0a.png",
+      "bytes": 6442551
+    },
+    {
+      "projectId": "h3-desert-pupil-sandstorm-15s",
+      "path": "projects/h3-desert-pupil-sandstorm-15s/media/img-08d371cc8bffb8050273.jpg",
+      "bytes": 475289
+    },
+    {
+      "projectId": "h3-desert-pupil-sandstorm-15s",
+      "path": "projects/h3-desert-pupil-sandstorm-15s/media/img-298eeb431b836c47d855.jpg",
+      "bytes": 38885
+    },
+    {
+      "projectId": "h3-desert-pupil-sandstorm-15s",
+      "path": "projects/h3-desert-pupil-sandstorm-15s/media/img-8c2b32ede11f7a5f6d0a.jpg",
+      "bytes": 12234
+    },
+    {
+      "projectId": "h3-four-worlds-orbit-15s",
+      "path": "projects/h3-four-worlds-orbit-15s/media/img-7cfe6bee3a8a234f3a55.jpg",
+      "bytes": 39736
+    },
+    {
+      "projectId": "h3-four-worlds-orbit-15s",
+      "path": "projects/h3-four-worlds-orbit-15s/media/img-99b870935b3026c3a7c5.png",
+      "bytes": 6042690
+    },
+    {
+      "projectId": "h3-four-worlds-orbit-15s",
+      "path": "projects/h3-four-worlds-orbit-15s/media/img-dec0daa4b06cbb96af98.jpg",
+      "bytes": 492809
+    },
+    {
+      "projectId": "h3-four-worlds-orbit-15s",
+      "path": "projects/h3-four-worlds-orbit-15s/media/img-98ce0dcff239544b1c53.jpg",
+      "bytes": 41058
+    },
     {
       "projectId": "please-answer-179s",
       "path": "projects/please-answer-179s/media/img-aba1ed42c2b54dc3cbf3.jpg",
@@ -4671,6 +4780,78 @@
     }
   ],
   "media": [
+    {
+      "projectId": "h3-observatory-bullet-time-15s",
+      "assetName": "h3-observatory-bullet-time-15s--19a1c4842ae52a061e31.mp4",
+      "bytes": 33589548,
+      "url": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/h3-observatory-bullet-time-15s--19a1c4842ae52a061e31.mp4"
+    },
+    {
+      "projectId": "h3-observatory-bullet-time-15s",
+      "assetName": "h3-observatory-bullet-time-15s--2465210f86c83c726539.mp4",
+      "bytes": 4758256,
+      "url": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/h3-observatory-bullet-time-15s--2465210f86c83c726539.mp4"
+    },
+    {
+      "projectId": "h3-observatory-bullet-time-15s",
+      "assetName": "h3-observatory-bullet-time-15s--c927bafccd213c1a66a7.mp4",
+      "bytes": 5357041,
+      "url": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/h3-observatory-bullet-time-15s--c927bafccd213c1a66a7.mp4"
+    },
+    {
+      "projectId": "h3-observatory-bullet-time-15s",
+      "assetName": "h3-observatory-bullet-time-15s--7ad1260a2191dadc7d5a.mp4",
+      "bytes": 4485860,
+      "url": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/h3-observatory-bullet-time-15s--7ad1260a2191dadc7d5a.mp4"
+    },
+    {
+      "projectId": "h3-observatory-bullet-time-15s",
+      "assetName": "h3-observatory-bullet-time-15s--169679332d11f2d2d711.mp4",
+      "bytes": 5088494,
+      "url": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/h3-observatory-bullet-time-15s--169679332d11f2d2d711.mp4"
+    },
+    {
+      "projectId": "h3-subway-saltlake-whippan-15s",
+      "assetName": "h3-subway-saltlake-whippan-15s--6faf4a46e025915a33d2.mp4",
+      "bytes": 14151726,
+      "url": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/h3-subway-saltlake-whippan-15s--6faf4a46e025915a33d2.mp4"
+    },
+    {
+      "projectId": "h3-subway-saltlake-whippan-15s",
+      "assetName": "h3-subway-saltlake-whippan-15s--16172344b48a37caf638.mp4",
+      "bytes": 4233384,
+      "url": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/h3-subway-saltlake-whippan-15s--16172344b48a37caf638.mp4"
+    },
+    {
+      "projectId": "h3-subway-saltlake-whippan-15s",
+      "assetName": "h3-subway-saltlake-whippan-15s--950198f5da1d480b2c3c.mp4",
+      "bytes": 3180437,
+      "url": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/h3-subway-saltlake-whippan-15s--950198f5da1d480b2c3c.mp4"
+    },
+    {
+      "projectId": "h3-desert-pupil-sandstorm-15s",
+      "assetName": "h3-desert-pupil-sandstorm-15s--611afe49c687f1c4fddf.mp4",
+      "bytes": 21356772,
+      "url": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/h3-desert-pupil-sandstorm-15s--611afe49c687f1c4fddf.mp4"
+    },
+    {
+      "projectId": "h3-desert-pupil-sandstorm-15s",
+      "assetName": "h3-desert-pupil-sandstorm-15s--d34338621c46981beffa.mp4",
+      "bytes": 4736148,
+      "url": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/h3-desert-pupil-sandstorm-15s--d34338621c46981beffa.mp4"
+    },
+    {
+      "projectId": "h3-desert-pupil-sandstorm-15s",
+      "assetName": "h3-desert-pupil-sandstorm-15s--9ea675c1987687e31e65.mp4",
+      "bytes": 5690444,
+      "url": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/h3-desert-pupil-sandstorm-15s--9ea675c1987687e31e65.mp4"
+    },
+    {
+      "projectId": "h3-four-worlds-orbit-15s",
+      "assetName": "h3-four-worlds-orbit-15s--6fdaffdd16c4757413c4.mp4",
+      "bytes": 33319024,
+      "url": "https://github.com/aikingtai-ctrl/jintai-film-showcase/releases/download/media-v1/h3-four-worlds-orbit-15s--6fdaffdd16c4757413c4.mp4"
+    },
     {
       "projectId": "please-answer-179s",
       "assetName": "please-answer-179s--f97d71522c5769b595af.mp4",

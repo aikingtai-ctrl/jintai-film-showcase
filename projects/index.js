@@ -1,4 +1,8 @@
 window.SHOWCASE_INDEX = [
+  "h3-observatory-bullet-time-15s",
+  "h3-subway-saltlake-whippan-15s",
+  "h3-desert-pupil-sandstorm-15s",
+  "h3-four-worlds-orbit-15s",
   "please-answer-179s",
   "office-raid-recast-25s",
   "deepwater-bluebeard-ep010",
